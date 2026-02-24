@@ -1,16 +1,17 @@
 {
-  "generatedAt": "2026-02-24T09:50:12.425Z",
-  "totalAcceptedSubmissions": 3,
-  "uniqueProblemsSolved": 2,
-  "solvedToday": 3,
+  "generatedAt": "2026-02-24T09:58:04.597Z",
+  "totalAcceptedSubmissions": 4,
+  "uniqueProblemsSolved": 3,
+  "solvedToday": 4,
   "currentStreak": 1,
   "longestStreak": 1,
   "languageBreakdown": {
-    "cpp": 3
+    "cpp": 4
   },
   "topicBreakdown": {
     "string": 2,
-    "array": 1
+    "array": 1,
+    "binary-search": 1
   },
   "last7Days": [
     {
@@ -39,10 +40,18 @@
     },
     {
       "date": "2026-02-24",
-      "count": 3
+      "count": 4
     }
   ],
   "recentProblems": [
+    {
+      "title": "99. Recover Binary Search Tree",
+      "slug": "recover-binary-search-tree",
+      "language": "cpp",
+      "day": "2026-02-24",
+      "problemUrl": "https://leetcode.com/problems/recover-binary-search-tree/",
+      "solutionPath": "leetcode/recover-binary-search-tree-99.-recover-binary-search-tree/solution.cpp"
+    },
     {
       "title": "76. Minimum Window Substring",
       "slug": "minimum-window-substring",
@@ -66,6 +75,16 @@
       "title": "3095. Shortest Subarray With OR at Least K I",
       "problemUrl": "https://leetcode.com/problems/shortest-subarray-with-or-at-least-k-i/",
       "solutionPath": "leetcode/shortest-subarray-with-or-at-least-k-i-3095.-shortest-subarray-with-or-at-least-k-i/solution.cpp",
+      "attempts": 1,
+      "nextReviewDate": "2026-02-24",
+      "dueInDays": 0,
+      "status": "due"
+    },
+    {
+      "slug": "recover-binary-search-tree",
+      "title": "99. Recover Binary Search Tree",
+      "problemUrl": "https://leetcode.com/problems/recover-binary-search-tree/",
+      "solutionPath": "leetcode/recover-binary-search-tree-99.-recover-binary-search-tree/solution.cpp",
       "attempts": 1,
       "nextReviewDate": "2026-02-24",
       "dueInDays": 0,
@@ -102,16 +121,16 @@
       "url": "https://leetcode.com/problemset/?search=sliding%20window"
     },
     {
-      "topic": "binary-search",
-      "solved": 0,
-      "suggestion": "Practice more binary-search problems",
-      "url": "https://leetcode.com/problemset/?search=binary%20search"
-    },
-    {
       "topic": "tree",
       "solved": 0,
       "suggestion": "Practice more tree problems",
       "url": "https://leetcode.com/problemset/?search=tree"
+    },
+    {
+      "topic": "graph",
+      "solved": 0,
+      "suggestion": "Practice more graph problems",
+      "url": "https://leetcode.com/problemset/?search=graph"
     }
   ]
 }
