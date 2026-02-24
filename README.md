@@ -5,8 +5,8 @@
 
 | Problem | Language | File | Last Updated (UTC) |
 | --- | --- | --- | --- |
+| [76. Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | cpp | `leetcode/minimum-window-substring-76.-minimum-window-substring/solution.cpp` | 2026-02-24T09:50:10.868Z |
 | [3095. Shortest Subarray With OR at Least K I](https://leetcode.com/problems/shortest-subarray-with-or-at-least-k-i/) | cpp | `leetcode/shortest-subarray-with-or-at-least-k-i-3095.-shortest-subarray-with-or-at-least-k-i/solution.cpp` | 2026-02-24T08:58:51.528Z |
-| [76. Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | cpp | `leetcode/minimum-window-substring-76.-minimum-window-substring/solution.cpp` | 2026-02-24T08:49:47.125Z |
 | [76. Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | cpp | `leetcode/minimum-window-substring-76.-minimum-window-substring.cpp` | 2026-02-24T08:39:53.653Z |
 | [8. String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | cpp | `leetcode/string-to-integer-atoi-8.-string-to-integer-atoi.cpp` | 2026-02-24T07:46:13.227Z |
 | [12. Integer to Roman](https://leetcode.com/problems/integer-to-roman/) | cpp | `leetcode/integer-to-roman-12.-integer-to-roman.cpp` | 2026-02-24T07:01:57.506Z |
@@ -16,11 +16,11 @@
 <!-- LC2GH_ANALYTICS_START -->
 ## Progress Analytics
 
-- Total accepted submissions: **2**
+- Total accepted submissions: **3**
 - Unique problems solved: **2**
 - Current daily streak: **1** day(s)
 - Longest streak: **1** day(s)
-- Solved today: **2**
+- Solved today: **3**
 
 ### Last 7 Days
 
@@ -32,13 +32,13 @@
 | 2026-02-21 | 0 |
 | 2026-02-22 | 0 |
 | 2026-02-23 | 0 |
-| 2026-02-24 | 2 |
+| 2026-02-24 | 3 |
 
 ### Language Breakdown
 
 | Language | Count |
 | --- | --- |
-| cpp | 2 |
+| cpp | 3 |
 
 ### Recommended Next Practice
 
@@ -54,6 +54,6 @@
 
 | Problem | Next Review (UTC) | Status |
 | --- | --- | --- |
+| [3095. Shortest Subarray With OR at Least K I](https://leetcode.com/problems/shortest-subarray-with-or-at-least-k-i/) | 2026-02-24 | due |
 | [76. Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | 2026-02-25 | upcoming |
-| [3095. Shortest Subarray With OR at Least K I](https://leetcode.com/problems/shortest-subarray-with-or-at-least-k-i/) | 2026-02-25 | upcoming |
 <!-- LC2GH_ANALYTICS_END -->
