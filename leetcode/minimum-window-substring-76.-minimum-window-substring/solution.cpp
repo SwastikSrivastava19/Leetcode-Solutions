@@ -1,9 +1,6 @@
 // Problem: 76. Minimum Window Substring
 // URL: https://leetcode.com/problems/minimum-window-substring/
 // Language: cpp
-// Estimated Time Complexity: O(n^3)
-// Estimated Space Complexity: O(1)
-// Complexity Basis: 3+ loop constructs
 class Solution {
 public:
     string minWindow(string s, string t) {
