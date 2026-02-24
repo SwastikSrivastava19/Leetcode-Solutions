@@ -1,12 +1,16 @@
 {
-  "generatedAt": "2026-02-24T08:49:50.899Z",
-  "totalAcceptedSubmissions": 1,
-  "uniqueProblemsSolved": 1,
-  "solvedToday": 1,
+  "generatedAt": "2026-02-24T08:58:55.512Z",
+  "totalAcceptedSubmissions": 2,
+  "uniqueProblemsSolved": 2,
+  "solvedToday": 2,
   "currentStreak": 1,
   "longestStreak": 1,
   "languageBreakdown": {
-    "cpp": 1
+    "cpp": 2
+  },
+  "topicBreakdown": {
+    "string": 1,
+    "array": 1
   },
   "last7Days": [
     {
@@ -35,10 +39,18 @@
     },
     {
       "date": "2026-02-24",
-      "count": 1
+      "count": 2
     }
   ],
   "recentProblems": [
+    {
+      "title": "3095. Shortest Subarray With OR at Least K I",
+      "slug": "shortest-subarray-with-or-at-least-k-i",
+      "language": "cpp",
+      "day": "2026-02-24",
+      "problemUrl": "https://leetcode.com/problems/shortest-subarray-with-or-at-least-k-i/",
+      "solutionPath": "leetcode/shortest-subarray-with-or-at-least-k-i-3095.-shortest-subarray-with-or-at-least-k-i/solution.cpp"
+    },
     {
       "title": "76. Minimum Window Substring",
       "slug": "minimum-window-substring",
@@ -46,6 +58,60 @@
       "day": "2026-02-24",
       "problemUrl": "https://leetcode.com/problems/minimum-window-substring/",
       "solutionPath": "leetcode/minimum-window-substring-76.-minimum-window-substring/solution.cpp"
+    }
+  ],
+  "revisionQueue": [
+    {
+      "slug": "minimum-window-substring",
+      "title": "76. Minimum Window Substring",
+      "problemUrl": "https://leetcode.com/problems/minimum-window-substring/",
+      "solutionPath": "leetcode/minimum-window-substring-76.-minimum-window-substring/solution.cpp",
+      "attempts": 1,
+      "nextReviewDate": "2026-02-25",
+      "dueInDays": 1,
+      "status": "upcoming"
+    },
+    {
+      "slug": "shortest-subarray-with-or-at-least-k-i",
+      "title": "3095. Shortest Subarray With OR at Least K I",
+      "problemUrl": "https://leetcode.com/problems/shortest-subarray-with-or-at-least-k-i/",
+      "solutionPath": "leetcode/shortest-subarray-with-or-at-least-k-i-3095.-shortest-subarray-with-or-at-least-k-i/solution.cpp",
+      "attempts": 1,
+      "nextReviewDate": "2026-02-25",
+      "dueInDays": 1,
+      "status": "upcoming"
+    }
+  ],
+  "recommendations": [
+    {
+      "topic": "hash-map",
+      "solved": 0,
+      "suggestion": "Practice more hash-map problems",
+      "url": "https://leetcode.com/problemset/?search=hash%20map"
+    },
+    {
+      "topic": "two-pointers",
+      "solved": 0,
+      "suggestion": "Practice more two-pointers problems",
+      "url": "https://leetcode.com/problemset/?search=two%20pointers"
+    },
+    {
+      "topic": "sliding-window",
+      "solved": 0,
+      "suggestion": "Practice more sliding-window problems",
+      "url": "https://leetcode.com/problemset/?search=sliding%20window"
+    },
+    {
+      "topic": "binary-search",
+      "solved": 0,
+      "suggestion": "Practice more binary-search problems",
+      "url": "https://leetcode.com/problemset/?search=binary%20search"
+    },
+    {
+      "topic": "tree",
+      "solved": 0,
+      "suggestion": "Practice more tree problems",
+      "url": "https://leetcode.com/problemset/?search=tree"
     }
   ]
 }
