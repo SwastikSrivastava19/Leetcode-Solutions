@@ -1,0 +1,12 @@
+{
+  "title": "76. Minimum Window Substring",
+  "slug": "minimum-window-substring",
+  "problemUrl": "https://leetcode.com/problems/minimum-window-substring/",
+  "language": "cpp",
+  "submissionId": "1929438191",
+  "updatedAt": "2026-02-24T08:49:47.125Z",
+  "files": {
+    "solution": "leetcode/minimum-window-substring-76.-minimum-window-substring/solution.cpp",
+    "notes": "leetcode/minimum-window-substring-76.-minimum-window-substring/notes.md"
+  }
+}
