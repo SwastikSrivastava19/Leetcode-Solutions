@@ -1,0 +1,57 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>LeetCode Progress Dashboard</title>
+  <style>
+    body { font-family: Segoe UI, Arial, sans-serif; margin: 24px; color: #1d2433; background: #f6f7fb; }
+    .grid { display:grid; grid-template-columns: repeat(auto-fit,minmax(180px,1fr)); gap:12px; }
+    .card { background:#fff; border:1px solid #d8deea; border-radius:10px; padding:12px; }
+    h1,h2 { margin: 0 0 12px 0; }
+    .kpi { font-size: 26px; font-weight: 700; }
+    .bars { display:flex; gap:8px; align-items:flex-end; height:140px; }
+    .bar-wrap { display:flex; flex-direction:column; align-items:center; gap:4px; font-size:11px; color:#5a657a; }
+    .bar { width:18px; background:#1d4f8f; border-radius:4px 4px 0 0; }
+    table { width:100%; border-collapse:collapse; background:#fff; border:1px solid #d8deea; border-radius:10px; overflow:hidden; }
+    th, td { border-bottom:1px solid #edf0f7; text-align:left; padding:8px; font-size:13px; }
+    th { background:#f1f4fb; }
+    a { color:#1d4f8f; text-decoration:none; }
+  </style>
+</head>
+<body>
+  <h1>LeetCode Progress Dashboard</h1>
+  <div class="grid">
+    <div class="card"><div>Total Accepted</div><div class="kpi">2</div></div>
+    <div class="card"><div>Unique Solved</div><div class="kpi">2</div></div>
+    <div class="card"><div>Current Streak</div><div class="kpi">1</div></div>
+    <div class="card"><div>Longest Streak</div><div class="kpi">1</div></div>
+  </div>
+
+  <div class="card" style="margin-top:14px;">
+    <h2>Last 7 Days</h2>
+    <div class="bars"><div class="bar-wrap"><div class="bar" style="height:6px"></div><span>02-18</span></div><div class="bar-wrap"><div class="bar" style="height:6px"></div><span>02-19</span></div><div class="bar-wrap"><div class="bar" style="height:6px"></div><span>02-20</span></div><div class="bar-wrap"><div class="bar" style="height:6px"></div><span>02-21</span></div><div class="bar-wrap"><div class="bar" style="height:6px"></div><span>02-22</span></div><div class="bar-wrap"><div class="bar" style="height:6px"></div><span>02-23</span></div><div class="bar-wrap"><div class="bar" style="height:20px"></div><span>02-24</span></div></div>
+  </div>
+
+  <div class="grid" style="margin-top:14px;">
+    <div>
+      <h2>Language Breakdown</h2>
+      <table><thead><tr><th>Language</th><th>Count</th></tr></thead><tbody><tr><td>cpp</td><td>2</td></tr></tbody></table>
+    </div>
+    <div>
+      <h2>Topic Breakdown</h2>
+      <table><thead><tr><th>Topic</th><th>Count</th></tr></thead><tbody><tr><td>string</td><td>1</td></tr><tr><td>array</td><td>1</td></tr></tbody></table>
+    </div>
+  </div>
+
+  <div class="card" style="margin-top:14px;">
+    <h2>Recommendations</h2>
+    <ul><li><a href="https://leetcode.com/problemset/?search=hash%20map">hash-map</a> - Practice more hash-map problems (solved: 0)</li><li><a href="https://leetcode.com/problemset/?search=two%20pointers">two-pointers</a> - Practice more two-pointers problems (solved: 0)</li><li><a href="https://leetcode.com/problemset/?search=sliding%20window">sliding-window</a> - Practice more sliding-window problems (solved: 0)</li><li><a href="https://leetcode.com/problemset/?search=binary%20search">binary-search</a> - Practice more binary-search problems (solved: 0)</li><li><a href="https://leetcode.com/problemset/?search=tree">tree</a> - Practice more tree problems (solved: 0)</li></ul>
+  </div>
+
+  <div style="margin-top:14px;">
+    <h2>Revision Queue</h2>
+    <table><thead><tr><th>Problem</th><th>Next Review</th><th>Status</th><th>Due In (days)</th></tr></thead><tbody><tr><td><a href="https://leetcode.com/problems/minimum-window-substring/">76. Minimum Window Substring</a></td><td>2026-02-25</td><td>upcoming</td><td>1</td></tr><tr><td><a href="https://leetcode.com/problems/shortest-subarray-with-or-at-least-k-i/">3095. Shortest Subarray With OR at Least K I</a></td><td>2026-02-25</td><td>upcoming</td><td>1</td></tr></tbody></table>
+  </div>
+</body>
+</html>
