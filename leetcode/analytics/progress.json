@@ -1,17 +1,18 @@
 {
-  "generatedAt": "2026-02-24T09:58:04.597Z",
-  "totalAcceptedSubmissions": 4,
-  "uniqueProblemsSolved": 3,
-  "solvedToday": 4,
+  "generatedAt": "2026-02-24T10:40:22.470Z",
+  "totalAcceptedSubmissions": 5,
+  "uniqueProblemsSolved": 4,
+  "solvedToday": 5,
   "currentStreak": 1,
   "longestStreak": 1,
   "languageBreakdown": {
-    "cpp": 4
+    "cpp": 5
   },
   "topicBreakdown": {
     "string": 2,
     "array": 1,
-    "binary-search": 1
+    "binary-search": 1,
+    "misc": 1
   },
   "last7Days": [
     {
@@ -40,10 +41,18 @@
     },
     {
       "date": "2026-02-24",
-      "count": 4
+      "count": 5
     }
   ],
   "recentProblems": [
+    {
+      "title": "91. Decode Ways",
+      "slug": "decode-ways",
+      "language": "cpp",
+      "day": "2026-02-24",
+      "problemUrl": "https://leetcode.com/problems/decode-ways/",
+      "solutionPath": "leetcode/decode-ways-91.-decode-ways/solution.cpp"
+    },
     {
       "title": "99. Recover Binary Search Tree",
       "slug": "recover-binary-search-tree",
@@ -85,6 +94,16 @@
       "title": "99. Recover Binary Search Tree",
       "problemUrl": "https://leetcode.com/problems/recover-binary-search-tree/",
       "solutionPath": "leetcode/recover-binary-search-tree-99.-recover-binary-search-tree/solution.cpp",
+      "attempts": 1,
+      "nextReviewDate": "2026-02-24",
+      "dueInDays": 0,
+      "status": "due"
+    },
+    {
+      "slug": "decode-ways",
+      "title": "91. Decode Ways",
+      "problemUrl": "https://leetcode.com/problems/decode-ways/",
+      "solutionPath": "leetcode/decode-ways-91.-decode-ways/solution.cpp",
       "attempts": 1,
       "nextReviewDate": "2026-02-24",
       "dueInDays": 0,
