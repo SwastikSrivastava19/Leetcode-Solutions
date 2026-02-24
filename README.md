@@ -5,6 +5,7 @@
 
 | Problem | Language | File | Last Updated (UTC) |
 | --- | --- | --- | --- |
+| [3095. Shortest Subarray With OR at Least K I](https://leetcode.com/problems/shortest-subarray-with-or-at-least-k-i/) | cpp | `leetcode/shortest-subarray-with-or-at-least-k-i-3095.-shortest-subarray-with-or-at-least-k-i/solution.cpp` | 2026-02-24T08:58:51.528Z |
 | [76. Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | cpp | `leetcode/minimum-window-substring-76.-minimum-window-substring/solution.cpp` | 2026-02-24T08:49:47.125Z |
 | [76. Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | cpp | `leetcode/minimum-window-substring-76.-minimum-window-substring.cpp` | 2026-02-24T08:39:53.653Z |
 | [8. String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | cpp | `leetcode/string-to-integer-atoi-8.-string-to-integer-atoi.cpp` | 2026-02-24T07:46:13.227Z |
@@ -15,11 +16,11 @@
 <!-- LC2GH_ANALYTICS_START -->
 ## Progress Analytics
 
-- Total accepted submissions: **1**
-- Unique problems solved: **1**
+- Total accepted submissions: **2**
+- Unique problems solved: **2**
 - Current daily streak: **1** day(s)
 - Longest streak: **1** day(s)
-- Solved today: **1**
+- Solved today: **2**
 
 ### Last 7 Days
 
@@ -31,11 +32,28 @@
 | 2026-02-21 | 0 |
 | 2026-02-22 | 0 |
 | 2026-02-23 | 0 |
-| 2026-02-24 | 1 |
+| 2026-02-24 | 2 |
 
 ### Language Breakdown
 
 | Language | Count |
 | --- | --- |
-| cpp | 1 |
+| cpp | 2 |
+
+### Recommended Next Practice
+
+| Topic | Solved | Suggested Action |
+| --- | --- | --- |
+| [hash-map](https://leetcode.com/problemset/?search=hash%20map) | 0 | Practice more hash-map problems |
+| [two-pointers](https://leetcode.com/problemset/?search=two%20pointers) | 0 | Practice more two-pointers problems |
+| [sliding-window](https://leetcode.com/problemset/?search=sliding%20window) | 0 | Practice more sliding-window problems |
+| [binary-search](https://leetcode.com/problemset/?search=binary%20search) | 0 | Practice more binary-search problems |
+| [tree](https://leetcode.com/problemset/?search=tree) | 0 | Practice more tree problems |
+
+### Revision Queue
+
+| Problem | Next Review (UTC) | Status |
+| --- | --- | --- |
+| [76. Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | 2026-02-25 | upcoming |
+| [3095. Shortest Subarray With OR at Least K I](https://leetcode.com/problems/shortest-subarray-with-or-at-least-k-i/) | 2026-02-25 | upcoming |
 <!-- LC2GH_ANALYTICS_END -->
