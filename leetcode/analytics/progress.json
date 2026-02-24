@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-02-24T10:40:22.470Z",
-  "totalAcceptedSubmissions": 5,
+  "generatedAt": "2026-02-24T14:45:52.516Z",
+  "totalAcceptedSubmissions": 6,
   "uniqueProblemsSolved": 4,
-  "solvedToday": 5,
+  "solvedToday": 6,
   "currentStreak": 1,
   "longestStreak": 1,
   "languageBreakdown": {
-    "cpp": 5
+    "cpp": 6
   },
   "topicBreakdown": {
-    "string": 2,
+    "string": 3,
     "array": 1,
     "binary-search": 1,
     "misc": 1
@@ -41,10 +41,18 @@
     },
     {
       "date": "2026-02-24",
-      "count": 5
+      "count": 6
     }
   ],
   "recentProblems": [
+    {
+      "title": "76. Minimum Window Substring",
+      "slug": "minimum-window-substring",
+      "language": "cpp",
+      "day": "2026-02-24",
+      "problemUrl": "https://leetcode.com/problems/minimum-window-substring/",
+      "solutionPath": "leetcode/minimum-window-substring-76.-minimum-window-substring/solution.cpp"
+    },
     {
       "title": "91. Decode Ways",
       "slug": "decode-ways",
@@ -62,14 +70,6 @@
       "solutionPath": "leetcode/recover-binary-search-tree-99.-recover-binary-search-tree/solution.cpp"
     },
     {
-      "title": "76. Minimum Window Substring",
-      "slug": "minimum-window-substring",
-      "language": "cpp",
-      "day": "2026-02-24",
-      "problemUrl": "https://leetcode.com/problems/minimum-window-substring/",
-      "solutionPath": "leetcode/minimum-window-substring-76.-minimum-window-substring/solution.cpp"
-    },
-    {
       "title": "3095. Shortest Subarray With OR at Least K I",
       "slug": "shortest-subarray-with-or-at-least-k-i",
       "language": "cpp",
@@ -85,9 +85,10 @@
       "problemUrl": "https://leetcode.com/problems/shortest-subarray-with-or-at-least-k-i/",
       "solutionPath": "leetcode/shortest-subarray-with-or-at-least-k-i-3095.-shortest-subarray-with-or-at-least-k-i/solution.cpp",
       "attempts": 1,
+      "lastSolvedDate": "2026-02-24",
       "nextReviewDate": "2026-02-24",
       "dueInDays": 0,
-      "status": "due"
+      "status": "today"
     },
     {
       "slug": "recover-binary-search-tree",
@@ -95,9 +96,10 @@
       "problemUrl": "https://leetcode.com/problems/recover-binary-search-tree/",
       "solutionPath": "leetcode/recover-binary-search-tree-99.-recover-binary-search-tree/solution.cpp",
       "attempts": 1,
+      "lastSolvedDate": "2026-02-24",
       "nextReviewDate": "2026-02-24",
       "dueInDays": 0,
-      "status": "due"
+      "status": "today"
     },
     {
       "slug": "decode-ways",
@@ -105,18 +107,20 @@
       "problemUrl": "https://leetcode.com/problems/decode-ways/",
       "solutionPath": "leetcode/decode-ways-91.-decode-ways/solution.cpp",
       "attempts": 1,
+      "lastSolvedDate": "2026-02-24",
       "nextReviewDate": "2026-02-24",
       "dueInDays": 0,
-      "status": "due"
+      "status": "today"
     },
     {
       "slug": "minimum-window-substring",
       "title": "76. Minimum Window Substring",
       "problemUrl": "https://leetcode.com/problems/minimum-window-substring/",
       "solutionPath": "leetcode/minimum-window-substring-76.-minimum-window-substring/solution.cpp",
-      "attempts": 2,
-      "nextReviewDate": "2026-02-25",
-      "dueInDays": 1,
+      "attempts": 3,
+      "lastSolvedDate": "2026-02-24",
+      "nextReviewDate": "2026-02-27",
+      "dueInDays": 3,
       "status": "upcoming"
     }
   ],
