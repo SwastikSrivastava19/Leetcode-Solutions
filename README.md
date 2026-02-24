@@ -5,6 +5,7 @@
 
 | Problem | Language | File | Last Updated (UTC) |
 | --- | --- | --- | --- |
+| [91. Decode Ways](https://leetcode.com/problems/decode-ways/) | cpp | `leetcode/decode-ways-91.-decode-ways/solution.cpp` | 2026-02-24T10:40:17.414Z |
 | [99. Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/) | cpp | `leetcode/recover-binary-search-tree-99.-recover-binary-search-tree/solution.cpp` | 2026-02-24T09:58:03.382Z |
 | [76. Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | cpp | `leetcode/minimum-window-substring-76.-minimum-window-substring/solution.cpp` | 2026-02-24T09:50:10.868Z |
 | [3095. Shortest Subarray With OR at Least K I](https://leetcode.com/problems/shortest-subarray-with-or-at-least-k-i/) | cpp | `leetcode/shortest-subarray-with-or-at-least-k-i-3095.-shortest-subarray-with-or-at-least-k-i/solution.cpp` | 2026-02-24T08:58:51.528Z |
@@ -17,11 +18,11 @@
 <!-- LC2GH_ANALYTICS_START -->
 ## Progress Analytics
 
-- Total accepted submissions: **4**
-- Unique problems solved: **3**
+- Total accepted submissions: **5**
+- Unique problems solved: **4**
 - Current daily streak: **1** day(s)
 - Longest streak: **1** day(s)
-- Solved today: **4**
+- Solved today: **5**
 
 ### Last 7 Days
 
@@ -33,13 +34,13 @@
 | 2026-02-21 | 0 |
 | 2026-02-22 | 0 |
 | 2026-02-23 | 0 |
-| 2026-02-24 | 4 |
+| 2026-02-24 | 5 |
 
 ### Language Breakdown
 
 | Language | Count |
 | --- | --- |
-| cpp | 4 |
+| cpp | 5 |
 
 ### Recommended Next Practice
 
@@ -57,5 +58,6 @@
 | --- | --- | --- |
 | [3095. Shortest Subarray With OR at Least K I](https://leetcode.com/problems/shortest-subarray-with-or-at-least-k-i/) | 2026-02-24 | due |
 | [99. Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/) | 2026-02-24 | due |
+| [91. Decode Ways](https://leetcode.com/problems/decode-ways/) | 2026-02-24 | due |
 | [76. Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | 2026-02-25 | upcoming |
 <!-- LC2GH_ANALYTICS_END -->
