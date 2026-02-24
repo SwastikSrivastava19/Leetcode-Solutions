@@ -1,0 +1,12 @@
+{
+  "title": "3095. Shortest Subarray With OR at Least K I",
+  "slug": "shortest-subarray-with-or-at-least-k-i",
+  "problemUrl": "https://leetcode.com/problems/shortest-subarray-with-or-at-least-k-i/",
+  "language": "cpp",
+  "submissionId": "1929445608",
+  "updatedAt": "2026-02-24T08:58:51.528Z",
+  "files": {
+    "solution": "leetcode/shortest-subarray-with-or-at-least-k-i-3095.-shortest-subarray-with-or-at-least-k-i/solution.cpp",
+    "notes": "leetcode/shortest-subarray-with-or-at-least-k-i-3095.-shortest-subarray-with-or-at-least-k-i/notes.md"
+  }
+}
