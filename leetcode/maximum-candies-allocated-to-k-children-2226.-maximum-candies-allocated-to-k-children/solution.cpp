@@ -7,7 +7,7 @@ public:
 
     bool HoSktaHai(ll midd , vector<int>& candies , ll k){
         ll count = 0;
-        ll first = candies[0];
+
         for(int i=0; i<candies.size(); i++){
             count += candies[i] / midd;
 
