@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-02-25T13:50:15.647Z",
-  "totalAcceptedSubmissions": 8,
-  "uniqueProblemsSolved": 6,
-  "solvedToday": 1,
+  "generatedAt": "2026-02-25T15:37:00.291Z",
+  "totalAcceptedSubmissions": 9,
+  "uniqueProblemsSolved": 7,
+  "solvedToday": 2,
   "currentStreak": 2,
   "longestStreak": 2,
   "languageBreakdown": {
-    "cpp": 8
+    "cpp": 9
   },
   "topicBreakdown": {
     "string": 3,
+    "misc": 3,
     "array": 2,
-    "misc": 2,
     "binary-search": 1
   },
   "last7Days": [
@@ -41,10 +41,18 @@
     },
     {
       "date": "2026-02-25",
-      "count": 1
+      "count": 2
     }
   ],
   "recentProblems": [
+    {
+      "title": "2226. Maximum Candies Allocated to K Children",
+      "slug": "maximum-candies-allocated-to-k-children",
+      "language": "cpp",
+      "day": "2026-02-25",
+      "problemUrl": "https://leetcode.com/problems/maximum-candies-allocated-to-k-children/",
+      "solutionPath": "leetcode/maximum-candies-allocated-to-k-children-2226.-maximum-candies-allocated-to-k-children/solution.cpp"
+    },
     {
       "title": "1356. Sort Integers by The Number of 1 Bits",
       "slug": "sort-integers-by-the-number-of-1-bits",
