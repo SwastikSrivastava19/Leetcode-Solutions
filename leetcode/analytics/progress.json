@@ -1,24 +1,20 @@
 {
-  "generatedAt": "2026-02-25T15:40:59.404Z",
-  "totalAcceptedSubmissions": 10,
-  "uniqueProblemsSolved": 7,
-  "solvedToday": 3,
-  "currentStreak": 2,
-  "longestStreak": 2,
+  "generatedAt": "2026-02-26T04:58:45.819Z",
+  "totalAcceptedSubmissions": 11,
+  "uniqueProblemsSolved": 8,
+  "solvedToday": 1,
+  "currentStreak": 3,
+  "longestStreak": 3,
   "languageBreakdown": {
-    "cpp": 10
+    "cpp": 11
   },
   "topicBreakdown": {
-    "misc": 4,
+    "misc": 5,
     "string": 3,
     "array": 2,
     "binary-search": 1
   },
   "last7Days": [
-    {
-      "date": "2026-02-19",
-      "count": 0
-    },
     {
       "date": "2026-02-20",
       "count": 0
@@ -42,9 +38,21 @@
     {
       "date": "2026-02-25",
       "count": 3
+    },
+    {
+      "date": "2026-02-26",
+      "count": 1
     }
   ],
   "recentProblems": [
+    {
+      "title": "1404. Number of Steps to Reduce a Number in Binary Representation to One",
+      "slug": "number-of-steps-to-reduce-a-number-in-binary-representation-to-one",
+      "language": "cpp",
+      "day": "2026-02-26",
+      "problemUrl": "https://leetcode.com/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one/",
+      "solutionPath": "leetcode/number-of-steps-to-reduce-a-number-in-binary-representation-to-one-1404.-number-of-steps-to-reduce-a-number-in-binary-representation-to-one/solution.cpp"
+    },
     {
       "title": "2226. Maximum Candies Allocated to K Children",
       "slug": "maximum-candies-allocated-to-k-children",
