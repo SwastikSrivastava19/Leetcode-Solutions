@@ -1,24 +1,20 @@
 {
-  "generatedAt": "2026-02-26T04:58:45.819Z",
-  "totalAcceptedSubmissions": 11,
-  "uniqueProblemsSolved": 8,
+  "generatedAt": "2026-02-27T03:21:18.859Z",
+  "totalAcceptedSubmissions": 12,
+  "uniqueProblemsSolved": 9,
   "solvedToday": 1,
-  "currentStreak": 3,
-  "longestStreak": 3,
+  "currentStreak": 4,
+  "longestStreak": 4,
   "languageBreakdown": {
-    "cpp": 11
+    "cpp": 12
   },
   "topicBreakdown": {
     "misc": 5,
-    "string": 3,
+    "string": 4,
     "array": 2,
     "binary-search": 1
   },
   "last7Days": [
-    {
-      "date": "2026-02-20",
-      "count": 0
-    },
     {
       "date": "2026-02-21",
       "count": 0
@@ -42,9 +38,21 @@
     {
       "date": "2026-02-26",
       "count": 1
+    },
+    {
+      "date": "2026-02-27",
+      "count": 1
     }
   ],
   "recentProblems": [
+    {
+      "title": "3666. Minimum Operations to Equalize Binary String",
+      "slug": "minimum-operations-to-equalize-binary-string",
+      "language": "cpp",
+      "day": "2026-02-27",
+      "problemUrl": "https://leetcode.com/problems/minimum-operations-to-equalize-binary-string/",
+      "solutionPath": "leetcode/minimum-operations-to-equalize-binary-string-3666.-minimum-operations-to-equalize-binary-string/solution.cpp"
+    },
     {
       "title": "1404. Number of Steps to Reduce a Number in Binary Representation to One",
       "slug": "number-of-steps-to-reduce-a-number-in-binary-representation-to-one",
