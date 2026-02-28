@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-02-28T06:51:01.745Z",
-  "totalAcceptedSubmissions": 13,
+  "generatedAt": "2026-02-28T09:53:41.824Z",
+  "totalAcceptedSubmissions": 14,
   "uniqueProblemsSolved": 10,
-  "solvedToday": 1,
+  "solvedToday": 2,
   "currentStreak": 5,
   "longestStreak": 5,
   "languageBreakdown": {
-    "cpp": 13
+    "cpp": 14
   },
   "topicBreakdown": {
-    "misc": 6,
+    "misc": 7,
     "string": 4,
     "array": 2,
     "binary-search": 1
@@ -41,10 +41,18 @@
     },
     {
       "date": "2026-02-28",
-      "count": 1
+      "count": 2
     }
   ],
   "recentProblems": [
+    {
+      "title": "1404. Number of Steps to Reduce a Number in Binary Representation to One",
+      "slug": "number-of-steps-to-reduce-a-number-in-binary-representation-to-one",
+      "language": "cpp",
+      "day": "2026-02-28",
+      "problemUrl": "https://leetcode.com/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one/",
+      "solutionPath": "leetcode/number-of-steps-to-reduce-a-number-in-binary-representation-to-one-1404.-number-of-steps-to-reduce-a-number-in-binary-representation-to-one/solution.cpp"
+    },
     {
       "title": "1680. Concatenation of Consecutive Binary Numbers",
       "slug": "concatenation-of-consecutive-binary-numbers",
@@ -60,14 +68,6 @@
       "day": "2026-02-27",
       "problemUrl": "https://leetcode.com/problems/minimum-operations-to-equalize-binary-string/",
       "solutionPath": "leetcode/minimum-operations-to-equalize-binary-string-3666.-minimum-operations-to-equalize-binary-string/solution.cpp"
-    },
-    {
-      "title": "1404. Number of Steps to Reduce a Number in Binary Representation to One",
-      "slug": "number-of-steps-to-reduce-a-number-in-binary-representation-to-one",
-      "language": "cpp",
-      "day": "2026-02-26",
-      "problemUrl": "https://leetcode.com/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one/",
-      "solutionPath": "leetcode/number-of-steps-to-reduce-a-number-in-binary-representation-to-one-1404.-number-of-steps-to-reduce-a-number-in-binary-representation-to-one/solution.cpp"
     },
     {
       "title": "2226. Maximum Candies Allocated to K Children",
