@@ -1,24 +1,20 @@
 {
-  "generatedAt": "2026-02-27T03:21:18.859Z",
-  "totalAcceptedSubmissions": 12,
-  "uniqueProblemsSolved": 9,
+  "generatedAt": "2026-02-28T06:51:01.745Z",
+  "totalAcceptedSubmissions": 13,
+  "uniqueProblemsSolved": 10,
   "solvedToday": 1,
-  "currentStreak": 4,
-  "longestStreak": 4,
+  "currentStreak": 5,
+  "longestStreak": 5,
   "languageBreakdown": {
-    "cpp": 12
+    "cpp": 13
   },
   "topicBreakdown": {
-    "misc": 5,
+    "misc": 6,
     "string": 4,
     "array": 2,
     "binary-search": 1
   },
   "last7Days": [
-    {
-      "date": "2026-02-21",
-      "count": 0
-    },
     {
       "date": "2026-02-22",
       "count": 0
@@ -42,9 +38,21 @@
     {
       "date": "2026-02-27",
       "count": 1
+    },
+    {
+      "date": "2026-02-28",
+      "count": 1
     }
   ],
   "recentProblems": [
+    {
+      "title": "1680. Concatenation of Consecutive Binary Numbers",
+      "slug": "concatenation-of-consecutive-binary-numbers",
+      "language": "cpp",
+      "day": "2026-02-28",
+      "problemUrl": "https://leetcode.com/problems/concatenation-of-consecutive-binary-numbers/",
+      "solutionPath": "leetcode/concatenation-of-consecutive-binary-numbers-1680.-concatenation-of-consecutive-binary-numbers/solution.cpp"
+    },
     {
       "title": "3666. Minimum Operations to Equalize Binary String",
       "slug": "minimum-operations-to-equalize-binary-string",
