@@ -1,24 +1,20 @@
 {
-  "generatedAt": "2026-02-28T09:53:41.824Z",
-  "totalAcceptedSubmissions": 14,
-  "uniqueProblemsSolved": 10,
-  "solvedToday": 2,
-  "currentStreak": 5,
-  "longestStreak": 5,
+  "generatedAt": "2026-03-01T03:18:50.303Z",
+  "totalAcceptedSubmissions": 15,
+  "uniqueProblemsSolved": 11,
+  "solvedToday": 1,
+  "currentStreak": 6,
+  "longestStreak": 6,
   "languageBreakdown": {
-    "cpp": 14
+    "cpp": 15
   },
   "topicBreakdown": {
-    "misc": 7,
+    "misc": 8,
     "string": 4,
     "array": 2,
     "binary-search": 1
   },
   "last7Days": [
-    {
-      "date": "2026-02-22",
-      "count": 0
-    },
     {
       "date": "2026-02-23",
       "count": 0
@@ -42,9 +38,21 @@
     {
       "date": "2026-02-28",
       "count": 2
+    },
+    {
+      "date": "2026-03-01",
+      "count": 1
     }
   ],
   "recentProblems": [
+    {
+      "title": "1689. Partitioning Into Minimum Number Of Deci-Binary Numbers",
+      "slug": "partitioning-into-minimum-number-of-deci-binary-numbers",
+      "language": "cpp",
+      "day": "2026-03-01",
+      "problemUrl": "https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/",
+      "solutionPath": "leetcode/partitioning-into-minimum-number-of-deci-binary-numbers-1689.-partitioning-into-minimum-number-of-deci-binary-numbers/solution.cpp"
+    },
     {
       "title": "1404. Number of Steps to Reduce a Number in Binary Representation to One",
       "slug": "number-of-steps-to-reduce-a-number-in-binary-representation-to-one",
@@ -116,14 +124,6 @@
       "day": "2026-02-24",
       "problemUrl": "https://leetcode.com/problems/recover-binary-search-tree/",
       "solutionPath": "leetcode/recover-binary-search-tree-99.-recover-binary-search-tree/solution.cpp"
-    },
-    {
-      "title": "3095. Shortest Subarray With OR at Least K I",
-      "slug": "shortest-subarray-with-or-at-least-k-i",
-      "language": "cpp",
-      "day": "2026-02-24",
-      "problemUrl": "https://leetcode.com/problems/shortest-subarray-with-or-at-least-k-i/",
-      "solutionPath": "leetcode/shortest-subarray-with-or-at-least-k-i-3095.-shortest-subarray-with-or-at-least-k-i/solution.cpp"
     }
   ]
 }
