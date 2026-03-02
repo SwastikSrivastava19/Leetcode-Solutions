@@ -1,24 +1,20 @@
 {
-  "generatedAt": "2026-03-01T03:18:50.303Z",
-  "totalAcceptedSubmissions": 15,
-  "uniqueProblemsSolved": 11,
+  "generatedAt": "2026-03-02T05:30:35.567Z",
+  "totalAcceptedSubmissions": 16,
+  "uniqueProblemsSolved": 12,
   "solvedToday": 1,
-  "currentStreak": 6,
-  "longestStreak": 6,
+  "currentStreak": 7,
+  "longestStreak": 7,
   "languageBreakdown": {
-    "cpp": 15
+    "cpp": 16
   },
   "topicBreakdown": {
-    "misc": 8,
+    "misc": 9,
     "string": 4,
     "array": 2,
     "binary-search": 1
   },
   "last7Days": [
-    {
-      "date": "2026-02-23",
-      "count": 0
-    },
     {
       "date": "2026-02-24",
       "count": 7
@@ -42,9 +38,21 @@
     {
       "date": "2026-03-01",
       "count": 1
+    },
+    {
+      "date": "2026-03-02",
+      "count": 1
     }
   ],
   "recentProblems": [
+    {
+      "title": "1536. Minimum Swaps to Arrange a Binary Grid",
+      "slug": "minimum-swaps-to-arrange-a-binary-grid",
+      "language": "cpp",
+      "day": "2026-03-02",
+      "problemUrl": "https://leetcode.com/problems/minimum-swaps-to-arrange-a-binary-grid/",
+      "solutionPath": "leetcode/minimum-swaps-to-arrange-a-binary-grid-1536.-minimum-swaps-to-arrange-a-binary-grid/solution.cpp"
+    },
     {
       "title": "1689. Partitioning Into Minimum Number Of Deci-Binary Numbers",
       "slug": "partitioning-into-minimum-number-of-deci-binary-numbers",
@@ -116,14 +124,6 @@
       "day": "2026-02-24",
       "problemUrl": "https://leetcode.com/problems/decode-ways/",
       "solutionPath": "leetcode/decode-ways-91.-decode-ways/solution.cpp"
-    },
-    {
-      "title": "99. Recover Binary Search Tree",
-      "slug": "recover-binary-search-tree",
-      "language": "cpp",
-      "day": "2026-02-24",
-      "problemUrl": "https://leetcode.com/problems/recover-binary-search-tree/",
-      "solutionPath": "leetcode/recover-binary-search-tree-99.-recover-binary-search-tree/solution.cpp"
     }
   ]
 }
