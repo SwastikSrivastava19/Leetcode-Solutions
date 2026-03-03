@@ -1,24 +1,20 @@
 {
-  "generatedAt": "2026-03-02T05:30:35.567Z",
-  "totalAcceptedSubmissions": 16,
-  "uniqueProblemsSolved": 12,
+  "generatedAt": "2026-03-03T17:09:38.329Z",
+  "totalAcceptedSubmissions": 17,
+  "uniqueProblemsSolved": 13,
   "solvedToday": 1,
-  "currentStreak": 7,
-  "longestStreak": 7,
+  "currentStreak": 8,
+  "longestStreak": 8,
   "languageBreakdown": {
-    "cpp": 16
+    "cpp": 17
   },
   "topicBreakdown": {
     "misc": 9,
-    "string": 4,
+    "string": 5,
     "array": 2,
     "binary-search": 1
   },
   "last7Days": [
-    {
-      "date": "2026-02-24",
-      "count": 7
-    },
     {
       "date": "2026-02-25",
       "count": 3
@@ -42,9 +38,21 @@
     {
       "date": "2026-03-02",
       "count": 1
+    },
+    {
+      "date": "2026-03-03",
+      "count": 1
     }
   ],
   "recentProblems": [
+    {
+      "title": "1545. Find Kth Bit in Nth Binary String",
+      "slug": "find-kth-bit-in-nth-binary-string",
+      "language": "cpp",
+      "day": "2026-03-03",
+      "problemUrl": "https://leetcode.com/problems/find-kth-bit-in-nth-binary-string/",
+      "solutionPath": "leetcode/find-kth-bit-in-nth-binary-string-1545.-find-kth-bit-in-nth-binary-string/solution.cpp"
+    },
     {
       "title": "1536. Minimum Swaps to Arrange a Binary Grid",
       "slug": "minimum-swaps-to-arrange-a-binary-grid",
@@ -116,14 +124,6 @@
       "day": "2026-02-24",
       "problemUrl": "https://leetcode.com/problems/minimum-window-substring/",
       "solutionPath": "leetcode/minimum-window-substring-76.-minimum-window-substring/solution.cpp"
-    },
-    {
-      "title": "91. Decode Ways",
-      "slug": "decode-ways",
-      "language": "cpp",
-      "day": "2026-02-24",
-      "problemUrl": "https://leetcode.com/problems/decode-ways/",
-      "solutionPath": "leetcode/decode-ways-91.-decode-ways/solution.cpp"
     }
   ]
 }
