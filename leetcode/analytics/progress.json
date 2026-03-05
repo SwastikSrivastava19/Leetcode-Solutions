@@ -1,24 +1,20 @@
 {
-  "generatedAt": "2026-03-04T09:14:38.056Z",
-  "totalAcceptedSubmissions": 18,
-  "uniqueProblemsSolved": 14,
+  "generatedAt": "2026-03-05T07:07:15.873Z",
+  "totalAcceptedSubmissions": 20,
+  "uniqueProblemsSolved": 15,
   "solvedToday": 1,
-  "currentStreak": 9,
-  "longestStreak": 9,
+  "currentStreak": 10,
+  "longestStreak": 10,
   "languageBreakdown": {
-    "cpp": 18
+    "cpp": 20
   },
   "topicBreakdown": {
-    "misc": 10,
-    "string": 5,
+    "misc": 11,
+    "string": 6,
     "array": 2,
     "binary-search": 1
   },
   "last7Days": [
-    {
-      "date": "2026-02-26",
-      "count": 1
-    },
     {
       "date": "2026-02-27",
       "count": 1
@@ -41,10 +37,22 @@
     },
     {
       "date": "2026-03-04",
+      "count": 2
+    },
+    {
+      "date": "2026-03-05",
       "count": 1
     }
   ],
   "recentProblems": [
+    {
+      "title": "1758. Minimum Changes To Make Alternating Binary String",
+      "slug": "minimum-changes-to-make-alternating-binary-string",
+      "language": "cpp",
+      "day": "2026-03-05",
+      "problemUrl": "https://leetcode.com/problems/minimum-changes-to-make-alternating-binary-string/",
+      "solutionPath": "leetcode/minimum-changes-to-make-alternating-binary-string-1758.-minimum-changes-to-make-alternating-binary-string/solution.cpp"
+    },
     {
       "title": "1582. Special Positions in a Binary Matrix",
       "slug": "special-positions-in-a-binary-matrix",
@@ -116,14 +124,6 @@
       "day": "2026-02-25",
       "problemUrl": "https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/",
       "solutionPath": "leetcode/sort-integers-by-the-number-of-1-bits-1356.-sort-integers-by-the-number-of-1-bits/solution.cpp"
-    },
-    {
-      "title": "350. Intersection of Two Arrays II",
-      "slug": "intersection-of-two-arrays-ii",
-      "language": "cpp",
-      "day": "2026-02-24",
-      "problemUrl": "https://leetcode.com/problems/intersection-of-two-arrays-ii/",
-      "solutionPath": "leetcode/intersection-of-two-arrays-ii-350.-intersection-of-two-arrays-ii/solution.cpp"
     }
   ]
 }
