@@ -1,24 +1,20 @@
 {
-  "generatedAt": "2026-03-05T07:10:34.152Z",
-  "totalAcceptedSubmissions": 21,
-  "uniqueProblemsSolved": 15,
-  "solvedToday": 2,
-  "currentStreak": 10,
-  "longestStreak": 10,
+  "generatedAt": "2026-03-06T17:12:33.122Z",
+  "totalAcceptedSubmissions": 22,
+  "uniqueProblemsSolved": 16,
+  "solvedToday": 1,
+  "currentStreak": 11,
+  "longestStreak": 11,
   "languageBreakdown": {
-    "cpp": 21
+    "cpp": 22
   },
   "topicBreakdown": {
     "misc": 11,
-    "string": 7,
+    "string": 8,
     "array": 2,
     "binary-search": 1
   },
   "last7Days": [
-    {
-      "date": "2026-02-27",
-      "count": 1
-    },
     {
       "date": "2026-02-28",
       "count": 2
@@ -42,9 +38,21 @@
     {
       "date": "2026-03-05",
       "count": 2
+    },
+    {
+      "date": "2026-03-06",
+      "count": 1
     }
   ],
   "recentProblems": [
+    {
+      "title": "1784. Check if Binary String Has at Most One Segment of Ones",
+      "slug": "check-if-binary-string-has-at-most-one-segment-of-ones",
+      "language": "cpp",
+      "day": "2026-03-06",
+      "problemUrl": "https://leetcode.com/problems/check-if-binary-string-has-at-most-one-segment-of-ones/",
+      "solutionPath": "leetcode/check-if-binary-string-has-at-most-one-segment-of-ones-1784.-check-if-binary-string-has-at-most-one-segment-of-ones/solution.cpp"
+    },
     {
       "title": "1758. Minimum Changes To Make Alternating Binary String",
       "slug": "minimum-changes-to-make-alternating-binary-string",
@@ -116,14 +124,6 @@
       "day": "2026-02-25",
       "problemUrl": "https://leetcode.com/problems/maximum-candies-allocated-to-k-children/",
       "solutionPath": "leetcode/maximum-candies-allocated-to-k-children-2226.-maximum-candies-allocated-to-k-children/solution.cpp"
-    },
-    {
-      "title": "1356. Sort Integers by The Number of 1 Bits",
-      "slug": "sort-integers-by-the-number-of-1-bits",
-      "language": "cpp",
-      "day": "2026-02-25",
-      "problemUrl": "https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/",
-      "solutionPath": "leetcode/sort-integers-by-the-number-of-1-bits-1356.-sort-integers-by-the-number-of-1-bits/solution.cpp"
     }
   ]
 }
