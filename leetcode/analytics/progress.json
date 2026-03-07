@@ -1,24 +1,20 @@
 {
-  "generatedAt": "2026-03-06T17:12:33.122Z",
-  "totalAcceptedSubmissions": 22,
-  "uniqueProblemsSolved": 16,
+  "generatedAt": "2026-03-07T17:06:44.674Z",
+  "totalAcceptedSubmissions": 23,
+  "uniqueProblemsSolved": 17,
   "solvedToday": 1,
-  "currentStreak": 11,
-  "longestStreak": 11,
+  "currentStreak": 12,
+  "longestStreak": 12,
   "languageBreakdown": {
-    "cpp": 22
+    "cpp": 23
   },
   "topicBreakdown": {
     "misc": 11,
-    "string": 8,
+    "string": 9,
     "array": 2,
     "binary-search": 1
   },
   "last7Days": [
-    {
-      "date": "2026-02-28",
-      "count": 2
-    },
     {
       "date": "2026-03-01",
       "count": 1
@@ -42,9 +38,21 @@
     {
       "date": "2026-03-06",
       "count": 1
+    },
+    {
+      "date": "2026-03-07",
+      "count": 1
     }
   ],
   "recentProblems": [
+    {
+      "title": "1888. Minimum Number of Flips to Make the Binary String Alternating",
+      "slug": "minimum-number-of-flips-to-make-the-binary-string-alternating",
+      "language": "cpp",
+      "day": "2026-03-07",
+      "problemUrl": "https://leetcode.com/problems/minimum-number-of-flips-to-make-the-binary-string-alternating/",
+      "solutionPath": "leetcode/minimum-number-of-flips-to-make-the-binary-string-alternating-1888.-minimum-number-of-flips-to-make-the-binary-string-alternating/solution.cpp"
+    },
     {
       "title": "1784. Check if Binary String Has at Most One Segment of Ones",
       "slug": "check-if-binary-string-has-at-most-one-segment-of-ones",
@@ -116,14 +124,6 @@
       "day": "2026-02-27",
       "problemUrl": "https://leetcode.com/problems/minimum-operations-to-equalize-binary-string/",
       "solutionPath": "leetcode/minimum-operations-to-equalize-binary-string-3666.-minimum-operations-to-equalize-binary-string/solution.cpp"
-    },
-    {
-      "title": "2226. Maximum Candies Allocated to K Children",
-      "slug": "maximum-candies-allocated-to-k-children",
-      "language": "cpp",
-      "day": "2026-02-25",
-      "problemUrl": "https://leetcode.com/problems/maximum-candies-allocated-to-k-children/",
-      "solutionPath": "leetcode/maximum-candies-allocated-to-k-children-2226.-maximum-candies-allocated-to-k-children/solution.cpp"
     }
   ]
 }
