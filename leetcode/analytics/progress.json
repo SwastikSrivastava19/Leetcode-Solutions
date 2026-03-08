@@ -1,24 +1,20 @@
 {
-  "generatedAt": "2026-03-07T17:06:44.674Z",
-  "totalAcceptedSubmissions": 23,
-  "uniqueProblemsSolved": 17,
+  "generatedAt": "2026-03-08T17:06:17.202Z",
+  "totalAcceptedSubmissions": 24,
+  "uniqueProblemsSolved": 18,
   "solvedToday": 1,
-  "currentStreak": 12,
-  "longestStreak": 12,
+  "currentStreak": 13,
+  "longestStreak": 13,
   "languageBreakdown": {
-    "cpp": 23
+    "cpp": 24
   },
   "topicBreakdown": {
     "misc": 11,
-    "string": 9,
+    "string": 10,
     "array": 2,
     "binary-search": 1
   },
   "last7Days": [
-    {
-      "date": "2026-03-01",
-      "count": 1
-    },
     {
       "date": "2026-03-02",
       "count": 1
@@ -42,9 +38,21 @@
     {
       "date": "2026-03-07",
       "count": 1
+    },
+    {
+      "date": "2026-03-08",
+      "count": 1
     }
   ],
   "recentProblems": [
+    {
+      "title": "1980. Find Unique Binary String",
+      "slug": "find-unique-binary-string",
+      "language": "cpp",
+      "day": "2026-03-08",
+      "problemUrl": "https://leetcode.com/problems/find-unique-binary-string/",
+      "solutionPath": "leetcode/find-unique-binary-string-1980.-find-unique-binary-string/solution.cpp"
+    },
     {
       "title": "1888. Minimum Number of Flips to Make the Binary String Alternating",
       "slug": "minimum-number-of-flips-to-make-the-binary-string-alternating",
@@ -116,14 +124,6 @@
       "day": "2026-02-28",
       "problemUrl": "https://leetcode.com/problems/concatenation-of-consecutive-binary-numbers/",
       "solutionPath": "leetcode/concatenation-of-consecutive-binary-numbers-1680.-concatenation-of-consecutive-binary-numbers/solution.cpp"
-    },
-    {
-      "title": "3666. Minimum Operations to Equalize Binary String",
-      "slug": "minimum-operations-to-equalize-binary-string",
-      "language": "cpp",
-      "day": "2026-02-27",
-      "problemUrl": "https://leetcode.com/problems/minimum-operations-to-equalize-binary-string/",
-      "solutionPath": "leetcode/minimum-operations-to-equalize-binary-string-3666.-minimum-operations-to-equalize-binary-string/solution.cpp"
     }
   ]
 }
