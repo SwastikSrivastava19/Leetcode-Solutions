@@ -1,24 +1,20 @@
 {
-  "generatedAt": "2026-03-09T07:04:05.461Z",
-  "totalAcceptedSubmissions": 25,
-  "uniqueProblemsSolved": 19,
+  "generatedAt": "2026-03-10T15:02:18.290Z",
+  "totalAcceptedSubmissions": 26,
+  "uniqueProblemsSolved": 20,
   "solvedToday": 1,
-  "currentStreak": 14,
-  "longestStreak": 14,
+  "currentStreak": 15,
+  "longestStreak": 15,
   "languageBreakdown": {
-    "cpp": 25
+    "cpp": 26
   },
   "topicBreakdown": {
     "misc": 11,
     "string": 10,
-    "array": 3,
+    "array": 4,
     "binary-search": 1
   },
   "last7Days": [
-    {
-      "date": "2026-03-03",
-      "count": 1
-    },
     {
       "date": "2026-03-04",
       "count": 2
@@ -42,9 +38,21 @@
     {
       "date": "2026-03-09",
       "count": 1
+    },
+    {
+      "date": "2026-03-10",
+      "count": 1
     }
   ],
   "recentProblems": [
+    {
+      "title": "3130. Find All Possible Stable Binary Arrays II",
+      "slug": "find-all-possible-stable-binary-arrays-ii",
+      "language": "cpp",
+      "day": "2026-03-10",
+      "problemUrl": "https://leetcode.com/problems/find-all-possible-stable-binary-arrays-ii/",
+      "solutionPath": "leetcode/find-all-possible-stable-binary-arrays-ii-3130.-find-all-possible-stable-binary-arrays-ii/solution.cpp"
+    },
     {
       "title": "3129. Find All Possible Stable Binary Arrays I",
       "slug": "find-all-possible-stable-binary-arrays-i",
@@ -116,14 +124,6 @@
       "day": "2026-03-01",
       "problemUrl": "https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/",
       "solutionPath": "leetcode/partitioning-into-minimum-number-of-deci-binary-numbers-1689.-partitioning-into-minimum-number-of-deci-binary-numbers/solution.cpp"
-    },
-    {
-      "title": "1404. Number of Steps to Reduce a Number in Binary Representation to One",
-      "slug": "number-of-steps-to-reduce-a-number-in-binary-representation-to-one",
-      "language": "cpp",
-      "day": "2026-02-28",
-      "problemUrl": "https://leetcode.com/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one/",
-      "solutionPath": "leetcode/number-of-steps-to-reduce-a-number-in-binary-representation-to-one-1404.-number-of-steps-to-reduce-a-number-in-binary-representation-to-one/solution.cpp"
     }
   ]
 }
