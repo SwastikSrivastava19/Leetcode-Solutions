@@ -1,18 +1,19 @@
 {
-  "generatedAt": "2026-03-11T05:02:18.248Z",
-  "totalAcceptedSubmissions": 28,
-  "uniqueProblemsSolved": 22,
-  "solvedToday": 2,
+  "generatedAt": "2026-03-11T14:00:48.537Z",
+  "totalAcceptedSubmissions": 29,
+  "uniqueProblemsSolved": 23,
+  "solvedToday": 3,
   "currentStreak": 16,
   "longestStreak": 16,
   "languageBreakdown": {
-    "cpp": 28
+    "cpp": 29
   },
   "topicBreakdown": {
     "misc": 13,
     "string": 10,
     "array": 4,
-    "binary-search": 1
+    "binary-search": 1,
+    "tree": 1
   },
   "last7Days": [
     {
@@ -41,10 +42,18 @@
     },
     {
       "date": "2026-03-11",
-      "count": 2
+      "count": 3
     }
   ],
   "recentProblems": [
+    {
+      "title": "111. Minimum Depth of Binary Tree",
+      "slug": "minimum-depth-of-binary-tree",
+      "language": "cpp",
+      "day": "2026-03-11",
+      "problemUrl": "https://leetcode.com/problems/minimum-depth-of-binary-tree/",
+      "solutionPath": "leetcode/minimum-depth-of-binary-tree-111.-minimum-depth-of-binary-tree/solution.cpp"
+    },
     {
       "title": "476. Number Complement",
       "slug": "number-complement",
@@ -116,14 +125,6 @@
       "day": "2026-03-04",
       "problemUrl": "https://leetcode.com/problems/special-positions-in-a-binary-matrix/",
       "solutionPath": "leetcode/special-positions-in-a-binary-matrix-1582.-special-positions-in-a-binary-matrix/solution.cpp"
-    },
-    {
-      "title": "1545. Find Kth Bit in Nth Binary String",
-      "slug": "find-kth-bit-in-nth-binary-string",
-      "language": "cpp",
-      "day": "2026-03-03",
-      "problemUrl": "https://leetcode.com/problems/find-kth-bit-in-nth-binary-string/",
-      "solutionPath": "leetcode/find-kth-bit-in-nth-binary-string-1545.-find-kth-bit-in-nth-binary-string/solution.cpp"
     }
   ]
 }
