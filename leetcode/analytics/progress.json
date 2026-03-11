@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-03-11T04:15:08.454Z",
-  "totalAcceptedSubmissions": 27,
-  "uniqueProblemsSolved": 21,
-  "solvedToday": 1,
+  "generatedAt": "2026-03-11T05:02:18.248Z",
+  "totalAcceptedSubmissions": 28,
+  "uniqueProblemsSolved": 22,
+  "solvedToday": 2,
   "currentStreak": 16,
   "longestStreak": 16,
   "languageBreakdown": {
-    "cpp": 27
+    "cpp": 28
   },
   "topicBreakdown": {
-    "misc": 12,
+    "misc": 13,
     "string": 10,
     "array": 4,
     "binary-search": 1
@@ -41,10 +41,18 @@
     },
     {
       "date": "2026-03-11",
-      "count": 1
+      "count": 2
     }
   ],
   "recentProblems": [
+    {
+      "title": "476. Number Complement",
+      "slug": "number-complement",
+      "language": "cpp",
+      "day": "2026-03-11",
+      "problemUrl": "https://leetcode.com/problems/number-complement/",
+      "solutionPath": "leetcode/number-complement-476.-number-complement/solution.cpp"
+    },
     {
       "title": "1009. Complement of Base 10 Integer",
       "slug": "complement-of-base-10-integer",
@@ -116,14 +124,6 @@
       "day": "2026-03-03",
       "problemUrl": "https://leetcode.com/problems/find-kth-bit-in-nth-binary-string/",
       "solutionPath": "leetcode/find-kth-bit-in-nth-binary-string-1545.-find-kth-bit-in-nth-binary-string/solution.cpp"
-    },
-    {
-      "title": "1536. Minimum Swaps to Arrange a Binary Grid",
-      "slug": "minimum-swaps-to-arrange-a-binary-grid",
-      "language": "cpp",
-      "day": "2026-03-02",
-      "problemUrl": "https://leetcode.com/problems/minimum-swaps-to-arrange-a-binary-grid/",
-      "solutionPath": "leetcode/minimum-swaps-to-arrange-a-binary-grid-1536.-minimum-swaps-to-arrange-a-binary-grid/solution.cpp"
     }
   ]
 }
