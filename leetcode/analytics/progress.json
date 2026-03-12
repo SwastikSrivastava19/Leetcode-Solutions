@@ -1,25 +1,21 @@
 {
-  "generatedAt": "2026-03-11T14:00:48.537Z",
-  "totalAcceptedSubmissions": 29,
-  "uniqueProblemsSolved": 23,
-  "solvedToday": 3,
-  "currentStreak": 16,
-  "longestStreak": 16,
+  "generatedAt": "2026-03-12T16:27:23.950Z",
+  "totalAcceptedSubmissions": 30,
+  "uniqueProblemsSolved": 24,
+  "solvedToday": 1,
+  "currentStreak": 17,
+  "longestStreak": 17,
   "languageBreakdown": {
-    "cpp": 29
+    "cpp": 30
   },
   "topicBreakdown": {
     "misc": 13,
     "string": 10,
     "array": 4,
-    "binary-search": 1,
-    "tree": 1
+    "tree": 2,
+    "binary-search": 1
   },
   "last7Days": [
-    {
-      "date": "2026-03-05",
-      "count": 2
-    },
     {
       "date": "2026-03-06",
       "count": 1
@@ -43,9 +39,21 @@
     {
       "date": "2026-03-11",
       "count": 3
+    },
+    {
+      "date": "2026-03-12",
+      "count": 1
     }
   ],
   "recentProblems": [
+    {
+      "title": "3600. Maximize Spanning Tree Stability with Upgrades",
+      "slug": "maximize-spanning-tree-stability-with-upgrades",
+      "language": "cpp",
+      "day": "2026-03-12",
+      "problemUrl": "https://leetcode.com/problems/maximize-spanning-tree-stability-with-upgrades/",
+      "solutionPath": "leetcode/maximize-spanning-tree-stability-with-upgrades-3600.-maximize-spanning-tree-stability-with-upgrades/solution.cpp"
+    },
     {
       "title": "111. Minimum Depth of Binary Tree",
       "slug": "minimum-depth-of-binary-tree",
@@ -117,14 +125,6 @@
       "day": "2026-03-05",
       "problemUrl": "https://leetcode.com/problems/minimum-changes-to-make-alternating-binary-string/",
       "solutionPath": "leetcode/minimum-changes-to-make-alternating-binary-string-1758.-minimum-changes-to-make-alternating-binary-string/solution.cpp"
-    },
-    {
-      "title": "1582. Special Positions in a Binary Matrix",
-      "slug": "special-positions-in-a-binary-matrix",
-      "language": "cpp",
-      "day": "2026-03-04",
-      "problemUrl": "https://leetcode.com/problems/special-positions-in-a-binary-matrix/",
-      "solutionPath": "leetcode/special-positions-in-a-binary-matrix-1582.-special-positions-in-a-binary-matrix/solution.cpp"
     }
   ]
 }
