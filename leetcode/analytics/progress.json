@@ -1,25 +1,21 @@
 {
-  "generatedAt": "2026-03-12T16:27:23.950Z",
-  "totalAcceptedSubmissions": 30,
-  "uniqueProblemsSolved": 24,
+  "generatedAt": "2026-03-13T06:01:15.013Z",
+  "totalAcceptedSubmissions": 31,
+  "uniqueProblemsSolved": 25,
   "solvedToday": 1,
-  "currentStreak": 17,
-  "longestStreak": 17,
+  "currentStreak": 18,
+  "longestStreak": 18,
   "languageBreakdown": {
-    "cpp": 30
+    "cpp": 31
   },
   "topicBreakdown": {
-    "misc": 13,
+    "misc": 14,
     "string": 10,
     "array": 4,
     "tree": 2,
     "binary-search": 1
   },
   "last7Days": [
-    {
-      "date": "2026-03-06",
-      "count": 1
-    },
     {
       "date": "2026-03-07",
       "count": 1
@@ -43,9 +39,21 @@
     {
       "date": "2026-03-12",
       "count": 1
+    },
+    {
+      "date": "2026-03-13",
+      "count": 1
     }
   ],
   "recentProblems": [
+    {
+      "title": "3296. Minimum Number of Seconds to Make Mountain Height Zero",
+      "slug": "minimum-number-of-seconds-to-make-mountain-height-zero",
+      "language": "cpp",
+      "day": "2026-03-13",
+      "problemUrl": "https://leetcode.com/problems/minimum-number-of-seconds-to-make-mountain-height-zero/",
+      "solutionPath": "leetcode/minimum-number-of-seconds-to-make-mountain-height-zero-3296.-minimum-number-of-seconds-to-make-mountain-height-zero/solution.cpp"
+    },
     {
       "title": "3600. Maximize Spanning Tree Stability with Upgrades",
       "slug": "maximize-spanning-tree-stability-with-upgrades",
@@ -117,14 +125,6 @@
       "day": "2026-03-06",
       "problemUrl": "https://leetcode.com/problems/check-if-binary-string-has-at-most-one-segment-of-ones/",
       "solutionPath": "leetcode/check-if-binary-string-has-at-most-one-segment-of-ones-1784.-check-if-binary-string-has-at-most-one-segment-of-ones/solution.cpp"
-    },
-    {
-      "title": "1758. Minimum Changes To Make Alternating Binary String",
-      "slug": "minimum-changes-to-make-alternating-binary-string",
-      "language": "cpp",
-      "day": "2026-03-05",
-      "problemUrl": "https://leetcode.com/problems/minimum-changes-to-make-alternating-binary-string/",
-      "solutionPath": "leetcode/minimum-changes-to-make-alternating-binary-string-1758.-minimum-changes-to-make-alternating-binary-string/solution.cpp"
     }
   ]
 }
