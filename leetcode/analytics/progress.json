@@ -1,25 +1,21 @@
 {
-  "generatedAt": "2026-03-13T06:01:15.013Z",
-  "totalAcceptedSubmissions": 31,
-  "uniqueProblemsSolved": 25,
+  "generatedAt": "2026-03-14T18:03:49.298Z",
+  "totalAcceptedSubmissions": 32,
+  "uniqueProblemsSolved": 26,
   "solvedToday": 1,
-  "currentStreak": 18,
-  "longestStreak": 18,
+  "currentStreak": 19,
+  "longestStreak": 19,
   "languageBreakdown": {
-    "cpp": 31
+    "cpp": 32
   },
   "topicBreakdown": {
     "misc": 14,
-    "string": 10,
+    "string": 11,
     "array": 4,
     "tree": 2,
     "binary-search": 1
   },
   "last7Days": [
-    {
-      "date": "2026-03-07",
-      "count": 1
-    },
     {
       "date": "2026-03-08",
       "count": 1
@@ -43,9 +39,21 @@
     {
       "date": "2026-03-13",
       "count": 1
+    },
+    {
+      "date": "2026-03-14",
+      "count": 1
     }
   ],
   "recentProblems": [
+    {
+      "title": "1415. The k-th Lexicographical String of All Happy Strings of Length n",
+      "slug": "the-k-th-lexicographical-string-of-all-happy-strings-of-length-n",
+      "language": "cpp",
+      "day": "2026-03-14",
+      "problemUrl": "https://leetcode.com/problems/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/",
+      "solutionPath": "leetcode/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n-1415.-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/solution.cpp"
+    },
     {
       "title": "3296. Minimum Number of Seconds to Make Mountain Height Zero",
       "slug": "minimum-number-of-seconds-to-make-mountain-height-zero",
@@ -117,14 +125,6 @@
       "day": "2026-03-07",
       "problemUrl": "https://leetcode.com/problems/minimum-number-of-flips-to-make-the-binary-string-alternating/",
       "solutionPath": "leetcode/minimum-number-of-flips-to-make-the-binary-string-alternating-1888.-minimum-number-of-flips-to-make-the-binary-string-alternating/solution.cpp"
-    },
-    {
-      "title": "1784. Check if Binary String Has at Most One Segment of Ones",
-      "slug": "check-if-binary-string-has-at-most-one-segment-of-ones",
-      "language": "cpp",
-      "day": "2026-03-06",
-      "problemUrl": "https://leetcode.com/problems/check-if-binary-string-has-at-most-one-segment-of-ones/",
-      "solutionPath": "leetcode/check-if-binary-string-has-at-most-one-segment-of-ones-1784.-check-if-binary-string-has-at-most-one-segment-of-ones/solution.cpp"
     }
   ]
 }
