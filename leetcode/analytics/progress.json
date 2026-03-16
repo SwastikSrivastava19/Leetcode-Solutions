@@ -1,16 +1,16 @@
 {
-  "generatedAt": "2026-03-16T09:39:25.236Z",
-  "totalAcceptedSubmissions": 35,
-  "uniqueProblemsSolved": 28,
-  "solvedToday": 3,
+  "generatedAt": "2026-03-16T09:52:43.781Z",
+  "totalAcceptedSubmissions": 36,
+  "uniqueProblemsSolved": 29,
+  "solvedToday": 4,
   "currentStreak": 1,
   "longestStreak": 19,
   "languageBreakdown": {
-    "cpp": 34,
+    "cpp": 35,
     "java": 1
   },
   "topicBreakdown": {
-    "misc": 17,
+    "misc": 18,
     "string": 11,
     "array": 4,
     "tree": 2,
@@ -43,10 +43,18 @@
     },
     {
       "date": "2026-03-16",
-      "count": 3
+      "count": 4
     }
   ],
   "recentProblems": [
+    {
+      "title": "3871. Count Commas in Range II",
+      "slug": "count-commas-in-range-ii",
+      "language": "cpp",
+      "day": "2026-03-16",
+      "problemUrl": "https://leetcode.com/problems/count-commas-in-range-ii/",
+      "solutionPath": "leetcode/count-commas-in-range-ii-3871.-count-commas-in-range-ii/solution.cpp"
+    },
     {
       "title": "3870. Count Commas in Range",
       "slug": "count-commas-in-range",
@@ -118,14 +126,6 @@
       "day": "2026-03-10",
       "problemUrl": "https://leetcode.com/problems/find-all-possible-stable-binary-arrays-ii/",
       "solutionPath": "leetcode/find-all-possible-stable-binary-arrays-ii-3130.-find-all-possible-stable-binary-arrays-ii/solution.cpp"
-    },
-    {
-      "title": "3129. Find All Possible Stable Binary Arrays I",
-      "slug": "find-all-possible-stable-binary-arrays-i",
-      "language": "cpp",
-      "day": "2026-03-09",
-      "problemUrl": "https://leetcode.com/problems/find-all-possible-stable-binary-arrays-i/",
-      "solutionPath": "leetcode/find-all-possible-stable-binary-arrays-i-3129.-find-all-possible-stable-binary-arrays-i/solution.cpp"
     }
   ]
 }
