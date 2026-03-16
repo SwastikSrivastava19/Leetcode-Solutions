@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-03-16T06:13:09.597Z",
-  "totalAcceptedSubmissions": 33,
-  "uniqueProblemsSolved": 27,
-  "solvedToday": 1,
+  "generatedAt": "2026-03-16T06:50:08.574Z",
+  "totalAcceptedSubmissions": 34,
+  "uniqueProblemsSolved": 28,
+  "solvedToday": 2,
   "currentStreak": 1,
   "longestStreak": 19,
   "languageBreakdown": {
-    "cpp": 33
+    "cpp": 34
   },
   "topicBreakdown": {
-    "misc": 15,
+    "misc": 16,
     "string": 11,
     "array": 4,
     "tree": 2,
@@ -42,10 +42,18 @@
     },
     {
       "date": "2026-03-16",
-      "count": 1
+      "count": 2
     }
   ],
   "recentProblems": [
+    {
+      "title": "3870. Count Commas in Range",
+      "slug": "count-commas-in-range",
+      "language": "cpp",
+      "day": "2026-03-16",
+      "problemUrl": "https://leetcode.com/problems/count-commas-in-range/",
+      "solutionPath": "leetcode/count-commas-in-range-3870.-count-commas-in-range/solution.cpp"
+    },
     {
       "title": "1622. Fancy Sequence",
       "slug": "fancy-sequence",
@@ -117,14 +125,6 @@
       "day": "2026-03-09",
       "problemUrl": "https://leetcode.com/problems/find-all-possible-stable-binary-arrays-i/",
       "solutionPath": "leetcode/find-all-possible-stable-binary-arrays-i-3129.-find-all-possible-stable-binary-arrays-i/solution.cpp"
-    },
-    {
-      "title": "1980. Find Unique Binary String",
-      "slug": "find-unique-binary-string",
-      "language": "cpp",
-      "day": "2026-03-08",
-      "problemUrl": "https://leetcode.com/problems/find-unique-binary-string/",
-      "solutionPath": "leetcode/find-unique-binary-string-1980.-find-unique-binary-string/solution.cpp"
     }
   ]
 }
