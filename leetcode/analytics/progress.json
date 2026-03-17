@@ -1,16 +1,16 @@
 {
-  "generatedAt": "2026-03-17T07:54:15.956Z",
-  "totalAcceptedSubmissions": 38,
-  "uniqueProblemsSolved": 31,
-  "solvedToday": 2,
+  "generatedAt": "2026-03-17T08:34:02.233Z",
+  "totalAcceptedSubmissions": 39,
+  "uniqueProblemsSolved": 32,
+  "solvedToday": 3,
   "currentStreak": 2,
   "longestStreak": 19,
   "languageBreakdown": {
-    "cpp": 37,
+    "cpp": 38,
     "java": 1
   },
   "topicBreakdown": {
-    "misc": 18,
+    "misc": 19,
     "string": 11,
     "array": 6,
     "tree": 2,
@@ -43,10 +43,18 @@
     },
     {
       "date": "2026-03-17",
-      "count": 2
+      "count": 3
     }
   ],
   "recentProblems": [
+    {
+      "title": "383. Ransom Note",
+      "slug": "ransom-note",
+      "language": "cpp",
+      "day": "2026-03-17",
+      "problemUrl": "https://leetcode.com/problems/ransom-note/",
+      "solutionPath": "leetcode/ransom-note-383.-ransom-note/solution.cpp"
+    },
     {
       "title": "209. Minimum Size Subarray Sum",
       "slug": "minimum-size-subarray-sum",
@@ -118,14 +126,6 @@
       "day": "2026-03-11",
       "problemUrl": "https://leetcode.com/problems/minimum-depth-of-binary-tree/",
       "solutionPath": "leetcode/minimum-depth-of-binary-tree-111.-minimum-depth-of-binary-tree/solution.cpp"
-    },
-    {
-      "title": "476. Number Complement",
-      "slug": "number-complement",
-      "language": "cpp",
-      "day": "2026-03-11",
-      "problemUrl": "https://leetcode.com/problems/number-complement/",
-      "solutionPath": "leetcode/number-complement-476.-number-complement/solution.cpp"
     }
   ]
 }
