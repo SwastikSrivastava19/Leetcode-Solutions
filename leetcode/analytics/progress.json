@@ -1,16 +1,16 @@
 {
-  "generatedAt": "2026-03-17T08:34:02.233Z",
-  "totalAcceptedSubmissions": 39,
-  "uniqueProblemsSolved": 32,
-  "solvedToday": 3,
+  "generatedAt": "2026-03-17T08:48:59.164Z",
+  "totalAcceptedSubmissions": 40,
+  "uniqueProblemsSolved": 33,
+  "solvedToday": 4,
   "currentStreak": 2,
   "longestStreak": 19,
   "languageBreakdown": {
-    "cpp": 38,
+    "cpp": 39,
     "java": 1
   },
   "topicBreakdown": {
-    "misc": 19,
+    "misc": 20,
     "string": 11,
     "array": 6,
     "tree": 2,
@@ -43,10 +43,18 @@
     },
     {
       "date": "2026-03-17",
-      "count": 3
+      "count": 4
     }
   ],
   "recentProblems": [
+    {
+      "title": "1160. Find Words That Can Be Formed by Characters",
+      "slug": "find-words-that-can-be-formed-by-characters",
+      "language": "cpp",
+      "day": "2026-03-17",
+      "problemUrl": "https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/",
+      "solutionPath": "leetcode/find-words-that-can-be-formed-by-characters-1160.-find-words-that-can-be-formed-by-characters/solution.cpp"
+    },
     {
       "title": "383. Ransom Note",
       "slug": "ransom-note",
@@ -118,14 +126,6 @@
       "day": "2026-03-12",
       "problemUrl": "https://leetcode.com/problems/maximize-spanning-tree-stability-with-upgrades/",
       "solutionPath": "leetcode/maximize-spanning-tree-stability-with-upgrades-3600.-maximize-spanning-tree-stability-with-upgrades/solution.cpp"
-    },
-    {
-      "title": "111. Minimum Depth of Binary Tree",
-      "slug": "minimum-depth-of-binary-tree",
-      "language": "cpp",
-      "day": "2026-03-11",
-      "problemUrl": "https://leetcode.com/problems/minimum-depth-of-binary-tree/",
-      "solutionPath": "leetcode/minimum-depth-of-binary-tree-111.-minimum-depth-of-binary-tree/solution.cpp"
     }
   ]
 }
