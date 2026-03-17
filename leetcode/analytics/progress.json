@@ -1,16 +1,16 @@
 {
-  "generatedAt": "2026-03-17T08:48:59.164Z",
-  "totalAcceptedSubmissions": 40,
-  "uniqueProblemsSolved": 33,
-  "solvedToday": 4,
+  "generatedAt": "2026-03-17T16:14:14.395Z",
+  "totalAcceptedSubmissions": 41,
+  "uniqueProblemsSolved": 34,
+  "solvedToday": 5,
   "currentStreak": 2,
   "longestStreak": 19,
   "languageBreakdown": {
-    "cpp": 39,
+    "cpp": 40,
     "java": 1
   },
   "topicBreakdown": {
-    "misc": 20,
+    "misc": 21,
     "string": 11,
     "array": 6,
     "tree": 2,
@@ -43,10 +43,18 @@
     },
     {
       "date": "2026-03-17",
-      "count": 4
+      "count": 5
     }
   ],
   "recentProblems": [
+    {
+      "title": "1727. Largest Submatrix With Rearrangements",
+      "slug": "largest-submatrix-with-rearrangements",
+      "language": "cpp",
+      "day": "2026-03-17",
+      "problemUrl": "https://leetcode.com/problems/largest-submatrix-with-rearrangements/",
+      "solutionPath": "leetcode/largest-submatrix-with-rearrangements-1727.-largest-submatrix-with-rearrangements/solution.cpp"
+    },
     {
       "title": "1160. Find Words That Can Be Formed by Characters",
       "slug": "find-words-that-can-be-formed-by-characters",
@@ -118,14 +126,6 @@
       "day": "2026-03-13",
       "problemUrl": "https://leetcode.com/problems/minimum-number-of-seconds-to-make-mountain-height-zero/",
       "solutionPath": "leetcode/minimum-number-of-seconds-to-make-mountain-height-zero-3296.-minimum-number-of-seconds-to-make-mountain-height-zero/solution.cpp"
-    },
-    {
-      "title": "3600. Maximize Spanning Tree Stability with Upgrades",
-      "slug": "maximize-spanning-tree-stability-with-upgrades",
-      "language": "cpp",
-      "day": "2026-03-12",
-      "problemUrl": "https://leetcode.com/problems/maximize-spanning-tree-stability-with-upgrades/",
-      "solutionPath": "leetcode/maximize-spanning-tree-stability-with-upgrades-3600.-maximize-spanning-tree-stability-with-upgrades/solution.cpp"
     }
   ]
 }
