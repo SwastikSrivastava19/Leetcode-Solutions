@@ -1,16 +1,16 @@
 {
-  "generatedAt": "2026-03-18T06:46:07.223Z",
-  "totalAcceptedSubmissions": 48,
-  "uniqueProblemsSolved": 41,
-  "solvedToday": 7,
+  "generatedAt": "2026-03-18T07:40:03.698Z",
+  "totalAcceptedSubmissions": 49,
+  "uniqueProblemsSolved": 42,
+  "solvedToday": 8,
   "currentStreak": 3,
   "longestStreak": 19,
   "languageBreakdown": {
-    "cpp": 47,
+    "cpp": 48,
     "java": 1
   },
   "topicBreakdown": {
-    "misc": 23,
+    "misc": 24,
     "string": 12,
     "array": 10,
     "tree": 2,
@@ -43,10 +43,18 @@
     },
     {
       "date": "2026-03-18",
-      "count": 7
+      "count": 8
     }
   ],
   "recentProblems": [
+    {
+      "title": "1004. Max Consecutive Ones III",
+      "slug": "max-consecutive-ones-iii",
+      "language": "cpp",
+      "day": "2026-03-18",
+      "problemUrl": "https://leetcode.com/problems/max-consecutive-ones-iii/",
+      "solutionPath": "leetcode/max-consecutive-ones-iii-1004.-max-consecutive-ones-iii/solution.cpp"
+    },
     {
       "title": "2302. Count Subarrays With Score Less Than K",
       "slug": "count-subarrays-with-score-less-than-k",
@@ -118,14 +126,6 @@
       "day": "2026-03-17",
       "problemUrl": "https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/",
       "solutionPath": "leetcode/find-words-that-can-be-formed-by-characters-1160.-find-words-that-can-be-formed-by-characters/solution.cpp"
-    },
-    {
-      "title": "383. Ransom Note",
-      "slug": "ransom-note",
-      "language": "cpp",
-      "day": "2026-03-17",
-      "problemUrl": "https://leetcode.com/problems/ransom-note/",
-      "solutionPath": "leetcode/ransom-note-383.-ransom-note/solution.cpp"
     }
   ]
 }
