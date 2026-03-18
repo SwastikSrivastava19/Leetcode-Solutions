@@ -1,18 +1,18 @@
 {
-  "generatedAt": "2026-03-18T08:43:17.151Z",
-  "totalAcceptedSubmissions": 52,
-  "uniqueProblemsSolved": 44,
-  "solvedToday": 11,
+  "generatedAt": "2026-03-18T16:37:10.245Z",
+  "totalAcceptedSubmissions": 53,
+  "uniqueProblemsSolved": 45,
+  "solvedToday": 12,
   "currentStreak": 3,
   "longestStreak": 19,
   "languageBreakdown": {
-    "cpp": 51,
+    "cpp": 52,
     "java": 1
   },
   "topicBreakdown": {
     "misc": 27,
     "string": 12,
-    "array": 10,
+    "array": 11,
     "tree": 2,
     "binary-search": 1
   },
@@ -43,10 +43,18 @@
     },
     {
       "date": "2026-03-18",
-      "count": 11
+      "count": 12
     }
   ],
   "recentProblems": [
+    {
+      "title": "3070. Count Submatrices with Top-Left Element and Sum Less Than k",
+      "slug": "count-submatrices-with-top-left-element-and-sum-less-than-k",
+      "language": "cpp",
+      "day": "2026-03-18",
+      "problemUrl": "https://leetcode.com/problems/count-submatrices-with-top-left-element-and-sum-less-than-k/",
+      "solutionPath": "leetcode/count-submatrices-with-top-left-element-and-sum-less-than-k-3070.-count-submatrices-with-top-left-element-and-sum-less-than-k/solution.cpp"
+    },
     {
       "title": "763. Partition Labels",
       "slug": "partition-labels",
@@ -118,14 +126,6 @@
       "day": "2026-03-18",
       "problemUrl": "https://leetcode.com/problems/grumpy-bookstore-owner/",
       "solutionPath": "leetcode/grumpy-bookstore-owner-1052.-grumpy-bookstore-owner/solution.cpp"
-    },
-    {
-      "title": "1695. Maximum Erasure Value",
-      "slug": "maximum-erasure-value",
-      "language": "cpp",
-      "day": "2026-03-18",
-      "problemUrl": "https://leetcode.com/problems/maximum-erasure-value/",
-      "solutionPath": "leetcode/maximum-erasure-value-1695.-maximum-erasure-value/solution.cpp"
     }
   ]
 }
