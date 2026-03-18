@@ -1,16 +1,16 @@
 {
-  "generatedAt": "2026-03-18T03:45:34.055Z",
-  "totalAcceptedSubmissions": 42,
-  "uniqueProblemsSolved": 35,
-  "solvedToday": 1,
+  "generatedAt": "2026-03-18T04:08:18.995Z",
+  "totalAcceptedSubmissions": 43,
+  "uniqueProblemsSolved": 36,
+  "solvedToday": 2,
   "currentStreak": 3,
   "longestStreak": 19,
   "languageBreakdown": {
-    "cpp": 41,
+    "cpp": 42,
     "java": 1
   },
   "topicBreakdown": {
-    "misc": 22,
+    "misc": 23,
     "string": 11,
     "array": 6,
     "tree": 2,
@@ -43,10 +43,18 @@
     },
     {
       "date": "2026-03-18",
-      "count": 1
+      "count": 2
     }
   ],
   "recentProblems": [
+    {
+      "title": "1052. Grumpy Bookstore Owner",
+      "slug": "grumpy-bookstore-owner",
+      "language": "cpp",
+      "day": "2026-03-18",
+      "problemUrl": "https://leetcode.com/problems/grumpy-bookstore-owner/",
+      "solutionPath": "leetcode/grumpy-bookstore-owner-1052.-grumpy-bookstore-owner/solution.cpp"
+    },
     {
       "title": "1695. Maximum Erasure Value",
       "slug": "maximum-erasure-value",
@@ -118,14 +126,6 @@
       "day": "2026-03-16",
       "problemUrl": "https://leetcode.com/problems/fancy-sequence/",
       "solutionPath": "leetcode/fancy-sequence-1622.-fancy-sequence/solution.cpp"
-    },
-    {
-      "title": "1415. The k-th Lexicographical String of All Happy Strings of Length n",
-      "slug": "the-k-th-lexicographical-string-of-all-happy-strings-of-length-n",
-      "language": "cpp",
-      "day": "2026-03-14",
-      "problemUrl": "https://leetcode.com/problems/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/",
-      "solutionPath": "leetcode/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n-1415.-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/solution.cpp"
     }
   ]
 }
