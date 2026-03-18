@@ -1,18 +1,18 @@
 {
-  "generatedAt": "2026-03-18T06:17:41.584Z",
-  "totalAcceptedSubmissions": 47,
-  "uniqueProblemsSolved": 40,
-  "solvedToday": 6,
+  "generatedAt": "2026-03-18T06:46:07.223Z",
+  "totalAcceptedSubmissions": 48,
+  "uniqueProblemsSolved": 41,
+  "solvedToday": 7,
   "currentStreak": 3,
   "longestStreak": 19,
   "languageBreakdown": {
-    "cpp": 46,
+    "cpp": 47,
     "java": 1
   },
   "topicBreakdown": {
     "misc": 23,
     "string": 12,
-    "array": 9,
+    "array": 10,
     "tree": 2,
     "binary-search": 1
   },
@@ -43,10 +43,18 @@
     },
     {
       "date": "2026-03-18",
-      "count": 6
+      "count": 7
     }
   ],
   "recentProblems": [
+    {
+      "title": "2302. Count Subarrays With Score Less Than K",
+      "slug": "count-subarrays-with-score-less-than-k",
+      "language": "cpp",
+      "day": "2026-03-18",
+      "problemUrl": "https://leetcode.com/problems/count-subarrays-with-score-less-than-k/",
+      "solutionPath": "leetcode/count-subarrays-with-score-less-than-k-2302.-count-subarrays-with-score-less-than-k/solution.cpp"
+    },
     {
       "title": "3254. Find the Power of K-Size Subarrays I",
       "slug": "find-the-power-of-k-size-subarrays-i",
@@ -118,14 +126,6 @@
       "day": "2026-03-17",
       "problemUrl": "https://leetcode.com/problems/ransom-note/",
       "solutionPath": "leetcode/ransom-note-383.-ransom-note/solution.cpp"
-    },
-    {
-      "title": "209. Minimum Size Subarray Sum",
-      "slug": "minimum-size-subarray-sum",
-      "language": "cpp",
-      "day": "2026-03-17",
-      "problemUrl": "https://leetcode.com/problems/minimum-size-subarray-sum/",
-      "solutionPath": "leetcode/minimum-size-subarray-sum-209.-minimum-size-subarray-sum/solution.cpp"
     }
   ]
 }
