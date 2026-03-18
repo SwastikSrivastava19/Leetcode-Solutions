@@ -1,18 +1,18 @@
 {
-  "generatedAt": "2026-03-18T04:47:34.359Z",
-  "totalAcceptedSubmissions": 44,
-  "uniqueProblemsSolved": 37,
-  "solvedToday": 3,
+  "generatedAt": "2026-03-18T05:30:26.718Z",
+  "totalAcceptedSubmissions": 45,
+  "uniqueProblemsSolved": 38,
+  "solvedToday": 4,
   "currentStreak": 3,
   "longestStreak": 19,
   "languageBreakdown": {
-    "cpp": 43,
+    "cpp": 44,
     "java": 1
   },
   "topicBreakdown": {
     "misc": 23,
     "string": 12,
-    "array": 6,
+    "array": 7,
     "tree": 2,
     "binary-search": 1
   },
@@ -43,10 +43,18 @@
     },
     {
       "date": "2026-03-18",
-      "count": 3
+      "count": 4
     }
   ],
   "recentProblems": [
+    {
+      "title": "2958. Length of Longest Subarray With at Most K Frequency",
+      "slug": "length-of-longest-subarray-with-at-most-k-frequency",
+      "language": "cpp",
+      "day": "2026-03-18",
+      "problemUrl": "https://leetcode.com/problems/length-of-longest-subarray-with-at-most-k-frequency/",
+      "solutionPath": "leetcode/length-of-longest-subarray-with-at-most-k-frequency-2958.-length-of-longest-subarray-with-at-most-k-frequency/solution.cpp"
+    },
     {
       "title": "1208. Get Equal Substrings Within Budget",
       "slug": "get-equal-substrings-within-budget",
@@ -118,14 +126,6 @@
       "day": "2026-03-16",
       "problemUrl": "https://leetcode.com/problems/count-commas-in-range-ii/",
       "solutionPath": "leetcode/count-commas-in-range-ii-3871.-count-commas-in-range-ii/solution.cpp"
-    },
-    {
-      "title": "3870. Count Commas in Range",
-      "slug": "count-commas-in-range",
-      "language": "java",
-      "day": "2026-03-16",
-      "problemUrl": "https://leetcode.com/problems/count-commas-in-range/",
-      "solutionPath": "leetcode/count-commas-in-range-3870.-count-commas-in-range/solution.java"
     }
   ]
 }
