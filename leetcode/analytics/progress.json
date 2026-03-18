@@ -1,18 +1,18 @@
 {
-  "generatedAt": "2026-03-18T05:30:26.718Z",
-  "totalAcceptedSubmissions": 45,
-  "uniqueProblemsSolved": 38,
-  "solvedToday": 4,
+  "generatedAt": "2026-03-18T05:52:09.238Z",
+  "totalAcceptedSubmissions": 46,
+  "uniqueProblemsSolved": 39,
+  "solvedToday": 5,
   "currentStreak": 3,
   "longestStreak": 19,
   "languageBreakdown": {
-    "cpp": 44,
+    "cpp": 45,
     "java": 1
   },
   "topicBreakdown": {
     "misc": 23,
     "string": 12,
-    "array": 7,
+    "array": 8,
     "tree": 2,
     "binary-search": 1
   },
@@ -43,10 +43,18 @@
     },
     {
       "date": "2026-03-18",
-      "count": 4
+      "count": 5
     }
   ],
   "recentProblems": [
+    {
+      "title": "2962. Count Subarrays Where Max Element Appears at Least K Times",
+      "slug": "count-subarrays-where-max-element-appears-at-least-k-times",
+      "language": "cpp",
+      "day": "2026-03-18",
+      "problemUrl": "https://leetcode.com/problems/count-subarrays-where-max-element-appears-at-least-k-times/",
+      "solutionPath": "leetcode/count-subarrays-where-max-element-appears-at-least-k-times-2962.-count-subarrays-where-max-element-appears-at-least-k-times/solution.cpp"
+    },
     {
       "title": "2958. Length of Longest Subarray With at Most K Frequency",
       "slug": "length-of-longest-subarray-with-at-most-k-frequency",
@@ -118,14 +126,6 @@
       "day": "2026-03-17",
       "problemUrl": "https://leetcode.com/problems/get-biggest-three-rhombus-sums-in-a-grid/",
       "solutionPath": "leetcode/get-biggest-three-rhombus-sums-in-a-grid-1878.-get-biggest-three-rhombus-sums-in-a-grid/solution.cpp"
-    },
-    {
-      "title": "3871. Count Commas in Range II",
-      "slug": "count-commas-in-range-ii",
-      "language": "cpp",
-      "day": "2026-03-16",
-      "problemUrl": "https://leetcode.com/problems/count-commas-in-range-ii/",
-      "solutionPath": "leetcode/count-commas-in-range-ii-3871.-count-commas-in-range-ii/solution.cpp"
     }
   ]
 }
