@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-03-18T04:08:18.995Z",
-  "totalAcceptedSubmissions": 43,
-  "uniqueProblemsSolved": 36,
-  "solvedToday": 2,
+  "generatedAt": "2026-03-18T04:47:34.359Z",
+  "totalAcceptedSubmissions": 44,
+  "uniqueProblemsSolved": 37,
+  "solvedToday": 3,
   "currentStreak": 3,
   "longestStreak": 19,
   "languageBreakdown": {
-    "cpp": 42,
+    "cpp": 43,
     "java": 1
   },
   "topicBreakdown": {
     "misc": 23,
-    "string": 11,
+    "string": 12,
     "array": 6,
     "tree": 2,
     "binary-search": 1
@@ -43,10 +43,18 @@
     },
     {
       "date": "2026-03-18",
-      "count": 2
+      "count": 3
     }
   ],
   "recentProblems": [
+    {
+      "title": "1208. Get Equal Substrings Within Budget",
+      "slug": "get-equal-substrings-within-budget",
+      "language": "cpp",
+      "day": "2026-03-18",
+      "problemUrl": "https://leetcode.com/problems/get-equal-substrings-within-budget/",
+      "solutionPath": "leetcode/get-equal-substrings-within-budget-1208.-get-equal-substrings-within-budget/solution.cpp"
+    },
     {
       "title": "1052. Grumpy Bookstore Owner",
       "slug": "grumpy-bookstore-owner",
@@ -118,14 +126,6 @@
       "day": "2026-03-16",
       "problemUrl": "https://leetcode.com/problems/count-commas-in-range/",
       "solutionPath": "leetcode/count-commas-in-range-3870.-count-commas-in-range/solution.java"
-    },
-    {
-      "title": "1622. Fancy Sequence",
-      "slug": "fancy-sequence",
-      "language": "cpp",
-      "day": "2026-03-16",
-      "problemUrl": "https://leetcode.com/problems/fancy-sequence/",
-      "solutionPath": "leetcode/fancy-sequence-1622.-fancy-sequence/solution.cpp"
     }
   ]
 }
