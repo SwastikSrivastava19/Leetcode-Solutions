@@ -1,16 +1,16 @@
 {
-  "generatedAt": "2026-03-18T08:02:43.543Z",
-  "totalAcceptedSubmissions": 51,
-  "uniqueProblemsSolved": 43,
-  "solvedToday": 10,
+  "generatedAt": "2026-03-18T08:43:17.151Z",
+  "totalAcceptedSubmissions": 52,
+  "uniqueProblemsSolved": 44,
+  "solvedToday": 11,
   "currentStreak": 3,
   "longestStreak": 19,
   "languageBreakdown": {
-    "cpp": 50,
+    "cpp": 51,
     "java": 1
   },
   "topicBreakdown": {
-    "misc": 26,
+    "misc": 27,
     "string": 12,
     "array": 10,
     "tree": 2,
@@ -43,10 +43,18 @@
     },
     {
       "date": "2026-03-18",
-      "count": 10
+      "count": 11
     }
   ],
   "recentProblems": [
+    {
+      "title": "763. Partition Labels",
+      "slug": "partition-labels",
+      "language": "cpp",
+      "day": "2026-03-18",
+      "problemUrl": "https://leetcode.com/problems/partition-labels/",
+      "solutionPath": "leetcode/partition-labels-763.-partition-labels/solution.cpp"
+    },
     {
       "title": "1561. Maximum Number of Coins You Can Get",
       "slug": "maximum-number-of-coins-you-can-get",
@@ -118,14 +126,6 @@
       "day": "2026-03-18",
       "problemUrl": "https://leetcode.com/problems/maximum-erasure-value/",
       "solutionPath": "leetcode/maximum-erasure-value-1695.-maximum-erasure-value/solution.cpp"
-    },
-    {
-      "title": "1727. Largest Submatrix With Rearrangements",
-      "slug": "largest-submatrix-with-rearrangements",
-      "language": "cpp",
-      "day": "2026-03-17",
-      "problemUrl": "https://leetcode.com/problems/largest-submatrix-with-rearrangements/",
-      "solutionPath": "leetcode/largest-submatrix-with-rearrangements-1727.-largest-submatrix-with-rearrangements/solution.cpp"
     }
   ]
 }
