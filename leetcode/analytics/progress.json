@@ -1,26 +1,22 @@
 {
-  "generatedAt": "2026-03-17T16:14:14.395Z",
-  "totalAcceptedSubmissions": 41,
-  "uniqueProblemsSolved": 34,
-  "solvedToday": 5,
-  "currentStreak": 2,
+  "generatedAt": "2026-03-18T03:45:34.055Z",
+  "totalAcceptedSubmissions": 42,
+  "uniqueProblemsSolved": 35,
+  "solvedToday": 1,
+  "currentStreak": 3,
   "longestStreak": 19,
   "languageBreakdown": {
-    "cpp": 40,
+    "cpp": 41,
     "java": 1
   },
   "topicBreakdown": {
-    "misc": 21,
+    "misc": 22,
     "string": 11,
     "array": 6,
     "tree": 2,
     "binary-search": 1
   },
   "last7Days": [
-    {
-      "date": "2026-03-11",
-      "count": 3
-    },
     {
       "date": "2026-03-12",
       "count": 1
@@ -44,9 +40,21 @@
     {
       "date": "2026-03-17",
       "count": 5
+    },
+    {
+      "date": "2026-03-18",
+      "count": 1
     }
   ],
   "recentProblems": [
+    {
+      "title": "1695. Maximum Erasure Value",
+      "slug": "maximum-erasure-value",
+      "language": "cpp",
+      "day": "2026-03-18",
+      "problemUrl": "https://leetcode.com/problems/maximum-erasure-value/",
+      "solutionPath": "leetcode/maximum-erasure-value-1695.-maximum-erasure-value/solution.cpp"
+    },
     {
       "title": "1727. Largest Submatrix With Rearrangements",
       "slug": "largest-submatrix-with-rearrangements",
@@ -118,14 +126,6 @@
       "day": "2026-03-14",
       "problemUrl": "https://leetcode.com/problems/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/",
       "solutionPath": "leetcode/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n-1415.-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/solution.cpp"
-    },
-    {
-      "title": "3296. Minimum Number of Seconds to Make Mountain Height Zero",
-      "slug": "minimum-number-of-seconds-to-make-mountain-height-zero",
-      "language": "cpp",
-      "day": "2026-03-13",
-      "problemUrl": "https://leetcode.com/problems/minimum-number-of-seconds-to-make-mountain-height-zero/",
-      "solutionPath": "leetcode/minimum-number-of-seconds-to-make-mountain-height-zero-3296.-minimum-number-of-seconds-to-make-mountain-height-zero/solution.cpp"
     }
   ]
 }
