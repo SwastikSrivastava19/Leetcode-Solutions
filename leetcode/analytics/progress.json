@@ -1,16 +1,16 @@
 {
-  "generatedAt": "2026-03-18T07:40:03.698Z",
-  "totalAcceptedSubmissions": 49,
-  "uniqueProblemsSolved": 42,
-  "solvedToday": 8,
+  "generatedAt": "2026-03-18T07:55:03.035Z",
+  "totalAcceptedSubmissions": 50,
+  "uniqueProblemsSolved": 43,
+  "solvedToday": 9,
   "currentStreak": 3,
   "longestStreak": 19,
   "languageBreakdown": {
-    "cpp": 48,
+    "cpp": 49,
     "java": 1
   },
   "topicBreakdown": {
-    "misc": 24,
+    "misc": 25,
     "string": 12,
     "array": 10,
     "tree": 2,
@@ -43,10 +43,18 @@
     },
     {
       "date": "2026-03-18",
-      "count": 8
+      "count": 9
     }
   ],
   "recentProblems": [
+    {
+      "title": "1561. Maximum Number of Coins You Can Get",
+      "slug": "maximum-number-of-coins-you-can-get",
+      "language": "cpp",
+      "day": "2026-03-18",
+      "problemUrl": "https://leetcode.com/problems/maximum-number-of-coins-you-can-get/",
+      "solutionPath": "leetcode/maximum-number-of-coins-you-can-get-1561.-maximum-number-of-coins-you-can-get/solution.cpp"
+    },
     {
       "title": "1004. Max Consecutive Ones III",
       "slug": "max-consecutive-ones-iii",
@@ -118,14 +126,6 @@
       "day": "2026-03-17",
       "problemUrl": "https://leetcode.com/problems/largest-submatrix-with-rearrangements/",
       "solutionPath": "leetcode/largest-submatrix-with-rearrangements-1727.-largest-submatrix-with-rearrangements/solution.cpp"
-    },
-    {
-      "title": "1160. Find Words That Can Be Formed by Characters",
-      "slug": "find-words-that-can-be-formed-by-characters",
-      "language": "cpp",
-      "day": "2026-03-17",
-      "problemUrl": "https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/",
-      "solutionPath": "leetcode/find-words-that-can-be-formed-by-characters-1160.-find-words-that-can-be-formed-by-characters/solution.cpp"
     }
   ]
 }
