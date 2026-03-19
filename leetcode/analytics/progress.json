@@ -1,16 +1,16 @@
 {
-  "generatedAt": "2026-03-19T08:29:37.863Z",
-  "totalAcceptedSubmissions": 58,
-  "uniqueProblemsSolved": 50,
-  "solvedToday": 5,
+  "generatedAt": "2026-03-19T10:23:35.854Z",
+  "totalAcceptedSubmissions": 59,
+  "uniqueProblemsSolved": 51,
+  "solvedToday": 6,
   "currentStreak": 4,
   "longestStreak": 19,
   "languageBreakdown": {
-    "cpp": 57,
+    "cpp": 58,
     "java": 1
   },
   "topicBreakdown": {
-    "misc": 29,
+    "misc": 30,
     "array": 14,
     "string": 12,
     "tree": 2,
@@ -43,10 +43,18 @@
     },
     {
       "date": "2026-03-19",
-      "count": 5
+      "count": 6
     }
   ],
   "recentProblems": [
+    {
+      "title": "2134. Minimum Swaps to Group All 1's Together II",
+      "slug": "minimum-swaps-to-group-all-1s-together-ii",
+      "language": "cpp",
+      "day": "2026-03-19",
+      "problemUrl": "https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together-ii/",
+      "solutionPath": "leetcode/minimum-swaps-to-group-all-1s-together-ii-2134.-minimum-swaps-to-group-all-1s-together-ii/solution.cpp"
+    },
     {
       "title": "134. Gas Station",
       "slug": "gas-station",
@@ -118,14 +126,6 @@
       "day": "2026-03-18",
       "problemUrl": "https://leetcode.com/problems/max-consecutive-ones-iii/",
       "solutionPath": "leetcode/max-consecutive-ones-iii-1004.-max-consecutive-ones-iii/solution.cpp"
-    },
-    {
-      "title": "2302. Count Subarrays With Score Less Than K",
-      "slug": "count-subarrays-with-score-less-than-k",
-      "language": "cpp",
-      "day": "2026-03-18",
-      "problemUrl": "https://leetcode.com/problems/count-subarrays-with-score-less-than-k/",
-      "solutionPath": "leetcode/count-subarrays-with-score-less-than-k-2302.-count-subarrays-with-score-less-than-k/solution.cpp"
     }
   ]
 }
