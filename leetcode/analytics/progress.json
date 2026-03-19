@@ -1,26 +1,22 @@
 {
-  "generatedAt": "2026-03-18T16:37:10.245Z",
-  "totalAcceptedSubmissions": 53,
-  "uniqueProblemsSolved": 45,
-  "solvedToday": 12,
-  "currentStreak": 3,
+  "generatedAt": "2026-03-19T05:59:10.715Z",
+  "totalAcceptedSubmissions": 54,
+  "uniqueProblemsSolved": 46,
+  "solvedToday": 1,
+  "currentStreak": 4,
   "longestStreak": 19,
   "languageBreakdown": {
-    "cpp": 52,
+    "cpp": 53,
     "java": 1
   },
   "topicBreakdown": {
-    "misc": 27,
+    "misc": 28,
     "string": 12,
     "array": 11,
     "tree": 2,
     "binary-search": 1
   },
   "last7Days": [
-    {
-      "date": "2026-03-12",
-      "count": 1
-    },
     {
       "date": "2026-03-13",
       "count": 1
@@ -44,9 +40,21 @@
     {
       "date": "2026-03-18",
       "count": 12
+    },
+    {
+      "date": "2026-03-19",
+      "count": 1
     }
   ],
   "recentProblems": [
+    {
+      "title": "724. Find Pivot Index",
+      "slug": "find-pivot-index",
+      "language": "cpp",
+      "day": "2026-03-19",
+      "problemUrl": "https://leetcode.com/problems/find-pivot-index/",
+      "solutionPath": "leetcode/find-pivot-index-724.-find-pivot-index/solution.cpp"
+    },
     {
       "title": "3070. Count Submatrices with Top-Left Element and Sum Less Than k",
       "slug": "count-submatrices-with-top-left-element-and-sum-less-than-k",
@@ -118,14 +126,6 @@
       "day": "2026-03-18",
       "problemUrl": "https://leetcode.com/problems/get-equal-substrings-within-budget/",
       "solutionPath": "leetcode/get-equal-substrings-within-budget-1208.-get-equal-substrings-within-budget/solution.cpp"
-    },
-    {
-      "title": "1052. Grumpy Bookstore Owner",
-      "slug": "grumpy-bookstore-owner",
-      "language": "cpp",
-      "day": "2026-03-18",
-      "problemUrl": "https://leetcode.com/problems/grumpy-bookstore-owner/",
-      "solutionPath": "leetcode/grumpy-bookstore-owner-1052.-grumpy-bookstore-owner/solution.cpp"
     }
   ]
 }
