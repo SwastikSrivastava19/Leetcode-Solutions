@@ -1,16 +1,16 @@
 {
-  "generatedAt": "2026-03-19T06:38:51.295Z",
-  "totalAcceptedSubmissions": 57,
-  "uniqueProblemsSolved": 49,
-  "solvedToday": 4,
+  "generatedAt": "2026-03-19T08:29:37.863Z",
+  "totalAcceptedSubmissions": 58,
+  "uniqueProblemsSolved": 50,
+  "solvedToday": 5,
   "currentStreak": 4,
   "longestStreak": 19,
   "languageBreakdown": {
-    "cpp": 56,
+    "cpp": 57,
     "java": 1
   },
   "topicBreakdown": {
-    "misc": 28,
+    "misc": 29,
     "array": 14,
     "string": 12,
     "tree": 2,
@@ -43,10 +43,18 @@
     },
     {
       "date": "2026-03-19",
-      "count": 4
+      "count": 5
     }
   ],
   "recentProblems": [
+    {
+      "title": "134. Gas Station",
+      "slug": "gas-station",
+      "language": "cpp",
+      "day": "2026-03-19",
+      "problemUrl": "https://leetcode.com/problems/gas-station/",
+      "solutionPath": "leetcode/gas-station-134.-gas-station/solution.cpp"
+    },
     {
       "title": "304. Range Sum Query 2D - Immutable",
       "slug": "range-sum-query-2d-immutable",
@@ -118,14 +126,6 @@
       "day": "2026-03-18",
       "problemUrl": "https://leetcode.com/problems/count-subarrays-with-score-less-than-k/",
       "solutionPath": "leetcode/count-subarrays-with-score-less-than-k-2302.-count-subarrays-with-score-less-than-k/solution.cpp"
-    },
-    {
-      "title": "3254. Find the Power of K-Size Subarrays I",
-      "slug": "find-the-power-of-k-size-subarrays-i",
-      "language": "cpp",
-      "day": "2026-03-18",
-      "problemUrl": "https://leetcode.com/problems/find-the-power-of-k-size-subarrays-i/",
-      "solutionPath": "leetcode/find-the-power-of-k-size-subarrays-i-3254.-find-the-power-of-k-size-subarrays-i/solution.cpp"
     }
   ]
 }
