@@ -1,26 +1,22 @@
 {
-  "generatedAt": "2026-03-19T11:00:29.953Z",
-  "totalAcceptedSubmissions": 60,
-  "uniqueProblemsSolved": 52,
-  "solvedToday": 7,
-  "currentStreak": 4,
+  "generatedAt": "2026-03-20T05:10:20.013Z",
+  "totalAcceptedSubmissions": 61,
+  "uniqueProblemsSolved": 53,
+  "solvedToday": 1,
+  "currentStreak": 5,
   "longestStreak": 19,
   "languageBreakdown": {
-    "cpp": 59,
+    "cpp": 60,
     "java": 1
   },
   "topicBreakdown": {
-    "misc": 31,
+    "misc": 32,
     "array": 14,
     "string": 12,
     "tree": 2,
     "binary-search": 1
   },
   "last7Days": [
-    {
-      "date": "2026-03-13",
-      "count": 1
-    },
     {
       "date": "2026-03-14",
       "count": 1
@@ -44,9 +40,21 @@
     {
       "date": "2026-03-19",
       "count": 7
+    },
+    {
+      "date": "2026-03-20",
+      "count": 1
     }
   ],
   "recentProblems": [
+    {
+      "title": "2611. Mice and Cheese",
+      "slug": "mice-and-cheese",
+      "language": "cpp",
+      "day": "2026-03-20",
+      "problemUrl": "https://leetcode.com/problems/mice-and-cheese/",
+      "solutionPath": "leetcode/mice-and-cheese-2611.-mice-and-cheese/solution.cpp"
+    },
     {
       "title": "3212. Count Submatrices With Equal Frequency of X and Y",
       "slug": "count-submatrices-with-equal-frequency-of-x-and-y",
@@ -118,14 +126,6 @@
       "day": "2026-03-18",
       "problemUrl": "https://leetcode.com/problems/partition-labels/",
       "solutionPath": "leetcode/partition-labels-763.-partition-labels/solution.cpp"
-    },
-    {
-      "title": "1561. Maximum Number of Coins You Can Get",
-      "slug": "maximum-number-of-coins-you-can-get",
-      "language": "cpp",
-      "day": "2026-03-18",
-      "problemUrl": "https://leetcode.com/problems/maximum-number-of-coins-you-can-get/",
-      "solutionPath": "leetcode/maximum-number-of-coins-you-can-get-1561.-maximum-number-of-coins-you-can-get/solution.cpp"
     }
   ]
 }
