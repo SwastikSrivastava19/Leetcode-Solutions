@@ -1,16 +1,16 @@
 {
-  "generatedAt": "2026-03-20T05:10:20.013Z",
-  "totalAcceptedSubmissions": 61,
-  "uniqueProblemsSolved": 53,
-  "solvedToday": 1,
+  "generatedAt": "2026-03-20T05:55:29.534Z",
+  "totalAcceptedSubmissions": 62,
+  "uniqueProblemsSolved": 54,
+  "solvedToday": 2,
   "currentStreak": 5,
   "longestStreak": 19,
   "languageBreakdown": {
-    "cpp": 60,
+    "cpp": 61,
     "java": 1
   },
   "topicBreakdown": {
-    "misc": 32,
+    "misc": 33,
     "array": 14,
     "string": 12,
     "tree": 2,
@@ -43,10 +43,18 @@
     },
     {
       "date": "2026-03-20",
-      "count": 1
+      "count": 2
     }
   ],
   "recentProblems": [
+    {
+      "title": "435. Non-overlapping Intervals",
+      "slug": "non-overlapping-intervals",
+      "language": "cpp",
+      "day": "2026-03-20",
+      "problemUrl": "https://leetcode.com/problems/non-overlapping-intervals/",
+      "solutionPath": "leetcode/non-overlapping-intervals-435.-non-overlapping-intervals/solution.cpp"
+    },
     {
       "title": "2611. Mice and Cheese",
       "slug": "mice-and-cheese",
@@ -118,14 +126,6 @@
       "day": "2026-03-18",
       "problemUrl": "https://leetcode.com/problems/count-submatrices-with-top-left-element-and-sum-less-than-k/",
       "solutionPath": "leetcode/count-submatrices-with-top-left-element-and-sum-less-than-k-3070.-count-submatrices-with-top-left-element-and-sum-less-than-k/solution.cpp"
-    },
-    {
-      "title": "763. Partition Labels",
-      "slug": "partition-labels",
-      "language": "cpp",
-      "day": "2026-03-18",
-      "problemUrl": "https://leetcode.com/problems/partition-labels/",
-      "solutionPath": "leetcode/partition-labels-763.-partition-labels/solution.cpp"
     }
   ]
 }
