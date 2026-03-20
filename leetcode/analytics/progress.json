@@ -1,16 +1,16 @@
 {
-  "generatedAt": "2026-03-20T08:31:33.560Z",
-  "totalAcceptedSubmissions": 64,
-  "uniqueProblemsSolved": 56,
-  "solvedToday": 4,
+  "generatedAt": "2026-03-20T15:09:55.918Z",
+  "totalAcceptedSubmissions": 65,
+  "uniqueProblemsSolved": 57,
+  "solvedToday": 5,
   "currentStreak": 5,
   "longestStreak": 19,
   "languageBreakdown": {
-    "cpp": 63,
+    "cpp": 64,
     "java": 1
   },
   "topicBreakdown": {
-    "misc": 33,
+    "misc": 34,
     "array": 14,
     "string": 12,
     "tree": 2,
@@ -44,10 +44,18 @@
     },
     {
       "date": "2026-03-20",
-      "count": 4
+      "count": 5
     }
   ],
   "recentProblems": [
+    {
+      "title": "3567. Minimum Absolute Difference in Sliding Submatrix",
+      "slug": "minimum-absolute-difference-in-sliding-submatrix",
+      "language": "cpp",
+      "day": "2026-03-20",
+      "problemUrl": "https://leetcode.com/problems/minimum-absolute-difference-in-sliding-submatrix/",
+      "solutionPath": "leetcode/minimum-absolute-difference-in-sliding-submatrix-3567.-minimum-absolute-difference-in-sliding-submatrix/solution.cpp"
+    },
     {
       "title": "90. Subsets II",
       "slug": "subsets-ii",
@@ -119,14 +127,6 @@
       "day": "2026-03-19",
       "problemUrl": "https://leetcode.com/problems/range-sum-query-immutable/",
       "solutionPath": "leetcode/range-sum-query-immutable-303.-range-sum-query-immutable/solution.cpp"
-    },
-    {
-      "title": "1991. Find the Middle Index in Array",
-      "slug": "find-the-middle-index-in-array",
-      "language": "cpp",
-      "day": "2026-03-19",
-      "problemUrl": "https://leetcode.com/problems/find-the-middle-index-in-array/",
-      "solutionPath": "leetcode/find-the-middle-index-in-array-1991.-find-the-middle-index-in-array/solution.cpp"
     }
   ]
 }
