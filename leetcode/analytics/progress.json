@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-03-20T05:55:29.534Z",
-  "totalAcceptedSubmissions": 62,
-  "uniqueProblemsSolved": 54,
-  "solvedToday": 2,
+  "generatedAt": "2026-03-20T08:18:09.590Z",
+  "totalAcceptedSubmissions": 63,
+  "uniqueProblemsSolved": 55,
+  "solvedToday": 3,
   "currentStreak": 5,
   "longestStreak": 19,
   "languageBreakdown": {
-    "cpp": 61,
+    "cpp": 62,
     "java": 1
   },
   "topicBreakdown": {
@@ -14,7 +14,8 @@
     "array": 14,
     "string": 12,
     "tree": 2,
-    "binary-search": 1
+    "binary-search": 1,
+    "hash-map": 1
   },
   "last7Days": [
     {
@@ -43,10 +44,18 @@
     },
     {
       "date": "2026-03-20",
-      "count": 2
+      "count": 3
     }
   ],
   "recentProblems": [
+    {
+      "title": "78. Subsets",
+      "slug": "subsets",
+      "language": "cpp",
+      "day": "2026-03-20",
+      "problemUrl": "https://leetcode.com/problems/subsets/",
+      "solutionPath": "leetcode/subsets-78.-subsets/solution.cpp"
+    },
     {
       "title": "435. Non-overlapping Intervals",
       "slug": "non-overlapping-intervals",
@@ -118,14 +127,6 @@
       "day": "2026-03-19",
       "problemUrl": "https://leetcode.com/problems/find-pivot-index/",
       "solutionPath": "leetcode/find-pivot-index-724.-find-pivot-index/solution.cpp"
-    },
-    {
-      "title": "3070. Count Submatrices with Top-Left Element and Sum Less Than k",
-      "slug": "count-submatrices-with-top-left-element-and-sum-less-than-k",
-      "language": "cpp",
-      "day": "2026-03-18",
-      "problemUrl": "https://leetcode.com/problems/count-submatrices-with-top-left-element-and-sum-less-than-k/",
-      "solutionPath": "leetcode/count-submatrices-with-top-left-element-and-sum-less-than-k-3070.-count-submatrices-with-top-left-element-and-sum-less-than-k/solution.cpp"
     }
   ]
 }
