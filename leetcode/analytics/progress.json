@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-03-20T08:18:09.590Z",
-  "totalAcceptedSubmissions": 63,
-  "uniqueProblemsSolved": 55,
-  "solvedToday": 3,
+  "generatedAt": "2026-03-20T08:31:33.560Z",
+  "totalAcceptedSubmissions": 64,
+  "uniqueProblemsSolved": 56,
+  "solvedToday": 4,
   "currentStreak": 5,
   "longestStreak": 19,
   "languageBreakdown": {
-    "cpp": 62,
+    "cpp": 63,
     "java": 1
   },
   "topicBreakdown": {
@@ -14,8 +14,8 @@
     "array": 14,
     "string": 12,
     "tree": 2,
-    "binary-search": 1,
-    "hash-map": 1
+    "hash-map": 2,
+    "binary-search": 1
   },
   "last7Days": [
     {
@@ -44,10 +44,18 @@
     },
     {
       "date": "2026-03-20",
-      "count": 3
+      "count": 4
     }
   ],
   "recentProblems": [
+    {
+      "title": "90. Subsets II",
+      "slug": "subsets-ii",
+      "language": "cpp",
+      "day": "2026-03-20",
+      "problemUrl": "https://leetcode.com/problems/subsets-ii/",
+      "solutionPath": "leetcode/subsets-ii-90.-subsets-ii/solution.cpp"
+    },
     {
       "title": "78. Subsets",
       "slug": "subsets",
@@ -119,14 +127,6 @@
       "day": "2026-03-19",
       "problemUrl": "https://leetcode.com/problems/find-the-middle-index-in-array/",
       "solutionPath": "leetcode/find-the-middle-index-in-array-1991.-find-the-middle-index-in-array/solution.cpp"
-    },
-    {
-      "title": "724. Find Pivot Index",
-      "slug": "find-pivot-index",
-      "language": "cpp",
-      "day": "2026-03-19",
-      "problemUrl": "https://leetcode.com/problems/find-pivot-index/",
-      "solutionPath": "leetcode/find-pivot-index-724.-find-pivot-index/solution.cpp"
     }
   ]
 }
