@@ -1,16 +1,16 @@
 {
-  "generatedAt": "2026-03-21T14:14:36.497Z",
-  "totalAcceptedSubmissions": 68,
-  "uniqueProblemsSolved": 60,
-  "solvedToday": 3,
+  "generatedAt": "2026-03-21T17:39:09.688Z",
+  "totalAcceptedSubmissions": 69,
+  "uniqueProblemsSolved": 61,
+  "solvedToday": 4,
   "currentStreak": 6,
   "longestStreak": 19,
   "languageBreakdown": {
-    "cpp": 67,
+    "cpp": 68,
     "java": 1
   },
   "topicBreakdown": {
-    "misc": 36,
+    "misc": 37,
     "array": 15,
     "string": 12,
     "tree": 2,
@@ -44,10 +44,18 @@
     },
     {
       "date": "2026-03-21",
-      "count": 3
+      "count": 4
     }
   ],
   "recentProblems": [
+    {
+      "title": "3861. Minimum Capacity Box",
+      "slug": "minimum-capacity-box",
+      "language": "cpp",
+      "day": "2026-03-21",
+      "problemUrl": "https://leetcode.com/problems/minimum-capacity-box/",
+      "solutionPath": "leetcode/minimum-capacity-box-3861.-minimum-capacity-box/solution.cpp"
+    },
     {
       "title": "3867. Sum of GCD of Formed Pairs",
       "slug": "sum-of-gcd-of-formed-pairs",
@@ -119,14 +127,6 @@
       "day": "2026-03-19",
       "problemUrl": "https://leetcode.com/problems/count-submatrices-with-equal-frequency-of-x-and-y/",
       "solutionPath": "leetcode/count-submatrices-with-equal-frequency-of-x-and-y-3212.-count-submatrices-with-equal-frequency-of-x-and-y/solution.cpp"
-    },
-    {
-      "title": "2134. Minimum Swaps to Group All 1's Together II",
-      "slug": "minimum-swaps-to-group-all-1s-together-ii",
-      "language": "cpp",
-      "day": "2026-03-19",
-      "problemUrl": "https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together-ii/",
-      "solutionPath": "leetcode/minimum-swaps-to-group-all-1s-together-ii-2134.-minimum-swaps-to-group-all-1s-together-ii/solution.cpp"
     }
   ]
 }
