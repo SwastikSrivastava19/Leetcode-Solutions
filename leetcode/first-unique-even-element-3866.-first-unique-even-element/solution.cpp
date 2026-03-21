@@ -1,0 +1,17 @@
+// Problem: 3866. First Unique Even Element
+// URL: https://leetcode.com/problems/first-unique-even-element/
+// Language: cpp
+class Solution {
+public:
+    int firstUniqueEven(vector<int>& nums) {
+        unordered_map<int , int> freq;
+        for(auto it : nums){
+            freq[it]++;
+        }
+
+        for(int i=0; i<nums.size(); i++){
+            if(nums[i] % 2 == 0 && freq[nums[i]] == 1) return nums[i];
+        }
+        return -1;
+    }
+};
