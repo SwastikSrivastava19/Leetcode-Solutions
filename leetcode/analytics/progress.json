@@ -1,16 +1,16 @@
 {
-  "generatedAt": "2026-03-21T07:28:52.601Z",
-  "totalAcceptedSubmissions": 66,
-  "uniqueProblemsSolved": 58,
-  "solvedToday": 1,
+  "generatedAt": "2026-03-21T13:55:49.804Z",
+  "totalAcceptedSubmissions": 67,
+  "uniqueProblemsSolved": 59,
+  "solvedToday": 2,
   "currentStreak": 6,
   "longestStreak": 19,
   "languageBreakdown": {
-    "cpp": 65,
+    "cpp": 66,
     "java": 1
   },
   "topicBreakdown": {
-    "misc": 35,
+    "misc": 36,
     "array": 14,
     "string": 12,
     "tree": 2,
@@ -44,10 +44,18 @@
     },
     {
       "date": "2026-03-21",
-      "count": 1
+      "count": 2
     }
   ],
   "recentProblems": [
+    {
+      "title": "3866. First Unique Even Element",
+      "slug": "first-unique-even-element",
+      "language": "cpp",
+      "day": "2026-03-21",
+      "problemUrl": "https://leetcode.com/problems/first-unique-even-element/",
+      "solutionPath": "leetcode/first-unique-even-element-3866.-first-unique-even-element/solution.cpp"
+    },
     {
       "title": "3643. Flip Square Submatrix Vertically",
       "slug": "flip-square-submatrix-vertically",
@@ -119,14 +127,6 @@
       "day": "2026-03-19",
       "problemUrl": "https://leetcode.com/problems/gas-station/",
       "solutionPath": "leetcode/gas-station-134.-gas-station/solution.cpp"
-    },
-    {
-      "title": "304. Range Sum Query 2D - Immutable",
-      "slug": "range-sum-query-2d-immutable",
-      "language": "cpp",
-      "day": "2026-03-19",
-      "problemUrl": "https://leetcode.com/problems/range-sum-query-2d-immutable/",
-      "solutionPath": "leetcode/range-sum-query-2d-immutable-304.-range-sum-query-2d-immutable/solution.cpp"
     }
   ]
 }
