@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-03-21T13:55:49.804Z",
-  "totalAcceptedSubmissions": 67,
-  "uniqueProblemsSolved": 59,
-  "solvedToday": 2,
+  "generatedAt": "2026-03-21T14:14:36.497Z",
+  "totalAcceptedSubmissions": 68,
+  "uniqueProblemsSolved": 60,
+  "solvedToday": 3,
   "currentStreak": 6,
   "longestStreak": 19,
   "languageBreakdown": {
-    "cpp": 66,
+    "cpp": 67,
     "java": 1
   },
   "topicBreakdown": {
     "misc": 36,
-    "array": 14,
+    "array": 15,
     "string": 12,
     "tree": 2,
     "hash-map": 2,
@@ -44,10 +44,18 @@
     },
     {
       "date": "2026-03-21",
-      "count": 2
+      "count": 3
     }
   ],
   "recentProblems": [
+    {
+      "title": "3867. Sum of GCD of Formed Pairs",
+      "slug": "sum-of-gcd-of-formed-pairs",
+      "language": "cpp",
+      "day": "2026-03-21",
+      "problemUrl": "https://leetcode.com/problems/sum-of-gcd-of-formed-pairs/",
+      "solutionPath": "leetcode/sum-of-gcd-of-formed-pairs-3867.-sum-of-gcd-of-formed-pairs/solution.cpp"
+    },
     {
       "title": "3866. First Unique Even Element",
       "slug": "first-unique-even-element",
@@ -119,14 +127,6 @@
       "day": "2026-03-19",
       "problemUrl": "https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together-ii/",
       "solutionPath": "leetcode/minimum-swaps-to-group-all-1s-together-ii-2134.-minimum-swaps-to-group-all-1s-together-ii/solution.cpp"
-    },
-    {
-      "title": "134. Gas Station",
-      "slug": "gas-station",
-      "language": "cpp",
-      "day": "2026-03-19",
-      "problemUrl": "https://leetcode.com/problems/gas-station/",
-      "solutionPath": "leetcode/gas-station-134.-gas-station/solution.cpp"
     }
   ]
 }
