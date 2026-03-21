@@ -1,16 +1,16 @@
 {
-  "generatedAt": "2026-03-20T15:09:55.918Z",
-  "totalAcceptedSubmissions": 65,
-  "uniqueProblemsSolved": 57,
-  "solvedToday": 5,
-  "currentStreak": 5,
+  "generatedAt": "2026-03-21T07:28:52.601Z",
+  "totalAcceptedSubmissions": 66,
+  "uniqueProblemsSolved": 58,
+  "solvedToday": 1,
+  "currentStreak": 6,
   "longestStreak": 19,
   "languageBreakdown": {
-    "cpp": 64,
+    "cpp": 65,
     "java": 1
   },
   "topicBreakdown": {
-    "misc": 34,
+    "misc": 35,
     "array": 14,
     "string": 12,
     "tree": 2,
@@ -18,10 +18,6 @@
     "binary-search": 1
   },
   "last7Days": [
-    {
-      "date": "2026-03-14",
-      "count": 1
-    },
     {
       "date": "2026-03-15",
       "count": 0
@@ -45,9 +41,21 @@
     {
       "date": "2026-03-20",
       "count": 5
+    },
+    {
+      "date": "2026-03-21",
+      "count": 1
     }
   ],
   "recentProblems": [
+    {
+      "title": "3643. Flip Square Submatrix Vertically",
+      "slug": "flip-square-submatrix-vertically",
+      "language": "cpp",
+      "day": "2026-03-21",
+      "problemUrl": "https://leetcode.com/problems/flip-square-submatrix-vertically/",
+      "solutionPath": "leetcode/flip-square-submatrix-vertically-3643.-flip-square-submatrix-vertically/solution.cpp"
+    },
     {
       "title": "3567. Minimum Absolute Difference in Sliding Submatrix",
       "slug": "minimum-absolute-difference-in-sliding-submatrix",
@@ -119,14 +127,6 @@
       "day": "2026-03-19",
       "problemUrl": "https://leetcode.com/problems/range-sum-query-2d-immutable/",
       "solutionPath": "leetcode/range-sum-query-2d-immutable-304.-range-sum-query-2d-immutable/solution.cpp"
-    },
-    {
-      "title": "303. Range Sum Query - Immutable",
-      "slug": "range-sum-query-immutable",
-      "language": "cpp",
-      "day": "2026-03-19",
-      "problemUrl": "https://leetcode.com/problems/range-sum-query-immutable/",
-      "solutionPath": "leetcode/range-sum-query-immutable-303.-range-sum-query-immutable/solution.cpp"
     }
   ]
 }
