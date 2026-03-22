@@ -1,16 +1,16 @@
 {
-  "generatedAt": "2026-03-21T17:39:09.688Z",
-  "totalAcceptedSubmissions": 69,
-  "uniqueProblemsSolved": 61,
-  "solvedToday": 4,
-  "currentStreak": 6,
+  "generatedAt": "2026-03-22T16:46:50.634Z",
+  "totalAcceptedSubmissions": 70,
+  "uniqueProblemsSolved": 62,
+  "solvedToday": 1,
+  "currentStreak": 7,
   "longestStreak": 19,
   "languageBreakdown": {
-    "cpp": 68,
+    "cpp": 69,
     "java": 1
   },
   "topicBreakdown": {
-    "misc": 37,
+    "misc": 38,
     "array": 15,
     "string": 12,
     "tree": 2,
@@ -18,10 +18,6 @@
     "binary-search": 1
   },
   "last7Days": [
-    {
-      "date": "2026-03-15",
-      "count": 0
-    },
     {
       "date": "2026-03-16",
       "count": 4
@@ -45,9 +41,21 @@
     {
       "date": "2026-03-21",
       "count": 4
+    },
+    {
+      "date": "2026-03-22",
+      "count": 1
     }
   ],
   "recentProblems": [
+    {
+      "title": "1886. Determine Whether Matrix Can Be Obtained By Rotation",
+      "slug": "determine-whether-matrix-can-be-obtained-by-rotation",
+      "language": "cpp",
+      "day": "2026-03-22",
+      "problemUrl": "https://leetcode.com/problems/determine-whether-matrix-can-be-obtained-by-rotation/",
+      "solutionPath": "leetcode/determine-whether-matrix-can-be-obtained-by-rotation-1886.-determine-whether-matrix-can-be-obtained-by-rotation/solution.cpp"
+    },
     {
       "title": "3861. Minimum Capacity Box",
       "slug": "minimum-capacity-box",
@@ -119,14 +127,6 @@
       "day": "2026-03-20",
       "problemUrl": "https://leetcode.com/problems/mice-and-cheese/",
       "solutionPath": "leetcode/mice-and-cheese-2611.-mice-and-cheese/solution.cpp"
-    },
-    {
-      "title": "3212. Count Submatrices With Equal Frequency of X and Y",
-      "slug": "count-submatrices-with-equal-frequency-of-x-and-y",
-      "language": "cpp",
-      "day": "2026-03-19",
-      "problemUrl": "https://leetcode.com/problems/count-submatrices-with-equal-frequency-of-x-and-y/",
-      "solutionPath": "leetcode/count-submatrices-with-equal-frequency-of-x-and-y-3212.-count-submatrices-with-equal-frequency-of-x-and-y/solution.cpp"
     }
   ]
 }
