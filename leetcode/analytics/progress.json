@@ -1,16 +1,16 @@
 {
-  "generatedAt": "2026-03-23T06:18:35.489Z",
-  "totalAcceptedSubmissions": 72,
-  "uniqueProblemsSolved": 64,
-  "solvedToday": 1,
+  "generatedAt": "2026-03-23T09:08:10.317Z",
+  "totalAcceptedSubmissions": 74,
+  "uniqueProblemsSolved": 66,
+  "solvedToday": 3,
   "currentStreak": 8,
   "longestStreak": 19,
   "languageBreakdown": {
-    "cpp": 71,
+    "cpp": 73,
     "java": 1
   },
   "topicBreakdown": {
-    "misc": 38,
+    "misc": 40,
     "array": 17,
     "string": 12,
     "tree": 2,
@@ -44,10 +44,26 @@
     },
     {
       "date": "2026-03-23",
-      "count": 1
+      "count": 3
     }
   ],
   "recentProblems": [
+    {
+      "title": "3843. First Element with Unique Frequency",
+      "slug": "first-element-with-unique-frequency",
+      "language": "cpp",
+      "day": "2026-03-23",
+      "problemUrl": "https://leetcode.com/problems/first-element-with-unique-frequency/",
+      "solutionPath": "leetcode/first-element-with-unique-frequency-3843.-first-element-with-unique-frequency/solution.cpp"
+    },
+    {
+      "title": "3842. Toggle Light Bulbs",
+      "slug": "toggle-light-bulbs",
+      "language": "cpp",
+      "day": "2026-03-23",
+      "problemUrl": "https://leetcode.com/problems/toggle-light-bulbs/",
+      "solutionPath": "leetcode/toggle-light-bulbs-3842.-toggle-light-bulbs/solution.cpp"
+    },
     {
       "title": "3876. Construct Uniform Parity Array II",
       "slug": "construct-uniform-parity-array-ii",
@@ -111,22 +127,6 @@
       "day": "2026-03-20",
       "problemUrl": "https://leetcode.com/problems/minimum-absolute-difference-in-sliding-submatrix/",
       "solutionPath": "leetcode/minimum-absolute-difference-in-sliding-submatrix-3567.-minimum-absolute-difference-in-sliding-submatrix/solution.cpp"
-    },
-    {
-      "title": "90. Subsets II",
-      "slug": "subsets-ii",
-      "language": "cpp",
-      "day": "2026-03-20",
-      "problemUrl": "https://leetcode.com/problems/subsets-ii/",
-      "solutionPath": "leetcode/subsets-ii-90.-subsets-ii/solution.cpp"
-    },
-    {
-      "title": "78. Subsets",
-      "slug": "subsets",
-      "language": "cpp",
-      "day": "2026-03-20",
-      "problemUrl": "https://leetcode.com/problems/subsets/",
-      "solutionPath": "leetcode/subsets-78.-subsets/solution.cpp"
     }
   ]
 }
