@@ -7,6 +7,7 @@ public:
         int n = s.size(), ans = n+1, l = 0, r = 0, id = 0, cnt = t.size();
         vector<int> mp(130, 0);
         for(auto i : t) mp[i]++;
+
         while(r < n) {
             if(mp[s[r]] > 0) cnt--;
             mp[s[r++]]--;
@@ -16,6 +17,7 @@ public:
                 mp[s[l++]]++;
             }
         }
+        
         if(ans == n+1) return "";
         return s.substr(id, ans);
     }
