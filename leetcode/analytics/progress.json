@@ -1,27 +1,23 @@
 {
-  "generatedAt": "2026-03-22T16:57:05.947Z",
-  "totalAcceptedSubmissions": 71,
-  "uniqueProblemsSolved": 63,
-  "solvedToday": 2,
-  "currentStreak": 7,
+  "generatedAt": "2026-03-23T06:18:35.489Z",
+  "totalAcceptedSubmissions": 72,
+  "uniqueProblemsSolved": 64,
+  "solvedToday": 1,
+  "currentStreak": 8,
   "longestStreak": 19,
   "languageBreakdown": {
-    "cpp": 70,
+    "cpp": 71,
     "java": 1
   },
   "topicBreakdown": {
     "misc": 38,
-    "array": 16,
+    "array": 17,
     "string": 12,
     "tree": 2,
     "hash-map": 2,
     "binary-search": 1
   },
   "last7Days": [
-    {
-      "date": "2026-03-16",
-      "count": 4
-    },
     {
       "date": "2026-03-17",
       "count": 5
@@ -45,9 +41,21 @@
     {
       "date": "2026-03-22",
       "count": 2
+    },
+    {
+      "date": "2026-03-23",
+      "count": 1
     }
   ],
   "recentProblems": [
+    {
+      "title": "3876. Construct Uniform Parity Array II",
+      "slug": "construct-uniform-parity-array-ii",
+      "language": "cpp",
+      "day": "2026-03-23",
+      "problemUrl": "https://leetcode.com/problems/construct-uniform-parity-array-ii/",
+      "solutionPath": "leetcode/construct-uniform-parity-array-ii-3876.-construct-uniform-parity-array-ii/solution.cpp"
+    },
     {
       "title": "3875. Construct Uniform Parity Array I",
       "slug": "construct-uniform-parity-array-i",
@@ -119,14 +127,6 @@
       "day": "2026-03-20",
       "problemUrl": "https://leetcode.com/problems/subsets/",
       "solutionPath": "leetcode/subsets-78.-subsets/solution.cpp"
-    },
-    {
-      "title": "435. Non-overlapping Intervals",
-      "slug": "non-overlapping-intervals",
-      "language": "cpp",
-      "day": "2026-03-20",
-      "problemUrl": "https://leetcode.com/problems/non-overlapping-intervals/",
-      "solutionPath": "leetcode/non-overlapping-intervals-435.-non-overlapping-intervals/solution.cpp"
     }
   ]
 }
