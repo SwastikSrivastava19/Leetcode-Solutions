@@ -1,16 +1,16 @@
 {
-  "generatedAt": "2026-03-23T10:20:40.717Z",
-  "totalAcceptedSubmissions": 76,
-  "uniqueProblemsSolved": 67,
-  "solvedToday": 5,
+  "generatedAt": "2026-03-23T16:40:29.685Z",
+  "totalAcceptedSubmissions": 77,
+  "uniqueProblemsSolved": 68,
+  "solvedToday": 6,
   "currentStreak": 8,
   "longestStreak": 19,
   "languageBreakdown": {
-    "cpp": 75,
+    "cpp": 76,
     "java": 1
   },
   "topicBreakdown": {
-    "misc": 41,
+    "misc": 42,
     "array": 17,
     "string": 13,
     "tree": 2,
@@ -44,10 +44,18 @@
     },
     {
       "date": "2026-03-23",
-      "count": 5
+      "count": 6
     }
   ],
   "recentProblems": [
+    {
+      "title": "1594. Maximum Non Negative Product in a Matrix",
+      "slug": "maximum-non-negative-product-in-a-matrix",
+      "language": "cpp",
+      "day": "2026-03-23",
+      "problemUrl": "https://leetcode.com/problems/maximum-non-negative-product-in-a-matrix/",
+      "solutionPath": "leetcode/maximum-non-negative-product-in-a-matrix-1594.-maximum-non-negative-product-in-a-matrix/solution.cpp"
+    },
     {
       "title": "319. Bulb Switcher",
       "slug": "bulb-switcher",
@@ -119,14 +127,6 @@
       "day": "2026-03-21",
       "problemUrl": "https://leetcode.com/problems/sum-of-gcd-of-formed-pairs/",
       "solutionPath": "leetcode/sum-of-gcd-of-formed-pairs-3867.-sum-of-gcd-of-formed-pairs/solution.cpp"
-    },
-    {
-      "title": "3866. First Unique Even Element",
-      "slug": "first-unique-even-element",
-      "language": "cpp",
-      "day": "2026-03-21",
-      "problemUrl": "https://leetcode.com/problems/first-unique-even-element/",
-      "solutionPath": "leetcode/first-unique-even-element-3866.-first-unique-even-element/solution.cpp"
     }
   ]
 }
