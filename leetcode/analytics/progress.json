@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-03-24T05:05:28.582Z",
-  "totalAcceptedSubmissions": 79,
-  "uniqueProblemsSolved": 69,
-  "solvedToday": 2,
+  "generatedAt": "2026-03-24T05:25:19.478Z",
+  "totalAcceptedSubmissions": 80,
+  "uniqueProblemsSolved": 70,
+  "solvedToday": 3,
   "currentStreak": 9,
   "longestStreak": 19,
   "languageBreakdown": {
-    "cpp": 78,
+    "cpp": 79,
     "java": 1
   },
   "topicBreakdown": {
     "misc": 44,
-    "array": 17,
+    "array": 18,
     "string": 13,
     "tree": 2,
     "hash-map": 2,
@@ -44,10 +44,18 @@
     },
     {
       "date": "2026-03-24",
-      "count": 2
+      "count": 3
     }
   ],
   "recentProblems": [
+    {
+      "title": "3818. Minimum Prefix Removal to Make Array Strictly Increasing",
+      "slug": "minimum-prefix-removal-to-make-array-strictly-increasing",
+      "language": "cpp",
+      "day": "2026-03-24",
+      "problemUrl": "https://leetcode.com/problems/minimum-prefix-removal-to-make-array-strictly-increasing/",
+      "solutionPath": "leetcode/minimum-prefix-removal-to-make-array-strictly-increasing-3818.-minimum-prefix-removal-to-make-array-strictly-increasing/solution.cpp"
+    },
     {
       "title": "2906. Construct Product Matrix",
       "slug": "construct-product-matrix",
@@ -119,14 +127,6 @@
       "day": "2026-03-22",
       "problemUrl": "https://leetcode.com/problems/determine-whether-matrix-can-be-obtained-by-rotation/",
       "solutionPath": "leetcode/determine-whether-matrix-can-be-obtained-by-rotation-1886.-determine-whether-matrix-can-be-obtained-by-rotation/solution.cpp"
-    },
-    {
-      "title": "3861. Minimum Capacity Box",
-      "slug": "minimum-capacity-box",
-      "language": "cpp",
-      "day": "2026-03-21",
-      "problemUrl": "https://leetcode.com/problems/minimum-capacity-box/",
-      "solutionPath": "leetcode/minimum-capacity-box-3861.-minimum-capacity-box/solution.cpp"
     }
   ]
 }
