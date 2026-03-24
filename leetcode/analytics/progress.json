@@ -1,19 +1,19 @@
 {
-  "generatedAt": "2026-03-24T06:17:42.882Z",
-  "totalAcceptedSubmissions": 82,
-  "uniqueProblemsSolved": 72,
-  "solvedToday": 5,
+  "generatedAt": "2026-03-24T15:50:53.614Z",
+  "totalAcceptedSubmissions": 83,
+  "uniqueProblemsSolved": 73,
+  "solvedToday": 6,
   "currentStreak": 9,
   "longestStreak": 19,
   "languageBreakdown": {
-    "cpp": 81,
+    "cpp": 82,
     "java": 1
   },
   "topicBreakdown": {
     "misc": 45,
     "array": 18,
     "string": 14,
-    "tree": 2,
+    "tree": 3,
     "hash-map": 2,
     "binary-search": 1
   },
@@ -44,10 +44,18 @@
     },
     {
       "date": "2026-03-24",
-      "count": 5
+      "count": 6
     }
   ],
   "recentProblems": [
+    {
+      "title": "199. Binary Tree Right Side View",
+      "slug": "binary-tree-right-side-view",
+      "language": "cpp",
+      "day": "2026-03-24",
+      "problemUrl": "https://leetcode.com/problems/binary-tree-right-side-view/",
+      "solutionPath": "leetcode/binary-tree-right-side-view-199.-binary-tree-right-side-view/solution.cpp"
+    },
     {
       "title": "415. Add Strings",
       "slug": "add-strings",
@@ -119,14 +127,6 @@
       "day": "2026-03-23",
       "problemUrl": "https://leetcode.com/problems/toggle-light-bulbs/",
       "solutionPath": "leetcode/toggle-light-bulbs-3842.-toggle-light-bulbs/solution.cpp"
-    },
-    {
-      "title": "3876. Construct Uniform Parity Array II",
-      "slug": "construct-uniform-parity-array-ii",
-      "language": "cpp",
-      "day": "2026-03-23",
-      "problemUrl": "https://leetcode.com/problems/construct-uniform-parity-array-ii/",
-      "solutionPath": "leetcode/construct-uniform-parity-array-ii-3876.-construct-uniform-parity-array-ii/solution.cpp"
     }
   ]
 }
