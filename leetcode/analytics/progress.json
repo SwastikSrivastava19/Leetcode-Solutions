@@ -1,18 +1,18 @@
 {
-  "generatedAt": "2026-03-24T05:35:33.829Z",
-  "totalAcceptedSubmissions": 81,
-  "uniqueProblemsSolved": 71,
-  "solvedToday": 4,
+  "generatedAt": "2026-03-24T06:17:42.882Z",
+  "totalAcceptedSubmissions": 82,
+  "uniqueProblemsSolved": 72,
+  "solvedToday": 5,
   "currentStreak": 9,
   "longestStreak": 19,
   "languageBreakdown": {
-    "cpp": 80,
+    "cpp": 81,
     "java": 1
   },
   "topicBreakdown": {
     "misc": 45,
     "array": 18,
-    "string": 13,
+    "string": 14,
     "tree": 2,
     "hash-map": 2,
     "binary-search": 1
@@ -44,10 +44,18 @@
     },
     {
       "date": "2026-03-24",
-      "count": 4
+      "count": 5
     }
   ],
   "recentProblems": [
+    {
+      "title": "415. Add Strings",
+      "slug": "add-strings",
+      "language": "cpp",
+      "day": "2026-03-24",
+      "problemUrl": "https://leetcode.com/problems/add-strings/",
+      "solutionPath": "leetcode/add-strings-415.-add-strings/solution.cpp"
+    },
     {
       "title": "3819. Rotate Non Negative Elements",
       "slug": "rotate-non-negative-elements",
@@ -119,14 +127,6 @@
       "day": "2026-03-23",
       "problemUrl": "https://leetcode.com/problems/construct-uniform-parity-array-ii/",
       "solutionPath": "leetcode/construct-uniform-parity-array-ii-3876.-construct-uniform-parity-array-ii/solution.cpp"
-    },
-    {
-      "title": "3875. Construct Uniform Parity Array I",
-      "slug": "construct-uniform-parity-array-i",
-      "language": "cpp",
-      "day": "2026-03-22",
-      "problemUrl": "https://leetcode.com/problems/construct-uniform-parity-array-i/",
-      "solutionPath": "leetcode/construct-uniform-parity-array-i-3875.-construct-uniform-parity-array-i/solution.cpp"
     }
   ]
 }
