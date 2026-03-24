@@ -27,7 +27,7 @@ public:
 
         suff[sz - 1] = 1;
         for(int i=sz - 2;i>=0; i--){
-            suff[i] = (1LL * suff[i + 1] * nums[i + 1]) % MOD;
+            suff[i] = (1LL * suff[i+1] * nums[i + 1]) % MOD;
         }
 
         vector<vector<int>> ans(n, vector<int>(m));
