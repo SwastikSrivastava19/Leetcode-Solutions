@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-03-25T08:18:16.914Z",
-  "totalAcceptedSubmissions": 88,
-  "uniqueProblemsSolved": 78,
-  "solvedToday": 5,
+  "generatedAt": "2026-03-25T08:41:59.930Z",
+  "totalAcceptedSubmissions": 89,
+  "uniqueProblemsSolved": 79,
+  "solvedToday": 6,
   "currentStreak": 10,
   "longestStreak": 19,
   "languageBreakdown": {
-    "cpp": 87,
+    "cpp": 88,
     "java": 1
   },
   "topicBreakdown": {
     "misc": 45,
-    "array": 23,
+    "array": 24,
     "string": 14,
     "tree": 3,
     "hash-map": 2,
@@ -44,10 +44,18 @@
     },
     {
       "date": "2026-03-25",
-      "count": 5
+      "count": 6
     }
   ],
   "recentProblems": [
+    {
+      "title": "1248. Count Number of Nice Subarrays",
+      "slug": "count-number-of-nice-subarrays",
+      "language": "cpp",
+      "day": "2026-03-25",
+      "problemUrl": "https://leetcode.com/problems/count-number-of-nice-subarrays/",
+      "solutionPath": "leetcode/count-number-of-nice-subarrays-1248.-count-number-of-nice-subarrays/solution.cpp"
+    },
     {
       "title": "523. Continuous Subarray Sum",
       "slug": "continuous-subarray-sum",
@@ -119,14 +127,6 @@
       "day": "2026-03-24",
       "problemUrl": "https://leetcode.com/problems/minimum-prefix-removal-to-make-array-strictly-increasing/",
       "solutionPath": "leetcode/minimum-prefix-removal-to-make-array-strictly-increasing-3818.-minimum-prefix-removal-to-make-array-strictly-increasing/solution.cpp"
-    },
-    {
-      "title": "2906. Construct Product Matrix",
-      "slug": "construct-product-matrix",
-      "language": "cpp",
-      "day": "2026-03-24",
-      "problemUrl": "https://leetcode.com/problems/construct-product-matrix/",
-      "solutionPath": "leetcode/construct-product-matrix-2906.-construct-product-matrix/solution.cpp"
     }
   ]
 }
