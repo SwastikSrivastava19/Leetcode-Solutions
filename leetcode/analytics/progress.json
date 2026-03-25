@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-03-25T07:35:31.878Z",
-  "totalAcceptedSubmissions": 85,
-  "uniqueProblemsSolved": 75,
-  "solvedToday": 2,
+  "generatedAt": "2026-03-25T07:52:38.796Z",
+  "totalAcceptedSubmissions": 86,
+  "uniqueProblemsSolved": 76,
+  "solvedToday": 3,
   "currentStreak": 10,
   "longestStreak": 19,
   "languageBreakdown": {
-    "cpp": 84,
+    "cpp": 85,
     "java": 1
   },
   "topicBreakdown": {
     "misc": 45,
-    "array": 20,
+    "array": 21,
     "string": 14,
     "tree": 3,
     "hash-map": 2,
@@ -44,10 +44,18 @@
     },
     {
       "date": "2026-03-25",
-      "count": 2
+      "count": 3
     }
   ],
   "recentProblems": [
+    {
+      "title": "525. Contiguous Array",
+      "slug": "contiguous-array",
+      "language": "cpp",
+      "day": "2026-03-25",
+      "problemUrl": "https://leetcode.com/problems/contiguous-array/",
+      "solutionPath": "leetcode/contiguous-array-525.-contiguous-array/solution.cpp"
+    },
     {
       "title": "974. Subarray Sums Divisible by K",
       "slug": "subarray-sums-divisible-by-k",
@@ -119,14 +127,6 @@
       "day": "2026-03-23",
       "problemUrl": "https://leetcode.com/problems/bulb-switcher/",
       "solutionPath": "leetcode/bulb-switcher-319.-bulb-switcher/solution.cpp"
-    },
-    {
-      "title": "76. Minimum Window Substring",
-      "slug": "minimum-window-substring",
-      "language": "cpp",
-      "day": "2026-03-23",
-      "problemUrl": "https://leetcode.com/problems/minimum-window-substring/",
-      "solutionPath": "leetcode/minimum-window-substring-76.-minimum-window-substring/solution.cpp"
     }
   ]
 }
