@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-03-25T07:52:38.796Z",
-  "totalAcceptedSubmissions": 86,
-  "uniqueProblemsSolved": 76,
-  "solvedToday": 3,
+  "generatedAt": "2026-03-25T08:06:41.564Z",
+  "totalAcceptedSubmissions": 87,
+  "uniqueProblemsSolved": 77,
+  "solvedToday": 4,
   "currentStreak": 10,
   "longestStreak": 19,
   "languageBreakdown": {
-    "cpp": 85,
+    "cpp": 86,
     "java": 1
   },
   "topicBreakdown": {
     "misc": 45,
-    "array": 21,
+    "array": 22,
     "string": 14,
     "tree": 3,
     "hash-map": 2,
@@ -44,10 +44,18 @@
     },
     {
       "date": "2026-03-25",
-      "count": 3
+      "count": 4
     }
   ],
   "recentProblems": [
+    {
+      "title": "930. Binary Subarrays With Sum",
+      "slug": "binary-subarrays-with-sum",
+      "language": "cpp",
+      "day": "2026-03-25",
+      "problemUrl": "https://leetcode.com/problems/binary-subarrays-with-sum/",
+      "solutionPath": "leetcode/binary-subarrays-with-sum-930.-binary-subarrays-with-sum/solution.cpp"
+    },
     {
       "title": "525. Contiguous Array",
       "slug": "contiguous-array",
@@ -119,14 +127,6 @@
       "day": "2026-03-23",
       "problemUrl": "https://leetcode.com/problems/maximum-non-negative-product-in-a-matrix/",
       "solutionPath": "leetcode/maximum-non-negative-product-in-a-matrix-1594.-maximum-non-negative-product-in-a-matrix/solution.cpp"
-    },
-    {
-      "title": "319. Bulb Switcher",
-      "slug": "bulb-switcher",
-      "language": "cpp",
-      "day": "2026-03-23",
-      "problemUrl": "https://leetcode.com/problems/bulb-switcher/",
-      "solutionPath": "leetcode/bulb-switcher-319.-bulb-switcher/solution.cpp"
     }
   ]
 }
