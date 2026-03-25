@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-03-25T05:32:32.932Z",
-  "totalAcceptedSubmissions": 84,
-  "uniqueProblemsSolved": 74,
-  "solvedToday": 1,
+  "generatedAt": "2026-03-25T07:35:31.878Z",
+  "totalAcceptedSubmissions": 85,
+  "uniqueProblemsSolved": 75,
+  "solvedToday": 2,
   "currentStreak": 10,
   "longestStreak": 19,
   "languageBreakdown": {
-    "cpp": 83,
+    "cpp": 84,
     "java": 1
   },
   "topicBreakdown": {
     "misc": 45,
-    "array": 19,
+    "array": 20,
     "string": 14,
     "tree": 3,
     "hash-map": 2,
@@ -44,10 +44,18 @@
     },
     {
       "date": "2026-03-25",
-      "count": 1
+      "count": 2
     }
   ],
   "recentProblems": [
+    {
+      "title": "974. Subarray Sums Divisible by K",
+      "slug": "subarray-sums-divisible-by-k",
+      "language": "cpp",
+      "day": "2026-03-25",
+      "problemUrl": "https://leetcode.com/problems/subarray-sums-divisible-by-k/",
+      "solutionPath": "leetcode/subarray-sums-divisible-by-k-974.-subarray-sums-divisible-by-k/solution.cpp"
+    },
     {
       "title": "560. Subarray Sum Equals K",
       "slug": "subarray-sum-equals-k",
@@ -119,14 +127,6 @@
       "day": "2026-03-23",
       "problemUrl": "https://leetcode.com/problems/minimum-window-substring/",
       "solutionPath": "leetcode/minimum-window-substring-76.-minimum-window-substring/solution.cpp"
-    },
-    {
-      "title": "3843. First Element with Unique Frequency",
-      "slug": "first-element-with-unique-frequency",
-      "language": "cpp",
-      "day": "2026-03-23",
-      "problemUrl": "https://leetcode.com/problems/first-element-with-unique-frequency/",
-      "solutionPath": "leetcode/first-element-with-unique-frequency-3843.-first-element-with-unique-frequency/solution.cpp"
     }
   ]
 }
