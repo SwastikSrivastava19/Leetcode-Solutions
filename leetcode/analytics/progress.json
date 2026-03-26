@@ -1,27 +1,23 @@
 {
-  "generatedAt": "2026-03-25T08:41:59.930Z",
-  "totalAcceptedSubmissions": 89,
-  "uniqueProblemsSolved": 79,
-  "solvedToday": 6,
-  "currentStreak": 10,
+  "generatedAt": "2026-03-26T12:33:49.038Z",
+  "totalAcceptedSubmissions": 90,
+  "uniqueProblemsSolved": 80,
+  "solvedToday": 1,
+  "currentStreak": 11,
   "longestStreak": 19,
   "languageBreakdown": {
-    "cpp": 88,
+    "cpp": 89,
     "java": 1
   },
   "topicBreakdown": {
     "misc": 45,
-    "array": 24,
+    "array": 25,
     "string": 14,
     "tree": 3,
     "hash-map": 2,
     "binary-search": 1
   },
   "last7Days": [
-    {
-      "date": "2026-03-19",
-      "count": 7
-    },
     {
       "date": "2026-03-20",
       "count": 5
@@ -45,9 +41,21 @@
     {
       "date": "2026-03-25",
       "count": 6
+    },
+    {
+      "date": "2026-03-26",
+      "count": 1
     }
   ],
   "recentProblems": [
+    {
+      "title": "3546. Equal Sum Grid Partition I",
+      "slug": "equal-sum-grid-partition-i",
+      "language": "cpp",
+      "day": "2026-03-26",
+      "problemUrl": "https://leetcode.com/problems/equal-sum-grid-partition-i/",
+      "solutionPath": "leetcode/equal-sum-grid-partition-i-3546.-equal-sum-grid-partition-i/solution.cpp"
+    },
     {
       "title": "1248. Count Number of Nice Subarrays",
       "slug": "count-number-of-nice-subarrays",
@@ -119,14 +127,6 @@
       "day": "2026-03-24",
       "problemUrl": "https://leetcode.com/problems/rotate-non-negative-elements/",
       "solutionPath": "leetcode/rotate-non-negative-elements-3819.-rotate-non-negative-elements/solution.cpp"
-    },
-    {
-      "title": "3818. Minimum Prefix Removal to Make Array Strictly Increasing",
-      "slug": "minimum-prefix-removal-to-make-array-strictly-increasing",
-      "language": "cpp",
-      "day": "2026-03-24",
-      "problemUrl": "https://leetcode.com/problems/minimum-prefix-removal-to-make-array-strictly-increasing/",
-      "solutionPath": "leetcode/minimum-prefix-removal-to-make-array-strictly-increasing-3818.-minimum-prefix-removal-to-make-array-strictly-increasing/solution.cpp"
     }
   ]
 }
