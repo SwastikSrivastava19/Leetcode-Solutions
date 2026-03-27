@@ -1,27 +1,23 @@
 {
-  "generatedAt": "2026-03-26T12:33:49.038Z",
-  "totalAcceptedSubmissions": 90,
-  "uniqueProblemsSolved": 80,
+  "generatedAt": "2026-03-27T13:51:42.172Z",
+  "totalAcceptedSubmissions": 92,
+  "uniqueProblemsSolved": 82,
   "solvedToday": 1,
-  "currentStreak": 11,
+  "currentStreak": 12,
   "longestStreak": 19,
   "languageBreakdown": {
-    "cpp": 89,
+    "cpp": 91,
     "java": 1
   },
   "topicBreakdown": {
-    "misc": 45,
-    "array": 25,
+    "misc": 46,
+    "array": 26,
     "string": 14,
     "tree": 3,
     "hash-map": 2,
     "binary-search": 1
   },
   "last7Days": [
-    {
-      "date": "2026-03-20",
-      "count": 5
-    },
     {
       "date": "2026-03-21",
       "count": 4
@@ -44,10 +40,30 @@
     },
     {
       "date": "2026-03-26",
+      "count": 2
+    },
+    {
+      "date": "2026-03-27",
       "count": 1
     }
   ],
   "recentProblems": [
+    {
+      "title": "2946. Matrix Similarity After Cyclic Shifts",
+      "slug": "matrix-similarity-after-cyclic-shifts",
+      "language": "cpp",
+      "day": "2026-03-27",
+      "problemUrl": "https://leetcode.com/problems/matrix-similarity-after-cyclic-shifts/",
+      "solutionPath": "leetcode/matrix-similarity-after-cyclic-shifts-2946.-matrix-similarity-after-cyclic-shifts/solution.cpp"
+    },
+    {
+      "title": "3548. Equal Sum Grid Partition II",
+      "slug": "equal-sum-grid-partition-ii",
+      "language": "cpp",
+      "day": "2026-03-26",
+      "problemUrl": "https://leetcode.com/problems/equal-sum-grid-partition-ii/",
+      "solutionPath": "leetcode/equal-sum-grid-partition-ii-3548.-equal-sum-grid-partition-ii/solution.cpp"
+    },
     {
       "title": "3546. Equal Sum Grid Partition I",
       "slug": "equal-sum-grid-partition-i",
@@ -111,22 +127,6 @@
       "day": "2026-03-24",
       "problemUrl": "https://leetcode.com/problems/binary-tree-right-side-view/",
       "solutionPath": "leetcode/binary-tree-right-side-view-199.-binary-tree-right-side-view/solution.cpp"
-    },
-    {
-      "title": "415. Add Strings",
-      "slug": "add-strings",
-      "language": "cpp",
-      "day": "2026-03-24",
-      "problemUrl": "https://leetcode.com/problems/add-strings/",
-      "solutionPath": "leetcode/add-strings-415.-add-strings/solution.cpp"
-    },
-    {
-      "title": "3819. Rotate Non Negative Elements",
-      "slug": "rotate-non-negative-elements",
-      "language": "cpp",
-      "day": "2026-03-24",
-      "problemUrl": "https://leetcode.com/problems/rotate-non-negative-elements/",
-      "solutionPath": "leetcode/rotate-non-negative-elements-3819.-rotate-non-negative-elements/solution.cpp"
     }
   ]
 }
