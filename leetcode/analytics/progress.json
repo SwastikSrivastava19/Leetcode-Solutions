@@ -1,27 +1,23 @@
 {
-  "generatedAt": "2026-03-30T15:59:40.387Z",
-  "totalAcceptedSubmissions": 95,
-  "uniqueProblemsSolved": 85,
+  "generatedAt": "2026-03-31T15:05:32.267Z",
+  "totalAcceptedSubmissions": 96,
+  "uniqueProblemsSolved": 86,
   "solvedToday": 1,
-  "currentStreak": 15,
+  "currentStreak": 16,
   "longestStreak": 19,
   "languageBreakdown": {
-    "cpp": 94,
+    "cpp": 95,
     "java": 1
   },
   "topicBreakdown": {
     "misc": 46,
     "array": 26,
-    "string": 17,
+    "string": 18,
     "tree": 3,
     "hash-map": 2,
     "binary-search": 1
   },
   "last7Days": [
-    {
-      "date": "2026-03-24",
-      "count": 6
-    },
     {
       "date": "2026-03-25",
       "count": 6
@@ -45,9 +41,21 @@
     {
       "date": "2026-03-30",
       "count": 1
+    },
+    {
+      "date": "2026-03-31",
+      "count": 1
     }
   ],
   "recentProblems": [
+    {
+      "title": "3474. Lexicographically Smallest Generated String",
+      "slug": "lexicographically-smallest-generated-string",
+      "language": "cpp",
+      "day": "2026-03-31",
+      "problemUrl": "https://leetcode.com/problems/lexicographically-smallest-generated-string/",
+      "solutionPath": "leetcode/lexicographically-smallest-generated-string-3474.-lexicographically-smallest-generated-string/solution.cpp"
+    },
     {
       "title": "2840. Check if Strings Can be Made Equal With Operations II",
       "slug": "check-if-strings-can-be-made-equal-with-operations-ii",
@@ -119,14 +127,6 @@
       "day": "2026-03-25",
       "problemUrl": "https://leetcode.com/problems/binary-subarrays-with-sum/",
       "solutionPath": "leetcode/binary-subarrays-with-sum-930.-binary-subarrays-with-sum/solution.cpp"
-    },
-    {
-      "title": "525. Contiguous Array",
-      "slug": "contiguous-array",
-      "language": "cpp",
-      "day": "2026-03-25",
-      "problemUrl": "https://leetcode.com/problems/contiguous-array/",
-      "solutionPath": "leetcode/contiguous-array-525.-contiguous-array/solution.cpp"
     }
   ]
 }
