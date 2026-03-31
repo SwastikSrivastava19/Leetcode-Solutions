@@ -6,7 +6,7 @@ public:
     string generateString(string str1, string str2) {
         int n = str1.size();
         int m = str2.size();
-        int len = n + m - 1;
+        int len = str1.size() + str2.size() - 1;
 
         string ans(len, '?');
         vector<bool> fixed(len, false);
