@@ -1,27 +1,23 @@
 {
-  "generatedAt": "2026-03-31T15:10:53.353Z",
-  "totalAcceptedSubmissions": 97,
-  "uniqueProblemsSolved": 86,
-  "solvedToday": 2,
-  "currentStreak": 16,
+  "generatedAt": "2026-04-01T08:00:57.666Z",
+  "totalAcceptedSubmissions": 98,
+  "uniqueProblemsSolved": 87,
+  "solvedToday": 1,
+  "currentStreak": 17,
   "longestStreak": 19,
   "languageBreakdown": {
-    "cpp": 96,
+    "cpp": 97,
     "java": 1
   },
   "topicBreakdown": {
     "misc": 46,
-    "array": 26,
+    "array": 27,
     "string": 19,
     "tree": 3,
     "hash-map": 2,
     "binary-search": 1
   },
   "last7Days": [
-    {
-      "date": "2026-03-25",
-      "count": 6
-    },
     {
       "date": "2026-03-26",
       "count": 2
@@ -45,9 +41,21 @@
     {
       "date": "2026-03-31",
       "count": 2
+    },
+    {
+      "date": "2026-04-01",
+      "count": 1
     }
   ],
   "recentProblems": [
+    {
+      "title": "3886. Sum of Sortable Integers",
+      "slug": "sum-of-sortable-integers",
+      "language": "cpp",
+      "day": "2026-04-01",
+      "problemUrl": "https://leetcode.com/problems/sum-of-sortable-integers/",
+      "solutionPath": "leetcode/sum-of-sortable-integers-3886.-sum-of-sortable-integers/solution.cpp"
+    },
     {
       "title": "3474. Lexicographically Smallest Generated String",
       "slug": "lexicographically-smallest-generated-string",
@@ -119,14 +127,6 @@
       "day": "2026-03-25",
       "problemUrl": "https://leetcode.com/problems/continuous-subarray-sum/",
       "solutionPath": "leetcode/continuous-subarray-sum-523.-continuous-subarray-sum/solution.cpp"
-    },
-    {
-      "title": "930. Binary Subarrays With Sum",
-      "slug": "binary-subarrays-with-sum",
-      "language": "cpp",
-      "day": "2026-03-25",
-      "problemUrl": "https://leetcode.com/problems/binary-subarrays-with-sum/",
-      "solutionPath": "leetcode/binary-subarrays-with-sum-930.-binary-subarrays-with-sum/solution.cpp"
     }
   ]
 }
