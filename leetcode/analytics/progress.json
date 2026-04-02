@@ -1,16 +1,16 @@
 {
-  "generatedAt": "2026-04-01T08:00:57.666Z",
-  "totalAcceptedSubmissions": 98,
-  "uniqueProblemsSolved": 87,
+  "generatedAt": "2026-04-02T03:51:54.427Z",
+  "totalAcceptedSubmissions": 99,
+  "uniqueProblemsSolved": 88,
   "solvedToday": 1,
-  "currentStreak": 17,
+  "currentStreak": 18,
   "longestStreak": 19,
   "languageBreakdown": {
-    "cpp": 97,
+    "cpp": 98,
     "java": 1
   },
   "topicBreakdown": {
-    "misc": 46,
+    "misc": 47,
     "array": 27,
     "string": 19,
     "tree": 3,
@@ -18,10 +18,6 @@
     "binary-search": 1
   },
   "last7Days": [
-    {
-      "date": "2026-03-26",
-      "count": 2
-    },
     {
       "date": "2026-03-27",
       "count": 1
@@ -45,9 +41,21 @@
     {
       "date": "2026-04-01",
       "count": 1
+    },
+    {
+      "date": "2026-04-02",
+      "count": 1
     }
   ],
   "recentProblems": [
+    {
+      "title": "2751. Robot Collisions",
+      "slug": "robot-collisions",
+      "language": "cpp",
+      "day": "2026-04-02",
+      "problemUrl": "https://leetcode.com/problems/robot-collisions/",
+      "solutionPath": "leetcode/robot-collisions-2751.-robot-collisions/solution.cpp"
+    },
     {
       "title": "3886. Sum of Sortable Integers",
       "slug": "sum-of-sortable-integers",
@@ -119,14 +127,6 @@
       "day": "2026-03-25",
       "problemUrl": "https://leetcode.com/problems/count-number-of-nice-subarrays/",
       "solutionPath": "leetcode/count-number-of-nice-subarrays-1248.-count-number-of-nice-subarrays/solution.cpp"
-    },
-    {
-      "title": "523. Continuous Subarray Sum",
-      "slug": "continuous-subarray-sum",
-      "language": "cpp",
-      "day": "2026-03-25",
-      "problemUrl": "https://leetcode.com/problems/continuous-subarray-sum/",
-      "solutionPath": "leetcode/continuous-subarray-sum-523.-continuous-subarray-sum/solution.cpp"
     }
   ]
 }
