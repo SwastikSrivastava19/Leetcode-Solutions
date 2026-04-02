@@ -1,16 +1,16 @@
 {
-  "generatedAt": "2026-04-02T03:51:54.427Z",
-  "totalAcceptedSubmissions": 99,
-  "uniqueProblemsSolved": 88,
-  "solvedToday": 1,
+  "generatedAt": "2026-04-02T15:03:21.868Z",
+  "totalAcceptedSubmissions": 100,
+  "uniqueProblemsSolved": 89,
+  "solvedToday": 2,
   "currentStreak": 18,
   "longestStreak": 19,
   "languageBreakdown": {
-    "cpp": 98,
+    "cpp": 99,
     "java": 1
   },
   "topicBreakdown": {
-    "misc": 47,
+    "misc": 48,
     "array": 27,
     "string": 19,
     "tree": 3,
@@ -44,10 +44,18 @@
     },
     {
       "date": "2026-04-02",
-      "count": 1
+      "count": 2
     }
   ],
   "recentProblems": [
+    {
+      "title": "3418. Maximum Amount of Money Robot Can Earn",
+      "slug": "maximum-amount-of-money-robot-can-earn",
+      "language": "cpp",
+      "day": "2026-04-02",
+      "problemUrl": "https://leetcode.com/problems/maximum-amount-of-money-robot-can-earn/",
+      "solutionPath": "leetcode/maximum-amount-of-money-robot-can-earn-3418.-maximum-amount-of-money-robot-can-earn/solution.cpp"
+    },
     {
       "title": "2751. Robot Collisions",
       "slug": "robot-collisions",
@@ -119,14 +127,6 @@
       "day": "2026-03-26",
       "problemUrl": "https://leetcode.com/problems/equal-sum-grid-partition-i/",
       "solutionPath": "leetcode/equal-sum-grid-partition-i-3546.-equal-sum-grid-partition-i/solution.cpp"
-    },
-    {
-      "title": "1248. Count Number of Nice Subarrays",
-      "slug": "count-number-of-nice-subarrays",
-      "language": "cpp",
-      "day": "2026-03-25",
-      "problemUrl": "https://leetcode.com/problems/count-number-of-nice-subarrays/",
-      "solutionPath": "leetcode/count-number-of-nice-subarrays-1248.-count-number-of-nice-subarrays/solution.cpp"
     }
   ]
 }
