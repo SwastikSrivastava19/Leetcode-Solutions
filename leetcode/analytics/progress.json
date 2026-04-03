@@ -1,16 +1,16 @@
 {
-  "generatedAt": "2026-04-02T15:03:21.868Z",
-  "totalAcceptedSubmissions": 100,
-  "uniqueProblemsSolved": 89,
-  "solvedToday": 2,
-  "currentStreak": 18,
+  "generatedAt": "2026-04-03T13:15:53.433Z",
+  "totalAcceptedSubmissions": 101,
+  "uniqueProblemsSolved": 90,
+  "solvedToday": 1,
+  "currentStreak": 19,
   "longestStreak": 19,
   "languageBreakdown": {
-    "cpp": 99,
+    "cpp": 100,
     "java": 1
   },
   "topicBreakdown": {
-    "misc": 48,
+    "misc": 49,
     "array": 27,
     "string": 19,
     "tree": 3,
@@ -18,10 +18,6 @@
     "binary-search": 1
   },
   "last7Days": [
-    {
-      "date": "2026-03-27",
-      "count": 1
-    },
     {
       "date": "2026-03-28",
       "count": 1
@@ -45,9 +41,21 @@
     {
       "date": "2026-04-02",
       "count": 2
+    },
+    {
+      "date": "2026-04-03",
+      "count": 1
     }
   ],
   "recentProblems": [
+    {
+      "title": "3661. Maximum Walls Destroyed by Robots",
+      "slug": "maximum-walls-destroyed-by-robots",
+      "language": "cpp",
+      "day": "2026-04-03",
+      "problemUrl": "https://leetcode.com/problems/maximum-walls-destroyed-by-robots/",
+      "solutionPath": "leetcode/maximum-walls-destroyed-by-robots-3661.-maximum-walls-destroyed-by-robots/solution.cpp"
+    },
     {
       "title": "3418. Maximum Amount of Money Robot Can Earn",
       "slug": "maximum-amount-of-money-robot-can-earn",
@@ -119,14 +127,6 @@
       "day": "2026-03-26",
       "problemUrl": "https://leetcode.com/problems/equal-sum-grid-partition-ii/",
       "solutionPath": "leetcode/equal-sum-grid-partition-ii-3548.-equal-sum-grid-partition-ii/solution.cpp"
-    },
-    {
-      "title": "3546. Equal Sum Grid Partition I",
-      "slug": "equal-sum-grid-partition-i",
-      "language": "cpp",
-      "day": "2026-03-26",
-      "problemUrl": "https://leetcode.com/problems/equal-sum-grid-partition-i/",
-      "solutionPath": "leetcode/equal-sum-grid-partition-i-3546.-equal-sum-grid-partition-i/solution.cpp"
     }
   ]
 }
