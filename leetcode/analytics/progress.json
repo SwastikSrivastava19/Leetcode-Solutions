@@ -1,16 +1,16 @@
 {
-  "generatedAt": "2026-04-03T13:15:53.433Z",
-  "totalAcceptedSubmissions": 101,
-  "uniqueProblemsSolved": 90,
+  "generatedAt": "2026-04-04T16:24:30.594Z",
+  "totalAcceptedSubmissions": 102,
+  "uniqueProblemsSolved": 91,
   "solvedToday": 1,
-  "currentStreak": 19,
-  "longestStreak": 19,
+  "currentStreak": 20,
+  "longestStreak": 20,
   "languageBreakdown": {
-    "cpp": 100,
+    "cpp": 101,
     "java": 1
   },
   "topicBreakdown": {
-    "misc": 49,
+    "misc": 50,
     "array": 27,
     "string": 19,
     "tree": 3,
@@ -18,10 +18,6 @@
     "binary-search": 1
   },
   "last7Days": [
-    {
-      "date": "2026-03-28",
-      "count": 1
-    },
     {
       "date": "2026-03-29",
       "count": 1
@@ -45,9 +41,21 @@
     {
       "date": "2026-04-03",
       "count": 1
+    },
+    {
+      "date": "2026-04-04",
+      "count": 1
     }
   ],
   "recentProblems": [
+    {
+      "title": "2075. Decode the Slanted Ciphertext",
+      "slug": "decode-the-slanted-ciphertext",
+      "language": "cpp",
+      "day": "2026-04-04",
+      "problemUrl": "https://leetcode.com/problems/decode-the-slanted-ciphertext/",
+      "solutionPath": "leetcode/decode-the-slanted-ciphertext-2075.-decode-the-slanted-ciphertext/solution.cpp"
+    },
     {
       "title": "3661. Maximum Walls Destroyed by Robots",
       "slug": "maximum-walls-destroyed-by-robots",
@@ -119,14 +127,6 @@
       "day": "2026-03-27",
       "problemUrl": "https://leetcode.com/problems/matrix-similarity-after-cyclic-shifts/",
       "solutionPath": "leetcode/matrix-similarity-after-cyclic-shifts-2946.-matrix-similarity-after-cyclic-shifts/solution.cpp"
-    },
-    {
-      "title": "3548. Equal Sum Grid Partition II",
-      "slug": "equal-sum-grid-partition-ii",
-      "language": "cpp",
-      "day": "2026-03-26",
-      "problemUrl": "https://leetcode.com/problems/equal-sum-grid-partition-ii/",
-      "solutionPath": "leetcode/equal-sum-grid-partition-ii-3548.-equal-sum-grid-partition-ii/solution.cpp"
     }
   ]
 }
