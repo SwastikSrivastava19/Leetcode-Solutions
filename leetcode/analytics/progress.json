@@ -1,16 +1,16 @@
 {
-  "generatedAt": "2026-04-04T16:24:30.594Z",
-  "totalAcceptedSubmissions": 102,
-  "uniqueProblemsSolved": 91,
+  "generatedAt": "2026-04-05T14:59:02.852Z",
+  "totalAcceptedSubmissions": 103,
+  "uniqueProblemsSolved": 92,
   "solvedToday": 1,
-  "currentStreak": 20,
-  "longestStreak": 20,
+  "currentStreak": 21,
+  "longestStreak": 21,
   "languageBreakdown": {
-    "cpp": 101,
+    "cpp": 102,
     "java": 1
   },
   "topicBreakdown": {
-    "misc": 50,
+    "misc": 51,
     "array": 27,
     "string": 19,
     "tree": 3,
@@ -18,10 +18,6 @@
     "binary-search": 1
   },
   "last7Days": [
-    {
-      "date": "2026-03-29",
-      "count": 1
-    },
     {
       "date": "2026-03-30",
       "count": 1
@@ -45,9 +41,21 @@
     {
       "date": "2026-04-04",
       "count": 1
+    },
+    {
+      "date": "2026-04-05",
+      "count": 1
     }
   ],
   "recentProblems": [
+    {
+      "title": "657. Robot Return to Origin",
+      "slug": "robot-return-to-origin",
+      "language": "cpp",
+      "day": "2026-04-05",
+      "problemUrl": "https://leetcode.com/problems/robot-return-to-origin/",
+      "solutionPath": "leetcode/robot-return-to-origin-657.-robot-return-to-origin/solution.cpp"
+    },
     {
       "title": "2075. Decode the Slanted Ciphertext",
       "slug": "decode-the-slanted-ciphertext",
@@ -119,14 +127,6 @@
       "day": "2026-03-28",
       "problemUrl": "https://leetcode.com/problems/find-the-string-with-lcp/",
       "solutionPath": "leetcode/find-the-string-with-lcp-2573.-find-the-string-with-lcp/solution.cpp"
-    },
-    {
-      "title": "2946. Matrix Similarity After Cyclic Shifts",
-      "slug": "matrix-similarity-after-cyclic-shifts",
-      "language": "cpp",
-      "day": "2026-03-27",
-      "problemUrl": "https://leetcode.com/problems/matrix-similarity-after-cyclic-shifts/",
-      "solutionPath": "leetcode/matrix-similarity-after-cyclic-shifts-2946.-matrix-similarity-after-cyclic-shifts/solution.cpp"
     }
   ]
 }
