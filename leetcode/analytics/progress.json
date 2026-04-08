@@ -1,16 +1,16 @@
 {
-  "generatedAt": "2026-04-07T17:00:04.603Z",
-  "totalAcceptedSubmissions": 105,
-  "uniqueProblemsSolved": 94,
-  "solvedToday": 2,
-  "currentStreak": 1,
+  "generatedAt": "2026-04-08T16:59:46.364Z",
+  "totalAcceptedSubmissions": 106,
+  "uniqueProblemsSolved": 95,
+  "solvedToday": 1,
+  "currentStreak": 2,
   "longestStreak": 21,
   "languageBreakdown": {
-    "cpp": 104,
+    "cpp": 105,
     "java": 1
   },
   "topicBreakdown": {
-    "misc": 53,
+    "misc": 54,
     "array": 27,
     "string": 19,
     "tree": 3,
@@ -18,10 +18,6 @@
     "binary-search": 1
   },
   "last7Days": [
-    {
-      "date": "2026-04-01",
-      "count": 1
-    },
     {
       "date": "2026-04-02",
       "count": 2
@@ -45,9 +41,21 @@
     {
       "date": "2026-04-07",
       "count": 2
+    },
+    {
+      "date": "2026-04-08",
+      "count": 1
     }
   ],
   "recentProblems": [
+    {
+      "title": "3653. XOR After Range Multiplication Queries I",
+      "slug": "xor-after-range-multiplication-queries-i",
+      "language": "cpp",
+      "day": "2026-04-08",
+      "problemUrl": "https://leetcode.com/problems/xor-after-range-multiplication-queries-i/",
+      "solutionPath": "leetcode/xor-after-range-multiplication-queries-i-3653.-xor-after-range-multiplication-queries-i/solution.cpp"
+    },
     {
       "title": "2069. Walking Robot Simulation II",
       "slug": "walking-robot-simulation-ii",
@@ -119,14 +127,6 @@
       "day": "2026-03-31",
       "problemUrl": "https://leetcode.com/problems/lexicographically-smallest-generated-string/",
       "solutionPath": "leetcode/lexicographically-smallest-generated-string-3474.-lexicographically-smallest-generated-string/solution.cpp"
-    },
-    {
-      "title": "2840. Check if Strings Can be Made Equal With Operations II",
-      "slug": "check-if-strings-can-be-made-equal-with-operations-ii",
-      "language": "cpp",
-      "day": "2026-03-30",
-      "problemUrl": "https://leetcode.com/problems/check-if-strings-can-be-made-equal-with-operations-ii/",
-      "solutionPath": "leetcode/check-if-strings-can-be-made-equal-with-operations-ii-2840.-check-if-strings-can-be-made-equal-with-operations-ii/solution.cpp"
     }
   ]
 }
