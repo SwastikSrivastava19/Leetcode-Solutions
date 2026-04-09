@@ -1,16 +1,16 @@
 {
-  "generatedAt": "2026-04-08T16:59:46.364Z",
-  "totalAcceptedSubmissions": 106,
-  "uniqueProblemsSolved": 95,
+  "generatedAt": "2026-04-09T16:23:57.052Z",
+  "totalAcceptedSubmissions": 107,
+  "uniqueProblemsSolved": 96,
   "solvedToday": 1,
-  "currentStreak": 2,
+  "currentStreak": 3,
   "longestStreak": 21,
   "languageBreakdown": {
-    "cpp": 105,
+    "cpp": 106,
     "java": 1
   },
   "topicBreakdown": {
-    "misc": 54,
+    "misc": 55,
     "array": 27,
     "string": 19,
     "tree": 3,
@@ -18,10 +18,6 @@
     "binary-search": 1
   },
   "last7Days": [
-    {
-      "date": "2026-04-02",
-      "count": 2
-    },
     {
       "date": "2026-04-03",
       "count": 1
@@ -45,9 +41,21 @@
     {
       "date": "2026-04-08",
       "count": 1
+    },
+    {
+      "date": "2026-04-09",
+      "count": 1
     }
   ],
   "recentProblems": [
+    {
+      "title": "3655. XOR After Range Multiplication Queries II",
+      "slug": "xor-after-range-multiplication-queries-ii",
+      "language": "cpp",
+      "day": "2026-04-09",
+      "problemUrl": "https://leetcode.com/problems/xor-after-range-multiplication-queries-ii/",
+      "solutionPath": "leetcode/xor-after-range-multiplication-queries-ii-3655.-xor-after-range-multiplication-queries-ii/solution.cpp"
+    },
     {
       "title": "3653. XOR After Range Multiplication Queries I",
       "slug": "xor-after-range-multiplication-queries-i",
@@ -119,14 +127,6 @@
       "day": "2026-04-01",
       "problemUrl": "https://leetcode.com/problems/sum-of-sortable-integers/",
       "solutionPath": "leetcode/sum-of-sortable-integers-3886.-sum-of-sortable-integers/solution.cpp"
-    },
-    {
-      "title": "3474. Lexicographically Smallest Generated String",
-      "slug": "lexicographically-smallest-generated-string",
-      "language": "cpp",
-      "day": "2026-03-31",
-      "problemUrl": "https://leetcode.com/problems/lexicographically-smallest-generated-string/",
-      "solutionPath": "leetcode/lexicographically-smallest-generated-string-3474.-lexicographically-smallest-generated-string/solution.cpp"
     }
   ]
 }
