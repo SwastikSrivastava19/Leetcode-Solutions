@@ -1,16 +1,16 @@
 {
-  "generatedAt": "2026-04-09T16:23:57.052Z",
-  "totalAcceptedSubmissions": 107,
-  "uniqueProblemsSolved": 96,
+  "generatedAt": "2026-04-10T08:15:57.746Z",
+  "totalAcceptedSubmissions": 108,
+  "uniqueProblemsSolved": 97,
   "solvedToday": 1,
-  "currentStreak": 3,
+  "currentStreak": 4,
   "longestStreak": 21,
   "languageBreakdown": {
-    "cpp": 106,
+    "cpp": 107,
     "java": 1
   },
   "topicBreakdown": {
-    "misc": 55,
+    "misc": 56,
     "array": 27,
     "string": 19,
     "tree": 3,
@@ -18,10 +18,6 @@
     "binary-search": 1
   },
   "last7Days": [
-    {
-      "date": "2026-04-03",
-      "count": 1
-    },
     {
       "date": "2026-04-04",
       "count": 1
@@ -45,9 +41,21 @@
     {
       "date": "2026-04-09",
       "count": 1
+    },
+    {
+      "date": "2026-04-10",
+      "count": 1
     }
   ],
   "recentProblems": [
+    {
+      "title": "3740. Minimum Distance Between Three Equal Elements I",
+      "slug": "minimum-distance-between-three-equal-elements-i",
+      "language": "cpp",
+      "day": "2026-04-10",
+      "problemUrl": "https://leetcode.com/problems/minimum-distance-between-three-equal-elements-i/",
+      "solutionPath": "leetcode/minimum-distance-between-three-equal-elements-i-3740.-minimum-distance-between-three-equal-elements-i/solution.cpp"
+    },
     {
       "title": "3655. XOR After Range Multiplication Queries II",
       "slug": "xor-after-range-multiplication-queries-ii",
@@ -119,14 +127,6 @@
       "day": "2026-04-02",
       "problemUrl": "https://leetcode.com/problems/robot-collisions/",
       "solutionPath": "leetcode/robot-collisions-2751.-robot-collisions/solution.cpp"
-    },
-    {
-      "title": "3886. Sum of Sortable Integers",
-      "slug": "sum-of-sortable-integers",
-      "language": "cpp",
-      "day": "2026-04-01",
-      "problemUrl": "https://leetcode.com/problems/sum-of-sortable-integers/",
-      "solutionPath": "leetcode/sum-of-sortable-integers-3886.-sum-of-sortable-integers/solution.cpp"
     }
   ]
 }
