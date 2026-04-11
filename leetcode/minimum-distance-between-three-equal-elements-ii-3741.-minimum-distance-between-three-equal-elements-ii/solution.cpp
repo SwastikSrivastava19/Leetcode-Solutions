@@ -15,7 +15,7 @@ public:
         for(auto &it : mp){
             vector<int> &ind = it.second;
 
-            if (ind.size() < 3) continue;
+            if(ind.size() < 3) continue;
 
             for(int i = 2; i < ind.size(); i++){
                 int first = ind[i - 2];
