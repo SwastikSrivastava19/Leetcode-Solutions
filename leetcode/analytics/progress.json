@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-04-12T05:35:05.372Z",
-  "totalAcceptedSubmissions": 111,
-  "uniqueProblemsSolved": 99,
-  "solvedToday": 1,
+  "generatedAt": "2026-04-12T18:29:11.704Z",
+  "totalAcceptedSubmissions": 112,
+  "uniqueProblemsSolved": 100,
+  "solvedToday": 2,
   "currentStreak": 6,
   "longestStreak": 21,
   "languageBreakdown": {
-    "cpp": 110,
+    "cpp": 111,
     "java": 1
   },
   "topicBreakdown": {
@@ -15,7 +15,8 @@
     "string": 19,
     "tree": 3,
     "hash-map": 2,
-    "binary-search": 1
+    "binary-search": 1,
+    "two-pointers": 1
   },
   "last7Days": [
     {
@@ -44,10 +45,18 @@
     },
     {
       "date": "2026-04-12",
-      "count": 1
+      "count": 2
     }
   ],
   "recentProblems": [
+    {
+      "title": "1320. Minimum Distance to Type a Word Using Two Fingers",
+      "slug": "minimum-distance-to-type-a-word-using-two-fingers",
+      "language": "cpp",
+      "day": "2026-04-12",
+      "problemUrl": "https://leetcode.com/problems/minimum-distance-to-type-a-word-using-two-fingers/",
+      "solutionPath": "leetcode/minimum-distance-to-type-a-word-using-two-fingers-1320.-minimum-distance-to-type-a-word-using-two-fingers/solution.cpp"
+    },
     {
       "title": "3898. Find the Degree of Each Vertex",
       "slug": "find-the-degree-of-each-vertex",
@@ -119,14 +128,6 @@
       "day": "2026-04-04",
       "problemUrl": "https://leetcode.com/problems/decode-the-slanted-ciphertext/",
       "solutionPath": "leetcode/decode-the-slanted-ciphertext-2075.-decode-the-slanted-ciphertext/solution.cpp"
-    },
-    {
-      "title": "3661. Maximum Walls Destroyed by Robots",
-      "slug": "maximum-walls-destroyed-by-robots",
-      "language": "cpp",
-      "day": "2026-04-03",
-      "problemUrl": "https://leetcode.com/problems/maximum-walls-destroyed-by-robots/",
-      "solutionPath": "leetcode/maximum-walls-destroyed-by-robots-3661.-maximum-walls-destroyed-by-robots/solution.cpp"
     }
   ]
 }
