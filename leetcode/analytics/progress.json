@@ -1,16 +1,16 @@
 {
-  "generatedAt": "2026-04-13T06:40:12.132Z",
-  "totalAcceptedSubmissions": 113,
-  "uniqueProblemsSolved": 101,
-  "solvedToday": 1,
+  "generatedAt": "2026-04-13T08:21:57.372Z",
+  "totalAcceptedSubmissions": 114,
+  "uniqueProblemsSolved": 102,
+  "solvedToday": 2,
   "currentStreak": 7,
   "longestStreak": 21,
   "languageBreakdown": {
-    "cpp": 112,
+    "cpp": 113,
     "java": 1
   },
   "topicBreakdown": {
-    "misc": 60,
+    "misc": 61,
     "array": 27,
     "string": 19,
     "tree": 3,
@@ -45,10 +45,18 @@
     },
     {
       "date": "2026-04-13",
-      "count": 1
+      "count": 2
     }
   ],
   "recentProblems": [
+    {
+      "title": "77. Combinations",
+      "slug": "combinations",
+      "language": "cpp",
+      "day": "2026-04-13",
+      "problemUrl": "https://leetcode.com/problems/combinations/",
+      "solutionPath": "leetcode/combinations-77.-combinations/solution.cpp"
+    },
     {
       "title": "1848. Minimum Distance to the Target Element",
       "slug": "minimum-distance-to-the-target-element",
@@ -120,14 +128,6 @@
       "day": "2026-04-07",
       "problemUrl": "https://leetcode.com/problems/walking-robot-simulation/",
       "solutionPath": "leetcode/walking-robot-simulation-874.-walking-robot-simulation/solution.cpp"
-    },
-    {
-      "title": "657. Robot Return to Origin",
-      "slug": "robot-return-to-origin",
-      "language": "cpp",
-      "day": "2026-04-05",
-      "problemUrl": "https://leetcode.com/problems/robot-return-to-origin/",
-      "solutionPath": "leetcode/robot-return-to-origin-657.-robot-return-to-origin/solution.cpp"
     }
   ]
 }
