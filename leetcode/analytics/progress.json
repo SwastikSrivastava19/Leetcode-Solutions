@@ -1,16 +1,16 @@
 {
-  "generatedAt": "2026-04-12T18:29:11.704Z",
-  "totalAcceptedSubmissions": 112,
-  "uniqueProblemsSolved": 100,
-  "solvedToday": 2,
-  "currentStreak": 6,
+  "generatedAt": "2026-04-13T06:40:12.132Z",
+  "totalAcceptedSubmissions": 113,
+  "uniqueProblemsSolved": 101,
+  "solvedToday": 1,
+  "currentStreak": 7,
   "longestStreak": 21,
   "languageBreakdown": {
-    "cpp": 111,
+    "cpp": 112,
     "java": 1
   },
   "topicBreakdown": {
-    "misc": 59,
+    "misc": 60,
     "array": 27,
     "string": 19,
     "tree": 3,
@@ -19,10 +19,6 @@
     "two-pointers": 1
   },
   "last7Days": [
-    {
-      "date": "2026-04-06",
-      "count": 0
-    },
     {
       "date": "2026-04-07",
       "count": 2
@@ -46,9 +42,21 @@
     {
       "date": "2026-04-12",
       "count": 2
+    },
+    {
+      "date": "2026-04-13",
+      "count": 1
     }
   ],
   "recentProblems": [
+    {
+      "title": "1848. Minimum Distance to the Target Element",
+      "slug": "minimum-distance-to-the-target-element",
+      "language": "cpp",
+      "day": "2026-04-13",
+      "problemUrl": "https://leetcode.com/problems/minimum-distance-to-the-target-element/",
+      "solutionPath": "leetcode/minimum-distance-to-the-target-element-1848.-minimum-distance-to-the-target-element/solution.cpp"
+    },
     {
       "title": "1320. Minimum Distance to Type a Word Using Two Fingers",
       "slug": "minimum-distance-to-type-a-word-using-two-fingers",
@@ -120,14 +128,6 @@
       "day": "2026-04-05",
       "problemUrl": "https://leetcode.com/problems/robot-return-to-origin/",
       "solutionPath": "leetcode/robot-return-to-origin-657.-robot-return-to-origin/solution.cpp"
-    },
-    {
-      "title": "2075. Decode the Slanted Ciphertext",
-      "slug": "decode-the-slanted-ciphertext",
-      "language": "cpp",
-      "day": "2026-04-04",
-      "problemUrl": "https://leetcode.com/problems/decode-the-slanted-ciphertext/",
-      "solutionPath": "leetcode/decode-the-slanted-ciphertext-2075.-decode-the-slanted-ciphertext/solution.cpp"
     }
   ]
 }
