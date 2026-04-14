@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-04-14T15:01:18.005Z",
-  "totalAcceptedSubmissions": 119,
-  "uniqueProblemsSolved": 105,
-  "solvedToday": 4,
+  "generatedAt": "2026-04-14T15:36:49.493Z",
+  "totalAcceptedSubmissions": 120,
+  "uniqueProblemsSolved": 106,
+  "solvedToday": 5,
   "currentStreak": 8,
   "longestStreak": 21,
   "languageBreakdown": {
-    "cpp": 118,
+    "cpp": 119,
     "java": 1
   },
   "topicBreakdown": {
     "misc": 63,
-    "array": 27,
+    "array": 28,
     "string": 19,
     "tree": 3,
     "backtracking": 3,
@@ -46,10 +46,18 @@
     },
     {
       "date": "2026-04-14",
-      "count": 4
+      "count": 5
     }
   ],
   "recentProblems": [
+    {
+      "title": "996. Number of Squareful Arrays",
+      "slug": "number-of-squareful-arrays",
+      "language": "cpp",
+      "day": "2026-04-14",
+      "problemUrl": "https://leetcode.com/problems/number-of-squareful-arrays/",
+      "solutionPath": "leetcode/number-of-squareful-arrays-996.-number-of-squareful-arrays/solution.cpp"
+    },
     {
       "title": "47. Permutations II",
       "slug": "permutations-ii",
@@ -121,14 +129,6 @@
       "day": "2026-04-10",
       "problemUrl": "https://leetcode.com/problems/minimum-distance-between-three-equal-elements-i/",
       "solutionPath": "leetcode/minimum-distance-between-three-equal-elements-i-3740.-minimum-distance-between-three-equal-elements-i/solution.cpp"
-    },
-    {
-      "title": "3655. XOR After Range Multiplication Queries II",
-      "slug": "xor-after-range-multiplication-queries-ii",
-      "language": "cpp",
-      "day": "2026-04-09",
-      "problemUrl": "https://leetcode.com/problems/xor-after-range-multiplication-queries-ii/",
-      "solutionPath": "leetcode/xor-after-range-multiplication-queries-ii-3655.-xor-after-range-multiplication-queries-ii/solution.cpp"
     }
   ]
 }
