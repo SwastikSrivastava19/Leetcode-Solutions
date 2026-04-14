@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-04-14T12:36:08.369Z",
-  "totalAcceptedSubmissions": 116,
-  "uniqueProblemsSolved": 103,
-  "solvedToday": 1,
+  "generatedAt": "2026-04-14T13:16:58.495Z",
+  "totalAcceptedSubmissions": 117,
+  "uniqueProblemsSolved": 104,
+  "solvedToday": 2,
   "currentStreak": 8,
   "longestStreak": 21,
   "languageBreakdown": {
-    "cpp": 115,
+    "cpp": 116,
     "java": 1
   },
   "topicBreakdown": {
@@ -16,7 +16,8 @@
     "tree": 3,
     "hash-map": 2,
     "binary-search": 1,
-    "two-pointers": 1
+    "two-pointers": 1,
+    "backtracking": 1
   },
   "last7Days": [
     {
@@ -45,10 +46,18 @@
     },
     {
       "date": "2026-04-14",
-      "count": 1
+      "count": 2
     }
   ],
   "recentProblems": [
+    {
+      "title": "46. Permutations",
+      "slug": "permutations",
+      "language": "cpp",
+      "day": "2026-04-14",
+      "problemUrl": "https://leetcode.com/problems/permutations/",
+      "solutionPath": "leetcode/permutations-46.-permutations/solution.cpp"
+    },
     {
       "title": "17. Letter Combinations of a Phone Number",
       "slug": "letter-combinations-of-a-phone-number",
@@ -120,14 +129,6 @@
       "day": "2026-04-08",
       "problemUrl": "https://leetcode.com/problems/xor-after-range-multiplication-queries-i/",
       "solutionPath": "leetcode/xor-after-range-multiplication-queries-i-3653.-xor-after-range-multiplication-queries-i/solution.cpp"
-    },
-    {
-      "title": "2069. Walking Robot Simulation II",
-      "slug": "walking-robot-simulation-ii",
-      "language": "cpp",
-      "day": "2026-04-07",
-      "problemUrl": "https://leetcode.com/problems/walking-robot-simulation-ii/",
-      "solutionPath": "leetcode/walking-robot-simulation-ii-2069.-walking-robot-simulation-ii/solution.cpp"
     }
   ]
 }
