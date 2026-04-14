@@ -1,16 +1,16 @@
 {
-  "generatedAt": "2026-04-14T15:36:49.493Z",
-  "totalAcceptedSubmissions": 120,
-  "uniqueProblemsSolved": 106,
-  "solvedToday": 5,
+  "generatedAt": "2026-04-14T17:45:30.280Z",
+  "totalAcceptedSubmissions": 121,
+  "uniqueProblemsSolved": 107,
+  "solvedToday": 6,
   "currentStreak": 8,
   "longestStreak": 21,
   "languageBreakdown": {
-    "cpp": 119,
+    "cpp": 120,
     "java": 1
   },
   "topicBreakdown": {
-    "misc": 63,
+    "misc": 64,
     "array": 28,
     "string": 19,
     "tree": 3,
@@ -46,10 +46,18 @@
     },
     {
       "date": "2026-04-14",
-      "count": 5
+      "count": 6
     }
   ],
   "recentProblems": [
+    {
+      "title": "2463. Minimum Total Distance Traveled",
+      "slug": "minimum-total-distance-traveled",
+      "language": "cpp",
+      "day": "2026-04-14",
+      "problemUrl": "https://leetcode.com/problems/minimum-total-distance-traveled/",
+      "solutionPath": "leetcode/minimum-total-distance-traveled-2463.-minimum-total-distance-traveled/solution.cpp"
+    },
     {
       "title": "996. Number of Squareful Arrays",
       "slug": "number-of-squareful-arrays",
@@ -121,14 +129,6 @@
       "day": "2026-04-11",
       "problemUrl": "https://leetcode.com/problems/minimum-distance-between-three-equal-elements-ii/",
       "solutionPath": "leetcode/minimum-distance-between-three-equal-elements-ii-3741.-minimum-distance-between-three-equal-elements-ii/solution.cpp"
-    },
-    {
-      "title": "3740. Minimum Distance Between Three Equal Elements I",
-      "slug": "minimum-distance-between-three-equal-elements-i",
-      "language": "cpp",
-      "day": "2026-04-10",
-      "problemUrl": "https://leetcode.com/problems/minimum-distance-between-three-equal-elements-i/",
-      "solutionPath": "leetcode/minimum-distance-between-three-equal-elements-i-3740.-minimum-distance-between-three-equal-elements-i/solution.cpp"
     }
   ]
 }
