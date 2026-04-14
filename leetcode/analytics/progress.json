@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-04-14T13:16:58.495Z",
-  "totalAcceptedSubmissions": 117,
-  "uniqueProblemsSolved": 104,
-  "solvedToday": 2,
+  "generatedAt": "2026-04-14T14:54:46.677Z",
+  "totalAcceptedSubmissions": 118,
+  "uniqueProblemsSolved": 105,
+  "solvedToday": 3,
   "currentStreak": 8,
   "longestStreak": 21,
   "languageBreakdown": {
-    "cpp": 116,
+    "cpp": 117,
     "java": 1
   },
   "topicBreakdown": {
@@ -15,9 +15,9 @@
     "string": 19,
     "tree": 3,
     "hash-map": 2,
+    "backtracking": 2,
     "binary-search": 1,
-    "two-pointers": 1,
-    "backtracking": 1
+    "two-pointers": 1
   },
   "last7Days": [
     {
@@ -46,10 +46,18 @@
     },
     {
       "date": "2026-04-14",
-      "count": 2
+      "count": 3
     }
   ],
   "recentProblems": [
+    {
+      "title": "47. Permutations II",
+      "slug": "permutations-ii",
+      "language": "cpp",
+      "day": "2026-04-14",
+      "problemUrl": "https://leetcode.com/problems/permutations-ii/",
+      "solutionPath": "leetcode/permutations-ii-47.-permutations-ii/solution.cpp"
+    },
     {
       "title": "46. Permutations",
       "slug": "permutations",
@@ -121,14 +129,6 @@
       "day": "2026-04-09",
       "problemUrl": "https://leetcode.com/problems/xor-after-range-multiplication-queries-ii/",
       "solutionPath": "leetcode/xor-after-range-multiplication-queries-ii-3655.-xor-after-range-multiplication-queries-ii/solution.cpp"
-    },
-    {
-      "title": "3653. XOR After Range Multiplication Queries I",
-      "slug": "xor-after-range-multiplication-queries-i",
-      "language": "cpp",
-      "day": "2026-04-08",
-      "problemUrl": "https://leetcode.com/problems/xor-after-range-multiplication-queries-i/",
-      "solutionPath": "leetcode/xor-after-range-multiplication-queries-i-3653.-xor-after-range-multiplication-queries-i/solution.cpp"
     }
   ]
 }
