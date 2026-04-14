@@ -1,16 +1,16 @@
 {
-  "generatedAt": "2026-04-13T08:34:49.362Z",
-  "totalAcceptedSubmissions": 115,
-  "uniqueProblemsSolved": 102,
-  "solvedToday": 3,
-  "currentStreak": 7,
+  "generatedAt": "2026-04-14T12:36:08.369Z",
+  "totalAcceptedSubmissions": 116,
+  "uniqueProblemsSolved": 103,
+  "solvedToday": 1,
+  "currentStreak": 8,
   "longestStreak": 21,
   "languageBreakdown": {
-    "cpp": 114,
+    "cpp": 115,
     "java": 1
   },
   "topicBreakdown": {
-    "misc": 62,
+    "misc": 63,
     "array": 27,
     "string": 19,
     "tree": 3,
@@ -19,10 +19,6 @@
     "two-pointers": 1
   },
   "last7Days": [
-    {
-      "date": "2026-04-07",
-      "count": 2
-    },
     {
       "date": "2026-04-08",
       "count": 1
@@ -46,9 +42,21 @@
     {
       "date": "2026-04-13",
       "count": 3
+    },
+    {
+      "date": "2026-04-14",
+      "count": 1
     }
   ],
   "recentProblems": [
+    {
+      "title": "17. Letter Combinations of a Phone Number",
+      "slug": "letter-combinations-of-a-phone-number",
+      "language": "cpp",
+      "day": "2026-04-14",
+      "problemUrl": "https://leetcode.com/problems/letter-combinations-of-a-phone-number/",
+      "solutionPath": "leetcode/letter-combinations-of-a-phone-number-17.-letter-combinations-of-a-phone-number/solution.cpp"
+    },
     {
       "title": "77. Combinations",
       "slug": "combinations",
@@ -120,14 +128,6 @@
       "day": "2026-04-07",
       "problemUrl": "https://leetcode.com/problems/walking-robot-simulation-ii/",
       "solutionPath": "leetcode/walking-robot-simulation-ii-2069.-walking-robot-simulation-ii/solution.cpp"
-    },
-    {
-      "title": "874. Walking Robot Simulation",
-      "slug": "walking-robot-simulation",
-      "language": "cpp",
-      "day": "2026-04-07",
-      "problemUrl": "https://leetcode.com/problems/walking-robot-simulation/",
-      "solutionPath": "leetcode/walking-robot-simulation-874.-walking-robot-simulation/solution.cpp"
     }
   ]
 }
