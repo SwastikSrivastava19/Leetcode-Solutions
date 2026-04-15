@@ -4,10 +4,7 @@
 class Solution {
 public:
     int f(vector<int> &dp , vector<int> &nums , int n , int start){
-        // if(n < 0) return 0;
-        // if(n == 0) return nums[0];
         if(n < start) return 0;
-        // if(n == 1) return nums[1];
 
         if(dp[n] != -1) return dp[n];
 
