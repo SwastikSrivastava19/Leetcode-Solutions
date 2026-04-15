@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-04-15T06:05:18.556Z",
-  "totalAcceptedSubmissions": 123,
-  "uniqueProblemsSolved": 109,
-  "solvedToday": 2,
+  "generatedAt": "2026-04-15T06:27:12.205Z",
+  "totalAcceptedSubmissions": 125,
+  "uniqueProblemsSolved": 110,
+  "solvedToday": 4,
   "currentStreak": 9,
   "longestStreak": 21,
   "languageBreakdown": {
-    "cpp": 122,
+    "cpp": 124,
     "java": 1
   },
   "topicBreakdown": {
-    "misc": 66,
-    "array": 28,
+    "misc": 67,
+    "array": 29,
     "string": 19,
     "tree": 3,
     "backtracking": 3,
@@ -46,10 +46,18 @@
     },
     {
       "date": "2026-04-15",
-      "count": 2
+      "count": 4
     }
   ],
   "recentProblems": [
+    {
+      "title": "2515. Shortest Distance to Target String in a Circular Array",
+      "slug": "shortest-distance-to-target-string-in-a-circular-array",
+      "language": "cpp",
+      "day": "2026-04-15",
+      "problemUrl": "https://leetcode.com/problems/shortest-distance-to-target-string-in-a-circular-array/",
+      "solutionPath": "leetcode/shortest-distance-to-target-string-in-a-circular-array-2515.-shortest-distance-to-target-string-in-a-circular-array/solution.cpp"
+    },
     {
       "title": "213. House Robber II",
       "slug": "house-robber-ii",
@@ -121,14 +129,6 @@
       "day": "2026-04-13",
       "problemUrl": "https://leetcode.com/problems/minimum-distance-to-the-target-element/",
       "solutionPath": "leetcode/minimum-distance-to-the-target-element-1848.-minimum-distance-to-the-target-element/solution.cpp"
-    },
-    {
-      "title": "1320. Minimum Distance to Type a Word Using Two Fingers",
-      "slug": "minimum-distance-to-type-a-word-using-two-fingers",
-      "language": "cpp",
-      "day": "2026-04-12",
-      "problemUrl": "https://leetcode.com/problems/minimum-distance-to-type-a-word-using-two-fingers/",
-      "solutionPath": "leetcode/minimum-distance-to-type-a-word-using-two-fingers-1320.-minimum-distance-to-type-a-word-using-two-fingers/solution.cpp"
     }
   ]
 }
