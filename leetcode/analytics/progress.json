@@ -1,16 +1,16 @@
 {
-  "generatedAt": "2026-04-14T17:45:30.280Z",
-  "totalAcceptedSubmissions": 121,
-  "uniqueProblemsSolved": 107,
-  "solvedToday": 6,
-  "currentStreak": 8,
+  "generatedAt": "2026-04-15T05:36:53.536Z",
+  "totalAcceptedSubmissions": 122,
+  "uniqueProblemsSolved": 108,
+  "solvedToday": 1,
+  "currentStreak": 9,
   "longestStreak": 21,
   "languageBreakdown": {
-    "cpp": 120,
+    "cpp": 121,
     "java": 1
   },
   "topicBreakdown": {
-    "misc": 64,
+    "misc": 65,
     "array": 28,
     "string": 19,
     "tree": 3,
@@ -20,10 +20,6 @@
     "two-pointers": 1
   },
   "last7Days": [
-    {
-      "date": "2026-04-08",
-      "count": 1
-    },
     {
       "date": "2026-04-09",
       "count": 1
@@ -47,9 +43,21 @@
     {
       "date": "2026-04-14",
       "count": 6
+    },
+    {
+      "date": "2026-04-15",
+      "count": 1
     }
   ],
   "recentProblems": [
+    {
+      "title": "198. House Robber",
+      "slug": "house-robber",
+      "language": "cpp",
+      "day": "2026-04-15",
+      "problemUrl": "https://leetcode.com/problems/house-robber/",
+      "solutionPath": "leetcode/house-robber-198.-house-robber/solution.cpp"
+    },
     {
       "title": "2463. Minimum Total Distance Traveled",
       "slug": "minimum-total-distance-traveled",
@@ -121,14 +129,6 @@
       "day": "2026-04-12",
       "problemUrl": "https://leetcode.com/problems/find-the-degree-of-each-vertex/",
       "solutionPath": "leetcode/find-the-degree-of-each-vertex-3898.-find-the-degree-of-each-vertex/solution.cpp"
-    },
-    {
-      "title": "3741. Minimum Distance Between Three Equal Elements II",
-      "slug": "minimum-distance-between-three-equal-elements-ii",
-      "language": "cpp",
-      "day": "2026-04-11",
-      "problemUrl": "https://leetcode.com/problems/minimum-distance-between-three-equal-elements-ii/",
-      "solutionPath": "leetcode/minimum-distance-between-three-equal-elements-ii-3741.-minimum-distance-between-three-equal-elements-ii/solution.cpp"
     }
   ]
 }
