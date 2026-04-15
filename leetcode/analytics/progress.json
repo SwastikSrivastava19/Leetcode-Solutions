@@ -1,16 +1,16 @@
 {
-  "generatedAt": "2026-04-15T08:13:14.515Z",
-  "totalAcceptedSubmissions": 127,
-  "uniqueProblemsSolved": 111,
-  "solvedToday": 6,
+  "generatedAt": "2026-04-15T08:30:37.297Z",
+  "totalAcceptedSubmissions": 128,
+  "uniqueProblemsSolved": 112,
+  "solvedToday": 7,
   "currentStreak": 9,
   "longestStreak": 21,
   "languageBreakdown": {
-    "cpp": 126,
+    "cpp": 127,
     "java": 1
   },
   "topicBreakdown": {
-    "misc": 68,
+    "misc": 69,
     "array": 30,
     "string": 19,
     "tree": 3,
@@ -46,10 +46,18 @@
     },
     {
       "date": "2026-04-15",
-      "count": 6
+      "count": 7
     }
   ],
   "recentProblems": [
+    {
+      "title": "63. Unique Paths II",
+      "slug": "unique-paths-ii",
+      "language": "cpp",
+      "day": "2026-04-15",
+      "problemUrl": "https://leetcode.com/problems/unique-paths-ii/",
+      "solutionPath": "leetcode/unique-paths-ii-63.-unique-paths-ii/solution.cpp"
+    },
     {
       "title": "62. Unique Paths",
       "slug": "unique-paths",
@@ -121,14 +129,6 @@
       "day": "2026-04-14",
       "problemUrl": "https://leetcode.com/problems/letter-combinations-of-a-phone-number/",
       "solutionPath": "leetcode/letter-combinations-of-a-phone-number-17.-letter-combinations-of-a-phone-number/solution.cpp"
-    },
-    {
-      "title": "77. Combinations",
-      "slug": "combinations",
-      "language": "cpp",
-      "day": "2026-04-13",
-      "problemUrl": "https://leetcode.com/problems/combinations/",
-      "solutionPath": "leetcode/combinations-77.-combinations/solution.cpp"
     }
   ]
 }
