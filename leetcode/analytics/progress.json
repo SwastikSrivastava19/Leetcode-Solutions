@@ -1,16 +1,16 @@
 {
-  "generatedAt": "2026-04-15T06:34:36.825Z",
-  "totalAcceptedSubmissions": 126,
-  "uniqueProblemsSolved": 110,
-  "solvedToday": 5,
+  "generatedAt": "2026-04-15T08:13:14.515Z",
+  "totalAcceptedSubmissions": 127,
+  "uniqueProblemsSolved": 111,
+  "solvedToday": 6,
   "currentStreak": 9,
   "longestStreak": 21,
   "languageBreakdown": {
-    "cpp": 125,
+    "cpp": 126,
     "java": 1
   },
   "topicBreakdown": {
-    "misc": 67,
+    "misc": 68,
     "array": 30,
     "string": 19,
     "tree": 3,
@@ -46,10 +46,18 @@
     },
     {
       "date": "2026-04-15",
-      "count": 5
+      "count": 6
     }
   ],
   "recentProblems": [
+    {
+      "title": "62. Unique Paths",
+      "slug": "unique-paths",
+      "language": "cpp",
+      "day": "2026-04-15",
+      "problemUrl": "https://leetcode.com/problems/unique-paths/",
+      "solutionPath": "leetcode/unique-paths-62.-unique-paths/solution.cpp"
+    },
     {
       "title": "2515. Shortest Distance to Target String in a Circular Array",
       "slug": "shortest-distance-to-target-string-in-a-circular-array",
@@ -121,14 +129,6 @@
       "day": "2026-04-13",
       "problemUrl": "https://leetcode.com/problems/combinations/",
       "solutionPath": "leetcode/combinations-77.-combinations/solution.cpp"
-    },
-    {
-      "title": "1848. Minimum Distance to the Target Element",
-      "slug": "minimum-distance-to-the-target-element",
-      "language": "cpp",
-      "day": "2026-04-13",
-      "problemUrl": "https://leetcode.com/problems/minimum-distance-to-the-target-element/",
-      "solutionPath": "leetcode/minimum-distance-to-the-target-element-1848.-minimum-distance-to-the-target-element/solution.cpp"
     }
   ]
 }
