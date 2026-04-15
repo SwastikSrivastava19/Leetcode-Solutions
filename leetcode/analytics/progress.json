@@ -1,16 +1,16 @@
 {
-  "generatedAt": "2026-04-15T05:36:53.536Z",
-  "totalAcceptedSubmissions": 122,
-  "uniqueProblemsSolved": 108,
-  "solvedToday": 1,
+  "generatedAt": "2026-04-15T06:05:18.556Z",
+  "totalAcceptedSubmissions": 123,
+  "uniqueProblemsSolved": 109,
+  "solvedToday": 2,
   "currentStreak": 9,
   "longestStreak": 21,
   "languageBreakdown": {
-    "cpp": 121,
+    "cpp": 122,
     "java": 1
   },
   "topicBreakdown": {
-    "misc": 65,
+    "misc": 66,
     "array": 28,
     "string": 19,
     "tree": 3,
@@ -46,10 +46,18 @@
     },
     {
       "date": "2026-04-15",
-      "count": 1
+      "count": 2
     }
   ],
   "recentProblems": [
+    {
+      "title": "213. House Robber II",
+      "slug": "house-robber-ii",
+      "language": "cpp",
+      "day": "2026-04-15",
+      "problemUrl": "https://leetcode.com/problems/house-robber-ii/",
+      "solutionPath": "leetcode/house-robber-ii-213.-house-robber-ii/solution.cpp"
+    },
     {
       "title": "198. House Robber",
       "slug": "house-robber",
@@ -121,14 +129,6 @@
       "day": "2026-04-12",
       "problemUrl": "https://leetcode.com/problems/minimum-distance-to-type-a-word-using-two-fingers/",
       "solutionPath": "leetcode/minimum-distance-to-type-a-word-using-two-fingers-1320.-minimum-distance-to-type-a-word-using-two-fingers/solution.cpp"
-    },
-    {
-      "title": "3898. Find the Degree of Each Vertex",
-      "slug": "find-the-degree-of-each-vertex",
-      "language": "cpp",
-      "day": "2026-04-12",
-      "problemUrl": "https://leetcode.com/problems/find-the-degree-of-each-vertex/",
-      "solutionPath": "leetcode/find-the-degree-of-each-vertex-3898.-find-the-degree-of-each-vertex/solution.cpp"
     }
   ]
 }
