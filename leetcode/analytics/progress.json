@@ -1,16 +1,16 @@
 {
-  "generatedAt": "2026-04-17T13:41:30.351Z",
-  "totalAcceptedSubmissions": 130,
-  "uniqueProblemsSolved": 114,
+  "generatedAt": "2026-04-18T06:19:03.827Z",
+  "totalAcceptedSubmissions": 131,
+  "uniqueProblemsSolved": 115,
   "solvedToday": 1,
-  "currentStreak": 11,
+  "currentStreak": 12,
   "longestStreak": 21,
   "languageBreakdown": {
-    "cpp": 129,
+    "cpp": 130,
     "java": 1
   },
   "topicBreakdown": {
-    "misc": 71,
+    "misc": 72,
     "array": 30,
     "string": 19,
     "tree": 3,
@@ -20,10 +20,6 @@
     "two-pointers": 1
   },
   "last7Days": [
-    {
-      "date": "2026-04-11",
-      "count": 2
-    },
     {
       "date": "2026-04-12",
       "count": 2
@@ -47,9 +43,21 @@
     {
       "date": "2026-04-17",
       "count": 1
+    },
+    {
+      "date": "2026-04-18",
+      "count": 1
     }
   ],
   "recentProblems": [
+    {
+      "title": "3783. Mirror Distance of an Integer",
+      "slug": "mirror-distance-of-an-integer",
+      "language": "cpp",
+      "day": "2026-04-18",
+      "problemUrl": "https://leetcode.com/problems/mirror-distance-of-an-integer/",
+      "solutionPath": "leetcode/mirror-distance-of-an-integer-3783.-mirror-distance-of-an-integer/solution.cpp"
+    },
     {
       "title": "3761. Minimum Absolute Distance Between Mirror Pairs",
       "slug": "minimum-absolute-distance-between-mirror-pairs",
@@ -121,14 +129,6 @@
       "day": "2026-04-14",
       "problemUrl": "https://leetcode.com/problems/number-of-squareful-arrays/",
       "solutionPath": "leetcode/number-of-squareful-arrays-996.-number-of-squareful-arrays/solution.cpp"
-    },
-    {
-      "title": "47. Permutations II",
-      "slug": "permutations-ii",
-      "language": "cpp",
-      "day": "2026-04-14",
-      "problemUrl": "https://leetcode.com/problems/permutations-ii/",
-      "solutionPath": "leetcode/permutations-ii-47.-permutations-ii/solution.cpp"
     }
   ]
 }
