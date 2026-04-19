@@ -1,16 +1,16 @@
 {
-  "generatedAt": "2026-04-18T06:19:03.827Z",
-  "totalAcceptedSubmissions": 131,
-  "uniqueProblemsSolved": 115,
+  "generatedAt": "2026-04-19T04:53:11.837Z",
+  "totalAcceptedSubmissions": 132,
+  "uniqueProblemsSolved": 116,
   "solvedToday": 1,
-  "currentStreak": 12,
+  "currentStreak": 13,
   "longestStreak": 21,
   "languageBreakdown": {
-    "cpp": 130,
+    "cpp": 131,
     "java": 1
   },
   "topicBreakdown": {
-    "misc": 72,
+    "misc": 73,
     "array": 30,
     "string": 19,
     "tree": 3,
@@ -20,10 +20,6 @@
     "two-pointers": 1
   },
   "last7Days": [
-    {
-      "date": "2026-04-12",
-      "count": 2
-    },
     {
       "date": "2026-04-13",
       "count": 3
@@ -47,9 +43,21 @@
     {
       "date": "2026-04-18",
       "count": 1
+    },
+    {
+      "date": "2026-04-19",
+      "count": 1
     }
   ],
   "recentProblems": [
+    {
+      "title": "3903. Smallest Stable Index I",
+      "slug": "smallest-stable-index-i",
+      "language": "cpp",
+      "day": "2026-04-19",
+      "problemUrl": "https://leetcode.com/problems/smallest-stable-index-i/",
+      "solutionPath": "leetcode/smallest-stable-index-i-3903.-smallest-stable-index-i/solution.cpp"
+    },
     {
       "title": "3783. Mirror Distance of an Integer",
       "slug": "mirror-distance-of-an-integer",
@@ -121,14 +129,6 @@
       "day": "2026-04-14",
       "problemUrl": "https://leetcode.com/problems/minimum-total-distance-traveled/",
       "solutionPath": "leetcode/minimum-total-distance-traveled-2463.-minimum-total-distance-traveled/solution.cpp"
-    },
-    {
-      "title": "996. Number of Squareful Arrays",
-      "slug": "number-of-squareful-arrays",
-      "language": "cpp",
-      "day": "2026-04-14",
-      "problemUrl": "https://leetcode.com/problems/number-of-squareful-arrays/",
-      "solutionPath": "leetcode/number-of-squareful-arrays-996.-number-of-squareful-arrays/solution.cpp"
     }
   ]
 }
