@@ -1,16 +1,16 @@
 {
-  "generatedAt": "2026-04-19T04:53:11.837Z",
-  "totalAcceptedSubmissions": 132,
-  "uniqueProblemsSolved": 116,
-  "solvedToday": 1,
+  "generatedAt": "2026-04-19T04:58:37.146Z",
+  "totalAcceptedSubmissions": 134,
+  "uniqueProblemsSolved": 118,
+  "solvedToday": 3,
   "currentStreak": 13,
   "longestStreak": 21,
   "languageBreakdown": {
-    "cpp": 131,
+    "cpp": 133,
     "java": 1
   },
   "topicBreakdown": {
-    "misc": 73,
+    "misc": 75,
     "array": 30,
     "string": 19,
     "tree": 3,
@@ -46,10 +46,26 @@
     },
     {
       "date": "2026-04-19",
-      "count": 1
+      "count": 3
     }
   ],
   "recentProblems": [
+    {
+      "title": "1855. Maximum Distance Between a Pair of Values",
+      "slug": "maximum-distance-between-a-pair-of-values",
+      "language": "cpp",
+      "day": "2026-04-19",
+      "problemUrl": "https://leetcode.com/problems/maximum-distance-between-a-pair-of-values/",
+      "solutionPath": "leetcode/maximum-distance-between-a-pair-of-values-1855.-maximum-distance-between-a-pair-of-values/solution.cpp"
+    },
+    {
+      "title": "3904. Smallest Stable Index II",
+      "slug": "smallest-stable-index-ii",
+      "language": "cpp",
+      "day": "2026-04-19",
+      "problemUrl": "https://leetcode.com/problems/smallest-stable-index-ii/",
+      "solutionPath": "leetcode/smallest-stable-index-ii-3904.-smallest-stable-index-ii/solution.cpp"
+    },
     {
       "title": "3903. Smallest Stable Index I",
       "slug": "smallest-stable-index-i",
@@ -113,22 +129,6 @@
       "day": "2026-04-15",
       "problemUrl": "https://leetcode.com/problems/house-robber-ii/",
       "solutionPath": "leetcode/house-robber-ii-213.-house-robber-ii/solution.cpp"
-    },
-    {
-      "title": "198. House Robber",
-      "slug": "house-robber",
-      "language": "cpp",
-      "day": "2026-04-15",
-      "problemUrl": "https://leetcode.com/problems/house-robber/",
-      "solutionPath": "leetcode/house-robber-198.-house-robber/solution.cpp"
-    },
-    {
-      "title": "2463. Minimum Total Distance Traveled",
-      "slug": "minimum-total-distance-traveled",
-      "language": "cpp",
-      "day": "2026-04-14",
-      "problemUrl": "https://leetcode.com/problems/minimum-total-distance-traveled/",
-      "solutionPath": "leetcode/minimum-total-distance-traveled-2463.-minimum-total-distance-traveled/solution.cpp"
     }
   ]
 }
