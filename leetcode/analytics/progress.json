@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-04-19T08:58:08.677Z",
-  "totalAcceptedSubmissions": 136,
-  "uniqueProblemsSolved": 119,
-  "solvedToday": 5,
-  "currentStreak": 13,
+  "generatedAt": "2026-04-20T04:45:33.012Z",
+  "totalAcceptedSubmissions": 137,
+  "uniqueProblemsSolved": 120,
+  "solvedToday": 1,
+  "currentStreak": 14,
   "longestStreak": 21,
   "languageBreakdown": {
-    "cpp": 135,
+    "cpp": 136,
     "java": 1
   },
   "topicBreakdown": {
@@ -16,14 +16,10 @@
     "tree": 3,
     "backtracking": 3,
     "hash-map": 2,
-    "binary-search": 1,
-    "two-pointers": 1
+    "two-pointers": 2,
+    "binary-search": 1
   },
   "last7Days": [
-    {
-      "date": "2026-04-13",
-      "count": 3
-    },
     {
       "date": "2026-04-14",
       "count": 6
@@ -47,9 +43,21 @@
     {
       "date": "2026-04-19",
       "count": 5
+    },
+    {
+      "date": "2026-04-20",
+      "count": 1
     }
   ],
   "recentProblems": [
+    {
+      "title": "2078. Two Furthest Houses With Different Colors",
+      "slug": "two-furthest-houses-with-different-colors",
+      "language": "cpp",
+      "day": "2026-04-20",
+      "problemUrl": "https://leetcode.com/problems/two-furthest-houses-with-different-colors/",
+      "solutionPath": "leetcode/two-furthest-houses-with-different-colors-2078.-two-furthest-houses-with-different-colors/solution.cpp"
+    },
     {
       "title": "1855. Maximum Distance Between a Pair of Values",
       "slug": "maximum-distance-between-a-pair-of-values",
@@ -121,14 +129,6 @@
       "day": "2026-04-15",
       "problemUrl": "https://leetcode.com/problems/unique-paths/",
       "solutionPath": "leetcode/unique-paths-62.-unique-paths/solution.cpp"
-    },
-    {
-      "title": "2515. Shortest Distance to Target String in a Circular Array",
-      "slug": "shortest-distance-to-target-string-in-a-circular-array",
-      "language": "cpp",
-      "day": "2026-04-15",
-      "problemUrl": "https://leetcode.com/problems/shortest-distance-to-target-string-in-a-circular-array/",
-      "solutionPath": "leetcode/shortest-distance-to-target-string-in-a-circular-array-2515.-shortest-distance-to-target-string-in-a-circular-array/solution.cpp"
     }
   ]
 }
