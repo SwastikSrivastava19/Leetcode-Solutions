@@ -1,16 +1,16 @@
 {
-  "generatedAt": "2026-04-20T04:49:12.632Z",
-  "totalAcceptedSubmissions": 138,
-  "uniqueProblemsSolved": 120,
-  "solvedToday": 2,
+  "generatedAt": "2026-04-20T09:31:17.088Z",
+  "totalAcceptedSubmissions": 139,
+  "uniqueProblemsSolved": 121,
+  "solvedToday": 3,
   "currentStreak": 14,
   "longestStreak": 21,
   "languageBreakdown": {
-    "cpp": 137,
+    "cpp": 138,
     "java": 1
   },
   "topicBreakdown": {
-    "misc": 77,
+    "misc": 78,
     "array": 30,
     "string": 19,
     "tree": 3,
@@ -46,10 +46,18 @@
     },
     {
       "date": "2026-04-20",
-      "count": 2
+      "count": 3
     }
   ],
   "recentProblems": [
+    {
+      "title": "233. Number of Digit One",
+      "slug": "number-of-digit-one",
+      "language": "cpp",
+      "day": "2026-04-20",
+      "problemUrl": "https://leetcode.com/problems/number-of-digit-one/",
+      "solutionPath": "leetcode/number-of-digit-one-233.-number-of-digit-one/solution.cpp"
+    },
     {
       "title": "2078. Two Furthest Houses With Different Colors",
       "slug": "two-furthest-houses-with-different-colors",
@@ -121,14 +129,6 @@
       "day": "2026-04-15",
       "problemUrl": "https://leetcode.com/problems/unique-paths-ii/",
       "solutionPath": "leetcode/unique-paths-ii-63.-unique-paths-ii/solution.cpp"
-    },
-    {
-      "title": "62. Unique Paths",
-      "slug": "unique-paths",
-      "language": "cpp",
-      "day": "2026-04-15",
-      "problemUrl": "https://leetcode.com/problems/unique-paths/",
-      "solutionPath": "leetcode/unique-paths-62.-unique-paths/solution.cpp"
     }
   ]
 }
