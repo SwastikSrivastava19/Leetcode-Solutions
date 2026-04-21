@@ -18,7 +18,7 @@ int dp[11][2][1024][2];
             }
         
             else {
-                if(mask & (1 << dig)) continue;
+                if(mask & (1 << dig)) continue; // agar dig used h to skip maro
                 res += f(s , ind + 1 , (tight && dig == ub) , mask | (1 << dig) , 0);
             }
         }
