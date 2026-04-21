@@ -1,16 +1,16 @@
 {
-  "generatedAt": "2026-04-20T09:31:17.088Z",
-  "totalAcceptedSubmissions": 139,
-  "uniqueProblemsSolved": 121,
-  "solvedToday": 3,
-  "currentStreak": 14,
+  "generatedAt": "2026-04-21T08:34:45.495Z",
+  "totalAcceptedSubmissions": 140,
+  "uniqueProblemsSolved": 122,
+  "solvedToday": 1,
+  "currentStreak": 15,
   "longestStreak": 21,
   "languageBreakdown": {
-    "cpp": 138,
+    "cpp": 139,
     "java": 1
   },
   "topicBreakdown": {
-    "misc": 78,
+    "misc": 79,
     "array": 30,
     "string": 19,
     "tree": 3,
@@ -20,10 +20,6 @@
     "binary-search": 1
   },
   "last7Days": [
-    {
-      "date": "2026-04-14",
-      "count": 6
-    },
     {
       "date": "2026-04-15",
       "count": 7
@@ -47,9 +43,21 @@
     {
       "date": "2026-04-20",
       "count": 3
+    },
+    {
+      "date": "2026-04-21",
+      "count": 1
     }
   ],
   "recentProblems": [
+    {
+      "title": "1012. Numbers With Repeated Digits",
+      "slug": "numbers-with-repeated-digits",
+      "language": "cpp",
+      "day": "2026-04-21",
+      "problemUrl": "https://leetcode.com/problems/numbers-with-repeated-digits/",
+      "solutionPath": "leetcode/numbers-with-repeated-digits-1012.-numbers-with-repeated-digits/solution.cpp"
+    },
     {
       "title": "233. Number of Digit One",
       "slug": "number-of-digit-one",
@@ -121,14 +129,6 @@
       "day": "2026-04-16",
       "problemUrl": "https://leetcode.com/problems/closest-equal-element-queries/",
       "solutionPath": "leetcode/closest-equal-element-queries-3488.-closest-equal-element-queries/solution.cpp"
-    },
-    {
-      "title": "63. Unique Paths II",
-      "slug": "unique-paths-ii",
-      "language": "cpp",
-      "day": "2026-04-15",
-      "problemUrl": "https://leetcode.com/problems/unique-paths-ii/",
-      "solutionPath": "leetcode/unique-paths-ii-63.-unique-paths-ii/solution.cpp"
     }
   ]
 }
