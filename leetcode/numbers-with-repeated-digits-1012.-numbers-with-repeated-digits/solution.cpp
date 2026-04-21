@@ -6,7 +6,6 @@ public:
 int dp[11][2][2][2][1024];
     int f(string &s , int ind , bool tight , bool rep , bool lz , int mask){
         if(ind == s.size()) return rep == 0 ? 0 : 1;
-        // if(ind == s.size()) return rep ? 1 : 0;
         if(dp[ind][tight][rep][lz][mask] != -1) return dp[ind][tight][rep][lz][mask];
 
         int lb = 0;
@@ -19,8 +18,6 @@ int dp[11][2][2][2][1024];
             }
 
             else{
-                // check repetitions
-                // if(mask & (1 << dig)) continue; // agar rep hain , to aage bdho.
                 // mark digit as used -> mask | (1 << dig);
                 res += f(s , ind + 1 , (tight && dig == ub) , (rep || (mask & (1 << dig))) , 0 , mask | (1 << dig));
             }
