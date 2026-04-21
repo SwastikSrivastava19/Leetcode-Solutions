@@ -1,16 +1,16 @@
 {
-  "generatedAt": "2026-04-21T09:20:54.908Z",
-  "totalAcceptedSubmissions": 142,
-  "uniqueProblemsSolved": 123,
-  "solvedToday": 3,
+  "generatedAt": "2026-04-21T10:29:46.121Z",
+  "totalAcceptedSubmissions": 143,
+  "uniqueProblemsSolved": 124,
+  "solvedToday": 4,
   "currentStreak": 15,
   "longestStreak": 21,
   "languageBreakdown": {
-    "cpp": 141,
+    "cpp": 142,
     "java": 1
   },
   "topicBreakdown": {
-    "misc": 81,
+    "misc": 82,
     "array": 30,
     "string": 19,
     "tree": 3,
@@ -46,10 +46,18 @@
     },
     {
       "date": "2026-04-21",
-      "count": 3
+      "count": 4
     }
   ],
   "recentProblems": [
+    {
+      "title": "2376. Count Special Integers",
+      "slug": "count-special-integers",
+      "language": "cpp",
+      "day": "2026-04-21",
+      "problemUrl": "https://leetcode.com/problems/count-special-integers/",
+      "solutionPath": "leetcode/count-special-integers-2376.-count-special-integers/solution.cpp"
+    },
     {
       "title": "600. Non-negative Integers without Consecutive Ones",
       "slug": "non-negative-integers-without-consecutive-ones",
@@ -121,14 +129,6 @@
       "day": "2026-04-18",
       "problemUrl": "https://leetcode.com/problems/mirror-distance-of-an-integer/",
       "solutionPath": "leetcode/mirror-distance-of-an-integer-3783.-mirror-distance-of-an-integer/solution.cpp"
-    },
-    {
-      "title": "3761. Minimum Absolute Distance Between Mirror Pairs",
-      "slug": "minimum-absolute-distance-between-mirror-pairs",
-      "language": "cpp",
-      "day": "2026-04-17",
-      "problemUrl": "https://leetcode.com/problems/minimum-absolute-distance-between-mirror-pairs/",
-      "solutionPath": "leetcode/minimum-absolute-distance-between-mirror-pairs-3761.-minimum-absolute-distance-between-mirror-pairs/solution.cpp"
     }
   ]
 }
