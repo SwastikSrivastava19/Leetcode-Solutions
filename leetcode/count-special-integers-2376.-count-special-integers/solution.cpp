@@ -3,8 +3,11 @@
 // Language: cpp
 class Solution {
 public:
-    int f(string &s , int ind , bool tight , int mask , int lz){
+int dp[11][2][1024][2];
+    int f(string &s , int ind , bool tight , int mask , bool lz){
         if(ind == s.size()) return lz == 0;
+
+        if(dp[ind][tight][mask][lz] != -1) return dp[ind][tight][mask][lz]; 
 
         int lb = 0 , ub = (tight ? s[ind] - '0' : 9);
         int res = 0;
@@ -19,11 +22,12 @@ public:
                 res += f(s , ind + 1 , (tight && dig == ub) , mask | (1 << dig) , 0);
             }
         }
-        return res;
+        return dp[ind][tight][mask][lz] = res;
     }
 
     int countSpecialNumbers(int n) {
         string s = to_string(n);
+        memset(dp , -1 , sizeof(dp));
         return f(s , 0 , 1 , 0 , 1);
     }
 };
