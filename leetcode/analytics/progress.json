@@ -1,16 +1,16 @@
 {
-  "generatedAt": "2026-04-21T08:37:03.062Z",
-  "totalAcceptedSubmissions": 141,
-  "uniqueProblemsSolved": 122,
-  "solvedToday": 2,
+  "generatedAt": "2026-04-21T09:20:54.908Z",
+  "totalAcceptedSubmissions": 142,
+  "uniqueProblemsSolved": 123,
+  "solvedToday": 3,
   "currentStreak": 15,
   "longestStreak": 21,
   "languageBreakdown": {
-    "cpp": 140,
+    "cpp": 141,
     "java": 1
   },
   "topicBreakdown": {
-    "misc": 80,
+    "misc": 81,
     "array": 30,
     "string": 19,
     "tree": 3,
@@ -46,10 +46,18 @@
     },
     {
       "date": "2026-04-21",
-      "count": 2
+      "count": 3
     }
   ],
   "recentProblems": [
+    {
+      "title": "600. Non-negative Integers without Consecutive Ones",
+      "slug": "non-negative-integers-without-consecutive-ones",
+      "language": "cpp",
+      "day": "2026-04-21",
+      "problemUrl": "https://leetcode.com/problems/non-negative-integers-without-consecutive-ones/",
+      "solutionPath": "leetcode/non-negative-integers-without-consecutive-ones-600.-non-negative-integers-without-consecutive-ones/solution.cpp"
+    },
     {
       "title": "1012. Numbers With Repeated Digits",
       "slug": "numbers-with-repeated-digits",
@@ -121,14 +129,6 @@
       "day": "2026-04-17",
       "problemUrl": "https://leetcode.com/problems/minimum-absolute-distance-between-mirror-pairs/",
       "solutionPath": "leetcode/minimum-absolute-distance-between-mirror-pairs-3761.-minimum-absolute-distance-between-mirror-pairs/solution.cpp"
-    },
-    {
-      "title": "3488. Closest Equal Element Queries",
-      "slug": "closest-equal-element-queries",
-      "language": "cpp",
-      "day": "2026-04-16",
-      "problemUrl": "https://leetcode.com/problems/closest-equal-element-queries/",
-      "solutionPath": "leetcode/closest-equal-element-queries-3488.-closest-equal-element-queries/solution.cpp"
     }
   ]
 }
