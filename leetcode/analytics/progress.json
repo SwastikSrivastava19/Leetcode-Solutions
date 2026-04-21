@@ -1,16 +1,16 @@
 {
-  "generatedAt": "2026-04-21T10:39:01.507Z",
-  "totalAcceptedSubmissions": 145,
-  "uniqueProblemsSolved": 124,
-  "solvedToday": 6,
+  "generatedAt": "2026-04-21T16:14:04.918Z",
+  "totalAcceptedSubmissions": 146,
+  "uniqueProblemsSolved": 125,
+  "solvedToday": 7,
   "currentStreak": 15,
   "longestStreak": 21,
   "languageBreakdown": {
-    "cpp": 144,
+    "cpp": 145,
     "java": 1
   },
   "topicBreakdown": {
-    "misc": 84,
+    "misc": 85,
     "array": 30,
     "string": 19,
     "tree": 3,
@@ -46,10 +46,18 @@
     },
     {
       "date": "2026-04-21",
-      "count": 6
+      "count": 7
     }
   ],
   "recentProblems": [
+    {
+      "title": "1722. Minimize Hamming Distance After Swap Operations",
+      "slug": "minimize-hamming-distance-after-swap-operations",
+      "language": "cpp",
+      "day": "2026-04-21",
+      "problemUrl": "https://leetcode.com/problems/minimize-hamming-distance-after-swap-operations/",
+      "solutionPath": "leetcode/minimize-hamming-distance-after-swap-operations-1722.-minimize-hamming-distance-after-swap-operations/solution.cpp"
+    },
     {
       "title": "2376. Count Special Integers",
       "slug": "count-special-integers",
@@ -121,14 +129,6 @@
       "day": "2026-04-19",
       "problemUrl": "https://leetcode.com/problems/smallest-stable-index-i/",
       "solutionPath": "leetcode/smallest-stable-index-i-3903.-smallest-stable-index-i/solution.cpp"
-    },
-    {
-      "title": "3783. Mirror Distance of an Integer",
-      "slug": "mirror-distance-of-an-integer",
-      "language": "cpp",
-      "day": "2026-04-18",
-      "problemUrl": "https://leetcode.com/problems/mirror-distance-of-an-integer/",
-      "solutionPath": "leetcode/mirror-distance-of-an-integer-3783.-mirror-distance-of-an-integer/solution.cpp"
     }
   ]
 }
