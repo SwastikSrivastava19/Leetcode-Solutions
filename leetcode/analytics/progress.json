@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-04-21T16:14:04.918Z",
-  "totalAcceptedSubmissions": 146,
-  "uniqueProblemsSolved": 125,
-  "solvedToday": 7,
-  "currentStreak": 15,
+  "generatedAt": "2026-04-22T04:28:50.289Z",
+  "totalAcceptedSubmissions": 147,
+  "uniqueProblemsSolved": 126,
+  "solvedToday": 1,
+  "currentStreak": 16,
   "longestStreak": 21,
   "languageBreakdown": {
-    "cpp": 145,
+    "cpp": 146,
     "java": 1
   },
   "topicBreakdown": {
@@ -14,16 +14,12 @@
     "array": 30,
     "string": 19,
     "tree": 3,
+    "hash-map": 3,
     "two-pointers": 3,
     "backtracking": 3,
-    "hash-map": 2,
     "binary-search": 1
   },
   "last7Days": [
-    {
-      "date": "2026-04-15",
-      "count": 7
-    },
     {
       "date": "2026-04-16",
       "count": 1
@@ -47,9 +43,21 @@
     {
       "date": "2026-04-21",
       "count": 7
+    },
+    {
+      "date": "2026-04-22",
+      "count": 1
     }
   ],
   "recentProblems": [
+    {
+      "title": "2452. Words Within Two Edits of Dictionary",
+      "slug": "words-within-two-edits-of-dictionary",
+      "language": "cpp",
+      "day": "2026-04-22",
+      "problemUrl": "https://leetcode.com/problems/words-within-two-edits-of-dictionary/",
+      "solutionPath": "leetcode/words-within-two-edits-of-dictionary-2452.-words-within-two-edits-of-dictionary/solution.cpp"
+    },
     {
       "title": "1722. Minimize Hamming Distance After Swap Operations",
       "slug": "minimize-hamming-distance-after-swap-operations",
@@ -121,14 +129,6 @@
       "day": "2026-04-19",
       "problemUrl": "https://leetcode.com/problems/smallest-stable-index-ii/",
       "solutionPath": "leetcode/smallest-stable-index-ii-3904.-smallest-stable-index-ii/solution.cpp"
-    },
-    {
-      "title": "3903. Smallest Stable Index I",
-      "slug": "smallest-stable-index-i",
-      "language": "cpp",
-      "day": "2026-04-19",
-      "problemUrl": "https://leetcode.com/problems/smallest-stable-index-i/",
-      "solutionPath": "leetcode/smallest-stable-index-i-3903.-smallest-stable-index-i/solution.cpp"
     }
   ]
 }
