@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-04-22T04:28:50.289Z",
-  "totalAcceptedSubmissions": 147,
-  "uniqueProblemsSolved": 126,
-  "solvedToday": 1,
+  "generatedAt": "2026-04-22T05:06:25.287Z",
+  "totalAcceptedSubmissions": 148,
+  "uniqueProblemsSolved": 127,
+  "solvedToday": 2,
   "currentStreak": 16,
   "longestStreak": 21,
   "languageBreakdown": {
-    "cpp": 146,
+    "cpp": 147,
     "java": 1
   },
   "topicBreakdown": {
     "misc": 85,
     "array": 30,
     "string": 19,
+    "hash-map": 4,
     "tree": 3,
-    "hash-map": 3,
     "two-pointers": 3,
     "backtracking": 3,
     "binary-search": 1
@@ -46,10 +46,18 @@
     },
     {
       "date": "2026-04-22",
-      "count": 1
+      "count": 2
     }
   ],
   "recentProblems": [
+    {
+      "title": "902. Numbers At Most N Given Digit Set",
+      "slug": "numbers-at-most-n-given-digit-set",
+      "language": "cpp",
+      "day": "2026-04-22",
+      "problemUrl": "https://leetcode.com/problems/numbers-at-most-n-given-digit-set/",
+      "solutionPath": "leetcode/numbers-at-most-n-given-digit-set-902.-numbers-at-most-n-given-digit-set/solution.cpp"
+    },
     {
       "title": "2452. Words Within Two Edits of Dictionary",
       "slug": "words-within-two-edits-of-dictionary",
@@ -121,14 +129,6 @@
       "day": "2026-04-19",
       "problemUrl": "https://leetcode.com/problems/fizz-buzz/",
       "solutionPath": "leetcode/fizz-buzz-412.-fizz-buzz/solution.cpp"
-    },
-    {
-      "title": "3904. Smallest Stable Index II",
-      "slug": "smallest-stable-index-ii",
-      "language": "cpp",
-      "day": "2026-04-19",
-      "problemUrl": "https://leetcode.com/problems/smallest-stable-index-ii/",
-      "solutionPath": "leetcode/smallest-stable-index-ii-3904.-smallest-stable-index-ii/solution.cpp"
     }
   ]
 }
