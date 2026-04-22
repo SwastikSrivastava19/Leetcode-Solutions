@@ -18,7 +18,7 @@ int dp[11][2][2][1032];
                 res += f(s , ind + 1 , tight && dig == ub , 1 , mask);
             }
             else{
-                if(!(mask & (1 << dig))) continue;
+                if(!(mask & (1 << dig))) continue; // agar masked nhi h then continue
                 res += f(s , ind + 1 , tight && dig == ub , 0 , mask);
             }
         }
@@ -28,7 +28,7 @@ int dp[11][2][2][1032];
     int atMostNGivenDigitSet(vector<string>& digits, int n) {
         int mask = 0;
         for(auto d : digits){
-            int num = d[0] - '0';   // convert char ->> int
+            int num = d[0] - '0';   // convert char --->>> int
             mask |= (1 << num);     // mask krdo , set that bit
         }
         string s = to_string(n);
