@@ -3,9 +3,12 @@
 // Language: cpp
 class Solution {
 public:
+int dp[11][2][2][1032];
 
     int f(string &s , int ind , bool tight , bool lz , int mask){
         if(ind == s.size()) return 1;
+
+        if(dp[ind][tight][lz][mask] != -1) return dp[ind][tight][lz][mask];
 
         int lb = 0 , ub = (tight ? s[ind] - '0' : 9);
         int res = 0;
@@ -19,7 +22,7 @@ public:
                 res += f(s , ind + 1 , tight && dig == ub , 0 , mask);
             }
         }
-        return res;
+        return dp[ind][tight][lz][mask] = res;
     }
 
     int atMostNGivenDigitSet(vector<string>& digits, int n) {
@@ -29,6 +32,7 @@ public:
             mask |= (1 << num);     // mask krdo , set that bit
         }
         string s = to_string(n);
+        memset(dp , -1 , sizeof(dp));
 
         return f(s , 0 , 1 , 1 , mask) - 1;
     }
