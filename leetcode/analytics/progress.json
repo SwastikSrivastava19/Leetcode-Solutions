@@ -1,16 +1,16 @@
 {
-  "generatedAt": "2026-04-22T07:52:46.229Z",
-  "totalAcceptedSubmissions": 150,
-  "uniqueProblemsSolved": 127,
-  "solvedToday": 4,
-  "currentStreak": 16,
+  "generatedAt": "2026-04-23T09:37:19.996Z",
+  "totalAcceptedSubmissions": 151,
+  "uniqueProblemsSolved": 128,
+  "solvedToday": 1,
+  "currentStreak": 17,
   "longestStreak": 21,
   "languageBreakdown": {
-    "cpp": 149,
+    "cpp": 150,
     "java": 1
   },
   "topicBreakdown": {
-    "misc": 85,
+    "misc": 86,
     "array": 30,
     "string": 19,
     "hash-map": 6,
@@ -20,10 +20,6 @@
     "binary-search": 1
   },
   "last7Days": [
-    {
-      "date": "2026-04-16",
-      "count": 1
-    },
     {
       "date": "2026-04-17",
       "count": 1
@@ -47,9 +43,21 @@
     {
       "date": "2026-04-22",
       "count": 4
+    },
+    {
+      "date": "2026-04-23",
+      "count": 1
     }
   ],
   "recentProblems": [
+    {
+      "title": "2719. Count of Integers",
+      "slug": "count-of-integers",
+      "language": "cpp",
+      "day": "2026-04-23",
+      "problemUrl": "https://leetcode.com/problems/count-of-integers/",
+      "solutionPath": "leetcode/count-of-integers-2719.-count-of-integers/solution.cpp"
+    },
     {
       "title": "902. Numbers At Most N Given Digit Set",
       "slug": "numbers-at-most-n-given-digit-set",
@@ -121,14 +129,6 @@
       "day": "2026-04-19",
       "problemUrl": "https://leetcode.com/problems/maximum-distance-between-a-pair-of-values/",
       "solutionPath": "leetcode/maximum-distance-between-a-pair-of-values-1855.-maximum-distance-between-a-pair-of-values/solution.cpp"
-    },
-    {
-      "title": "412. Fizz Buzz",
-      "slug": "fizz-buzz",
-      "language": "cpp",
-      "day": "2026-04-19",
-      "problemUrl": "https://leetcode.com/problems/fizz-buzz/",
-      "solutionPath": "leetcode/fizz-buzz-412.-fizz-buzz/solution.cpp"
     }
   ]
 }
