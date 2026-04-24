@@ -1,18 +1,18 @@
 {
-  "generatedAt": "2026-04-24T15:16:53.322Z",
-  "totalAcceptedSubmissions": 154,
-  "uniqueProblemsSolved": 131,
-  "solvedToday": 3,
+  "generatedAt": "2026-04-24T15:31:04.304Z",
+  "totalAcceptedSubmissions": 155,
+  "uniqueProblemsSolved": 132,
+  "solvedToday": 4,
   "currentStreak": 18,
   "longestStreak": 21,
   "languageBreakdown": {
-    "cpp": 153,
+    "cpp": 154,
     "java": 1
   },
   "topicBreakdown": {
     "misc": 88,
     "array": 31,
-    "string": 19,
+    "string": 20,
     "hash-map": 6,
     "tree": 3,
     "two-pointers": 3,
@@ -46,10 +46,18 @@
     },
     {
       "date": "2026-04-24",
-      "count": 3
+      "count": 4
     }
   ],
   "recentProblems": [
+    {
+      "title": "2981. Find Longest Special Substring That Occurs Thrice I",
+      "slug": "find-longest-special-substring-that-occurs-thrice-i",
+      "language": "cpp",
+      "day": "2026-04-24",
+      "problemUrl": "https://leetcode.com/problems/find-longest-special-substring-that-occurs-thrice-i/",
+      "solutionPath": "leetcode/find-longest-special-substring-that-occurs-thrice-i-2981.-find-longest-special-substring-that-occurs-thrice-i/solution.cpp"
+    },
     {
       "title": "219. Contains Duplicate II",
       "slug": "contains-duplicate-ii",
@@ -121,14 +129,6 @@
       "day": "2026-04-21",
       "problemUrl": "https://leetcode.com/problems/non-negative-integers-without-consecutive-ones/",
       "solutionPath": "leetcode/non-negative-integers-without-consecutive-ones-600.-non-negative-integers-without-consecutive-ones/solution.cpp"
-    },
-    {
-      "title": "1012. Numbers With Repeated Digits",
-      "slug": "numbers-with-repeated-digits",
-      "language": "cpp",
-      "day": "2026-04-21",
-      "problemUrl": "https://leetcode.com/problems/numbers-with-repeated-digits/",
-      "solutionPath": "leetcode/numbers-with-repeated-digits-1012.-numbers-with-repeated-digits/solution.cpp"
     }
   ]
 }
