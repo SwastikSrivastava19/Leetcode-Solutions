@@ -1,16 +1,16 @@
 {
-  "generatedAt": "2026-04-24T06:11:31.963Z",
-  "totalAcceptedSubmissions": 152,
-  "uniqueProblemsSolved": 129,
-  "solvedToday": 1,
+  "generatedAt": "2026-04-24T06:22:59.470Z",
+  "totalAcceptedSubmissions": 153,
+  "uniqueProblemsSolved": 130,
+  "solvedToday": 2,
   "currentStreak": 18,
   "longestStreak": 21,
   "languageBreakdown": {
-    "cpp": 151,
+    "cpp": 152,
     "java": 1
   },
   "topicBreakdown": {
-    "misc": 86,
+    "misc": 87,
     "array": 31,
     "string": 19,
     "hash-map": 6,
@@ -46,10 +46,18 @@
     },
     {
       "date": "2026-04-24",
-      "count": 1
+      "count": 2
     }
   ],
   "recentProblems": [
+    {
+      "title": "2833. Furthest Point From Origin",
+      "slug": "furthest-point-from-origin",
+      "language": "cpp",
+      "day": "2026-04-24",
+      "problemUrl": "https://leetcode.com/problems/furthest-point-from-origin/",
+      "solutionPath": "leetcode/furthest-point-from-origin-2833.-furthest-point-from-origin/solution.cpp"
+    },
     {
       "title": "2615. Sum of Distances",
       "slug": "sum-of-distances",
@@ -121,14 +129,6 @@
       "day": "2026-04-20",
       "problemUrl": "https://leetcode.com/problems/number-of-digit-one/",
       "solutionPath": "leetcode/number-of-digit-one-233.-number-of-digit-one/solution.cpp"
-    },
-    {
-      "title": "2078. Two Furthest Houses With Different Colors",
-      "slug": "two-furthest-houses-with-different-colors",
-      "language": "cpp",
-      "day": "2026-04-20",
-      "problemUrl": "https://leetcode.com/problems/two-furthest-houses-with-different-colors/",
-      "solutionPath": "leetcode/two-furthest-houses-with-different-colors-2078.-two-furthest-houses-with-different-colors/solution.cpp"
     }
   ]
 }
