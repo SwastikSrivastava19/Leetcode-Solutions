@@ -1,16 +1,16 @@
 {
-  "generatedAt": "2026-04-24T06:22:59.470Z",
-  "totalAcceptedSubmissions": 153,
-  "uniqueProblemsSolved": 130,
-  "solvedToday": 2,
+  "generatedAt": "2026-04-24T15:16:53.322Z",
+  "totalAcceptedSubmissions": 154,
+  "uniqueProblemsSolved": 131,
+  "solvedToday": 3,
   "currentStreak": 18,
   "longestStreak": 21,
   "languageBreakdown": {
-    "cpp": 152,
+    "cpp": 153,
     "java": 1
   },
   "topicBreakdown": {
-    "misc": 87,
+    "misc": 88,
     "array": 31,
     "string": 19,
     "hash-map": 6,
@@ -46,10 +46,18 @@
     },
     {
       "date": "2026-04-24",
-      "count": 2
+      "count": 3
     }
   ],
   "recentProblems": [
+    {
+      "title": "219. Contains Duplicate II",
+      "slug": "contains-duplicate-ii",
+      "language": "cpp",
+      "day": "2026-04-24",
+      "problemUrl": "https://leetcode.com/problems/contains-duplicate-ii/",
+      "solutionPath": "leetcode/contains-duplicate-ii-219.-contains-duplicate-ii/solution.cpp"
+    },
     {
       "title": "2833. Furthest Point From Origin",
       "slug": "furthest-point-from-origin",
@@ -121,14 +129,6 @@
       "day": "2026-04-21",
       "problemUrl": "https://leetcode.com/problems/numbers-with-repeated-digits/",
       "solutionPath": "leetcode/numbers-with-repeated-digits-1012.-numbers-with-repeated-digits/solution.cpp"
-    },
-    {
-      "title": "233. Number of Digit One",
-      "slug": "number-of-digit-one",
-      "language": "cpp",
-      "day": "2026-04-20",
-      "problemUrl": "https://leetcode.com/problems/number-of-digit-one/",
-      "solutionPath": "leetcode/number-of-digit-one-233.-number-of-digit-one/solution.cpp"
     }
   ]
 }
