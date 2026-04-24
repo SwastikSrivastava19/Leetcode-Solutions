@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-04-23T09:37:19.996Z",
-  "totalAcceptedSubmissions": 151,
-  "uniqueProblemsSolved": 128,
+  "generatedAt": "2026-04-24T06:11:31.963Z",
+  "totalAcceptedSubmissions": 152,
+  "uniqueProblemsSolved": 129,
   "solvedToday": 1,
-  "currentStreak": 17,
+  "currentStreak": 18,
   "longestStreak": 21,
   "languageBreakdown": {
-    "cpp": 150,
+    "cpp": 151,
     "java": 1
   },
   "topicBreakdown": {
     "misc": 86,
-    "array": 30,
+    "array": 31,
     "string": 19,
     "hash-map": 6,
     "tree": 3,
@@ -20,10 +20,6 @@
     "binary-search": 1
   },
   "last7Days": [
-    {
-      "date": "2026-04-17",
-      "count": 1
-    },
     {
       "date": "2026-04-18",
       "count": 1
@@ -47,9 +43,21 @@
     {
       "date": "2026-04-23",
       "count": 1
+    },
+    {
+      "date": "2026-04-24",
+      "count": 1
     }
   ],
   "recentProblems": [
+    {
+      "title": "2615. Sum of Distances",
+      "slug": "sum-of-distances",
+      "language": "cpp",
+      "day": "2026-04-24",
+      "problemUrl": "https://leetcode.com/problems/sum-of-distances/",
+      "solutionPath": "leetcode/sum-of-distances-2615.-sum-of-distances/solution.cpp"
+    },
     {
       "title": "2719. Count of Integers",
       "slug": "count-of-integers",
@@ -121,14 +129,6 @@
       "day": "2026-04-20",
       "problemUrl": "https://leetcode.com/problems/two-furthest-houses-with-different-colors/",
       "solutionPath": "leetcode/two-furthest-houses-with-different-colors-2078.-two-furthest-houses-with-different-colors/solution.cpp"
-    },
-    {
-      "title": "1855. Maximum Distance Between a Pair of Values",
-      "slug": "maximum-distance-between-a-pair-of-values",
-      "language": "cpp",
-      "day": "2026-04-19",
-      "problemUrl": "https://leetcode.com/problems/maximum-distance-between-a-pair-of-values/",
-      "solutionPath": "leetcode/maximum-distance-between-a-pair-of-values-1855.-maximum-distance-between-a-pair-of-values/solution.cpp"
     }
   ]
 }
