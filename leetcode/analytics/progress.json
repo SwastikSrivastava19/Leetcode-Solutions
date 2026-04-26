@@ -1,16 +1,16 @@
 {
-  "generatedAt": "2026-04-25T16:14:38.451Z",
-  "totalAcceptedSubmissions": 156,
-  "uniqueProblemsSolved": 133,
+  "generatedAt": "2026-04-26T05:11:06.413Z",
+  "totalAcceptedSubmissions": 157,
+  "uniqueProblemsSolved": 134,
   "solvedToday": 1,
-  "currentStreak": 19,
+  "currentStreak": 20,
   "longestStreak": 21,
   "languageBreakdown": {
-    "cpp": 155,
+    "cpp": 156,
     "java": 1
   },
   "topicBreakdown": {
-    "misc": 89,
+    "misc": 90,
     "array": 31,
     "string": 20,
     "hash-map": 6,
@@ -20,10 +20,6 @@
     "binary-search": 1
   },
   "last7Days": [
-    {
-      "date": "2026-04-19",
-      "count": 5
-    },
     {
       "date": "2026-04-20",
       "count": 3
@@ -47,9 +43,21 @@
     {
       "date": "2026-04-25",
       "count": 1
+    },
+    {
+      "date": "2026-04-26",
+      "count": 1
     }
   ],
   "recentProblems": [
+    {
+      "title": "3908. Valid Digit Number",
+      "slug": "valid-digit-number",
+      "language": "cpp",
+      "day": "2026-04-26",
+      "problemUrl": "https://leetcode.com/problems/valid-digit-number/",
+      "solutionPath": "leetcode/valid-digit-number-3908.-valid-digit-number/solution.cpp"
+    },
     {
       "title": "3464. Maximize the Distance Between Points on a Square",
       "slug": "maximize-the-distance-between-points-on-a-square",
@@ -121,14 +129,6 @@
       "day": "2026-04-21",
       "problemUrl": "https://leetcode.com/problems/minimize-hamming-distance-after-swap-operations/",
       "solutionPath": "leetcode/minimize-hamming-distance-after-swap-operations-1722.-minimize-hamming-distance-after-swap-operations/solution.cpp"
-    },
-    {
-      "title": "2376. Count Special Integers",
-      "slug": "count-special-integers",
-      "language": "cpp",
-      "day": "2026-04-21",
-      "problemUrl": "https://leetcode.com/problems/count-special-integers/",
-      "solutionPath": "leetcode/count-special-integers-2376.-count-special-integers/solution.cpp"
     }
   ]
 }
