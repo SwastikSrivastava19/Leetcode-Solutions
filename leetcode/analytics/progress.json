@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-04-26T05:11:06.413Z",
-  "totalAcceptedSubmissions": 157,
-  "uniqueProblemsSolved": 134,
-  "solvedToday": 1,
+  "generatedAt": "2026-04-26T05:26:28.008Z",
+  "totalAcceptedSubmissions": 158,
+  "uniqueProblemsSolved": 135,
+  "solvedToday": 2,
   "currentStreak": 20,
   "longestStreak": 21,
   "languageBreakdown": {
-    "cpp": 156,
+    "cpp": 157,
     "java": 1
   },
   "topicBreakdown": {
     "misc": 90,
-    "array": 31,
+    "array": 32,
     "string": 20,
     "hash-map": 6,
     "tree": 3,
@@ -46,10 +46,18 @@
     },
     {
       "date": "2026-04-26",
-      "count": 1
+      "count": 2
     }
   ],
   "recentProblems": [
+    {
+      "title": "3909. Compare Sums of Bitonic Parts",
+      "slug": "compare-sums-of-bitonic-parts",
+      "language": "cpp",
+      "day": "2026-04-26",
+      "problemUrl": "https://leetcode.com/problems/compare-sums-of-bitonic-parts/",
+      "solutionPath": "leetcode/compare-sums-of-bitonic-parts-3909.-compare-sums-of-bitonic-parts/solution.cpp"
+    },
     {
       "title": "3908. Valid Digit Number",
       "slug": "valid-digit-number",
@@ -121,14 +129,6 @@
       "day": "2026-04-22",
       "problemUrl": "https://leetcode.com/problems/words-within-two-edits-of-dictionary/",
       "solutionPath": "leetcode/words-within-two-edits-of-dictionary-2452.-words-within-two-edits-of-dictionary/solution.cpp"
-    },
-    {
-      "title": "1722. Minimize Hamming Distance After Swap Operations",
-      "slug": "minimize-hamming-distance-after-swap-operations",
-      "language": "cpp",
-      "day": "2026-04-21",
-      "problemUrl": "https://leetcode.com/problems/minimize-hamming-distance-after-swap-operations/",
-      "solutionPath": "leetcode/minimize-hamming-distance-after-swap-operations-1722.-minimize-hamming-distance-after-swap-operations/solution.cpp"
     }
   ]
 }
