@@ -1,16 +1,16 @@
 {
-  "generatedAt": "2026-04-27T13:48:02.375Z",
-  "totalAcceptedSubmissions": 160,
-  "uniqueProblemsSolved": 137,
-  "solvedToday": 1,
+  "generatedAt": "2026-04-27T17:02:44.126Z",
+  "totalAcceptedSubmissions": 161,
+  "uniqueProblemsSolved": 138,
+  "solvedToday": 2,
   "currentStreak": 21,
   "longestStreak": 21,
   "languageBreakdown": {
-    "cpp": 159,
+    "cpp": 160,
     "java": 1
   },
   "topicBreakdown": {
-    "misc": 91,
+    "misc": 92,
     "array": 32,
     "string": 20,
     "hash-map": 6,
@@ -46,10 +46,18 @@
     },
     {
       "date": "2026-04-27",
-      "count": 1
+      "count": 2
     }
   ],
   "recentProblems": [
+    {
+      "title": "1391. Check if There is a Valid Path in a Grid",
+      "slug": "check-if-there-is-a-valid-path-in-a-grid",
+      "language": "cpp",
+      "day": "2026-04-27",
+      "problemUrl": "https://leetcode.com/problems/check-if-there-is-a-valid-path-in-a-grid/",
+      "solutionPath": "leetcode/check-if-there-is-a-valid-path-in-a-grid-1391.-check-if-there-is-a-valid-path-in-a-grid/solution.cpp"
+    },
     {
       "title": "144. Binary Tree Preorder Traversal",
       "slug": "binary-tree-preorder-traversal",
@@ -121,14 +129,6 @@
       "day": "2026-04-24",
       "problemUrl": "https://leetcode.com/problems/sum-of-distances/",
       "solutionPath": "leetcode/sum-of-distances-2615.-sum-of-distances/solution.cpp"
-    },
-    {
-      "title": "2719. Count of Integers",
-      "slug": "count-of-integers",
-      "language": "cpp",
-      "day": "2026-04-23",
-      "problemUrl": "https://leetcode.com/problems/count-of-integers/",
-      "solutionPath": "leetcode/count-of-integers-2719.-count-of-integers/solution.cpp"
     }
   ]
 }
