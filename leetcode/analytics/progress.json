@@ -1,16 +1,16 @@
 {
-  "generatedAt": "2026-04-27T17:02:44.126Z",
-  "totalAcceptedSubmissions": 161,
-  "uniqueProblemsSolved": 138,
-  "solvedToday": 2,
-  "currentStreak": 21,
-  "longestStreak": 21,
+  "generatedAt": "2026-04-28T16:16:24.541Z",
+  "totalAcceptedSubmissions": 162,
+  "uniqueProblemsSolved": 139,
+  "solvedToday": 1,
+  "currentStreak": 22,
+  "longestStreak": 22,
   "languageBreakdown": {
-    "cpp": 160,
+    "cpp": 161,
     "java": 1
   },
   "topicBreakdown": {
-    "misc": 92,
+    "misc": 93,
     "array": 32,
     "string": 20,
     "hash-map": 6,
@@ -20,10 +20,6 @@
     "binary-search": 1
   },
   "last7Days": [
-    {
-      "date": "2026-04-21",
-      "count": 7
-    },
     {
       "date": "2026-04-22",
       "count": 4
@@ -47,9 +43,21 @@
     {
       "date": "2026-04-27",
       "count": 2
+    },
+    {
+      "date": "2026-04-28",
+      "count": 1
     }
   ],
   "recentProblems": [
+    {
+      "title": "2033. Minimum Operations to Make a Uni-Value Grid",
+      "slug": "minimum-operations-to-make-a-uni-value-grid",
+      "language": "cpp",
+      "day": "2026-04-28",
+      "problemUrl": "https://leetcode.com/problems/minimum-operations-to-make-a-uni-value-grid/",
+      "solutionPath": "leetcode/minimum-operations-to-make-a-uni-value-grid-2033.-minimum-operations-to-make-a-uni-value-grid/solution.cpp"
+    },
     {
       "title": "1391. Check if There is a Valid Path in a Grid",
       "slug": "check-if-there-is-a-valid-path-in-a-grid",
@@ -121,14 +129,6 @@
       "day": "2026-04-24",
       "problemUrl": "https://leetcode.com/problems/furthest-point-from-origin/",
       "solutionPath": "leetcode/furthest-point-from-origin-2833.-furthest-point-from-origin/solution.cpp"
-    },
-    {
-      "title": "2615. Sum of Distances",
-      "slug": "sum-of-distances",
-      "language": "cpp",
-      "day": "2026-04-24",
-      "problemUrl": "https://leetcode.com/problems/sum-of-distances/",
-      "solutionPath": "leetcode/sum-of-distances-2615.-sum-of-distances/solution.cpp"
     }
   ]
 }
