@@ -1,16 +1,16 @@
 {
-  "generatedAt": "2026-04-28T16:16:24.541Z",
-  "totalAcceptedSubmissions": 162,
-  "uniqueProblemsSolved": 139,
+  "generatedAt": "2026-04-29T16:10:33.220Z",
+  "totalAcceptedSubmissions": 163,
+  "uniqueProblemsSolved": 140,
   "solvedToday": 1,
-  "currentStreak": 22,
-  "longestStreak": 22,
+  "currentStreak": 23,
+  "longestStreak": 23,
   "languageBreakdown": {
-    "cpp": 161,
+    "cpp": 162,
     "java": 1
   },
   "topicBreakdown": {
-    "misc": 93,
+    "misc": 94,
     "array": 32,
     "string": 20,
     "hash-map": 6,
@@ -20,10 +20,6 @@
     "binary-search": 1
   },
   "last7Days": [
-    {
-      "date": "2026-04-22",
-      "count": 4
-    },
     {
       "date": "2026-04-23",
       "count": 1
@@ -47,9 +43,21 @@
     {
       "date": "2026-04-28",
       "count": 1
+    },
+    {
+      "date": "2026-04-29",
+      "count": 1
     }
   ],
   "recentProblems": [
+    {
+      "title": "3225. Maximum Score From Grid Operations",
+      "slug": "maximum-score-from-grid-operations",
+      "language": "cpp",
+      "day": "2026-04-29",
+      "problemUrl": "https://leetcode.com/problems/maximum-score-from-grid-operations/",
+      "solutionPath": "leetcode/maximum-score-from-grid-operations-3225.-maximum-score-from-grid-operations/solution.cpp"
+    },
     {
       "title": "2033. Minimum Operations to Make a Uni-Value Grid",
       "slug": "minimum-operations-to-make-a-uni-value-grid",
@@ -121,14 +129,6 @@
       "day": "2026-04-24",
       "problemUrl": "https://leetcode.com/problems/contains-duplicate-ii/",
       "solutionPath": "leetcode/contains-duplicate-ii-219.-contains-duplicate-ii/solution.cpp"
-    },
-    {
-      "title": "2833. Furthest Point From Origin",
-      "slug": "furthest-point-from-origin",
-      "language": "cpp",
-      "day": "2026-04-24",
-      "problemUrl": "https://leetcode.com/problems/furthest-point-from-origin/",
-      "solutionPath": "leetcode/furthest-point-from-origin-2833.-furthest-point-from-origin/solution.cpp"
     }
   ]
 }
