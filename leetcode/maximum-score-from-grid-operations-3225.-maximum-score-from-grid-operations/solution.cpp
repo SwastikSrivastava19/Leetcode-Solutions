@@ -8,6 +8,7 @@ static int n;
 
 class Solution {
 public:
+// Please revisit this q
     static long long maximumScore(vector<vector<int>>& grid) {
         n=grid.size();
         if (n==1) return 0;
