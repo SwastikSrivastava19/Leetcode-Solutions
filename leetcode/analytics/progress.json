@@ -1,16 +1,16 @@
 {
-  "generatedAt": "2026-04-29T16:10:33.220Z",
-  "totalAcceptedSubmissions": 163,
-  "uniqueProblemsSolved": 140,
+  "generatedAt": "2026-04-30T17:23:53.269Z",
+  "totalAcceptedSubmissions": 165,
+  "uniqueProblemsSolved": 141,
   "solvedToday": 1,
-  "currentStreak": 23,
-  "longestStreak": 23,
+  "currentStreak": 24,
+  "longestStreak": 24,
   "languageBreakdown": {
-    "cpp": 162,
+    "cpp": 164,
     "java": 1
   },
   "topicBreakdown": {
-    "misc": 94,
+    "misc": 96,
     "array": 32,
     "string": 20,
     "hash-map": 6,
@@ -20,10 +20,6 @@
     "binary-search": 1
   },
   "last7Days": [
-    {
-      "date": "2026-04-23",
-      "count": 1
-    },
     {
       "date": "2026-04-24",
       "count": 4
@@ -46,10 +42,22 @@
     },
     {
       "date": "2026-04-29",
+      "count": 2
+    },
+    {
+      "date": "2026-04-30",
       "count": 1
     }
   ],
   "recentProblems": [
+    {
+      "title": "3742. Maximum Path Score in a Grid",
+      "slug": "maximum-path-score-in-a-grid",
+      "language": "cpp",
+      "day": "2026-04-30",
+      "problemUrl": "https://leetcode.com/problems/maximum-path-score-in-a-grid/",
+      "solutionPath": "leetcode/maximum-path-score-in-a-grid-3742.-maximum-path-score-in-a-grid/solution.cpp"
+    },
     {
       "title": "3225. Maximum Score From Grid Operations",
       "slug": "maximum-score-from-grid-operations",
@@ -121,14 +129,6 @@
       "day": "2026-04-24",
       "problemUrl": "https://leetcode.com/problems/find-longest-special-substring-that-occurs-thrice-i/",
       "solutionPath": "leetcode/find-longest-special-substring-that-occurs-thrice-i-2981.-find-longest-special-substring-that-occurs-thrice-i/solution.cpp"
-    },
-    {
-      "title": "219. Contains Duplicate II",
-      "slug": "contains-duplicate-ii",
-      "language": "cpp",
-      "day": "2026-04-24",
-      "problemUrl": "https://leetcode.com/problems/contains-duplicate-ii/",
-      "solutionPath": "leetcode/contains-duplicate-ii-219.-contains-duplicate-ii/solution.cpp"
     }
   ]
 }
