@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-04-30T17:23:53.269Z",
-  "totalAcceptedSubmissions": 165,
-  "uniqueProblemsSolved": 141,
+  "generatedAt": "2026-05-01T03:56:44.770Z",
+  "totalAcceptedSubmissions": 166,
+  "uniqueProblemsSolved": 142,
   "solvedToday": 1,
-  "currentStreak": 24,
-  "longestStreak": 24,
+  "currentStreak": 25,
+  "longestStreak": 25,
   "languageBreakdown": {
-    "cpp": 164,
+    "cpp": 165,
     "java": 1
   },
   "topicBreakdown": {
     "misc": 96,
-    "array": 32,
+    "array": 33,
     "string": 20,
     "hash-map": 6,
     "tree": 4,
@@ -20,10 +20,6 @@
     "binary-search": 1
   },
   "last7Days": [
-    {
-      "date": "2026-04-24",
-      "count": 4
-    },
     {
       "date": "2026-04-25",
       "count": 1
@@ -47,9 +43,21 @@
     {
       "date": "2026-04-30",
       "count": 1
+    },
+    {
+      "date": "2026-05-01",
+      "count": 1
     }
   ],
   "recentProblems": [
+    {
+      "title": "2574. Left and Right Sum Differences",
+      "slug": "left-and-right-sum-differences",
+      "language": "cpp",
+      "day": "2026-05-01",
+      "problemUrl": "https://leetcode.com/problems/left-and-right-sum-differences/",
+      "solutionPath": "leetcode/left-and-right-sum-differences-2574.-left-and-right-sum-differences/solution.cpp"
+    },
     {
       "title": "3742. Maximum Path Score in a Grid",
       "slug": "maximum-path-score-in-a-grid",
@@ -121,14 +129,6 @@
       "day": "2026-04-25",
       "problemUrl": "https://leetcode.com/problems/maximize-the-distance-between-points-on-a-square/",
       "solutionPath": "leetcode/maximize-the-distance-between-points-on-a-square-3464.-maximize-the-distance-between-points-on-a-square/solution.cpp"
-    },
-    {
-      "title": "2981. Find Longest Special Substring That Occurs Thrice I",
-      "slug": "find-longest-special-substring-that-occurs-thrice-i",
-      "language": "cpp",
-      "day": "2026-04-24",
-      "problemUrl": "https://leetcode.com/problems/find-longest-special-substring-that-occurs-thrice-i/",
-      "solutionPath": "leetcode/find-longest-special-substring-that-occurs-thrice-i-2981.-find-longest-special-substring-that-occurs-thrice-i/solution.cpp"
     }
   ]
 }
