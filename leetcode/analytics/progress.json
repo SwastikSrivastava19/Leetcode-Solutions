@@ -1,16 +1,16 @@
 {
-  "generatedAt": "2026-05-01T20:20:40.474Z",
-  "totalAcceptedSubmissions": 167,
-  "uniqueProblemsSolved": 143,
-  "solvedToday": 1,
+  "generatedAt": "2026-05-02T12:10:28.414Z",
+  "totalAcceptedSubmissions": 168,
+  "uniqueProblemsSolved": 144,
+  "solvedToday": 2,
   "currentStreak": 26,
   "longestStreak": 26,
   "languageBreakdown": {
-    "cpp": 166,
+    "cpp": 167,
     "java": 1
   },
   "topicBreakdown": {
-    "misc": 97,
+    "misc": 98,
     "array": 33,
     "string": 20,
     "hash-map": 6,
@@ -46,10 +46,18 @@
     },
     {
       "date": "2026-05-02",
-      "count": 1
+      "count": 2
     }
   ],
   "recentProblems": [
+    {
+      "title": "788. Rotated Digits",
+      "slug": "rotated-digits",
+      "language": "cpp",
+      "day": "2026-05-02",
+      "problemUrl": "https://leetcode.com/problems/rotated-digits/",
+      "solutionPath": "leetcode/rotated-digits-788.-rotated-digits/solution.cpp"
+    },
     {
       "title": "396. Rotate Function",
       "slug": "rotate-function",
@@ -121,14 +129,6 @@
       "day": "2026-04-26",
       "problemUrl": "https://leetcode.com/problems/compare-sums-of-bitonic-parts/",
       "solutionPath": "leetcode/compare-sums-of-bitonic-parts-3909.-compare-sums-of-bitonic-parts/solution.cpp"
-    },
-    {
-      "title": "3908. Valid Digit Number",
-      "slug": "valid-digit-number",
-      "language": "cpp",
-      "day": "2026-04-26",
-      "problemUrl": "https://leetcode.com/problems/valid-digit-number/",
-      "solutionPath": "leetcode/valid-digit-number-3908.-valid-digit-number/solution.cpp"
     }
   ]
 }
