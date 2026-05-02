@@ -34,10 +34,13 @@
 
 class Solution {
 public:
+int dp[5][2][2];
     int f(string s , int ind , bool tight , bool changed){
         if(ind == s.size()){
             return changed ? 1 : 0;
         }
+
+        if(dp[ind][tight][changed] != -1) return dp[ind][tight][changed];
 
         int lb = 0 , ub = tight ? s[ind] - '0' : 9;
         int ans = 0;
@@ -47,12 +50,13 @@ public:
 
             ans += f(s , ind + 1 , tight && i == ub , changed || i == 2 || i == 5 || i == 6 || i == 9);
         }
-        return ans;
+        return dp[ind][tight][changed] = ans;
     }
 
     int rotatedDigits(int n) {
         // digit dp
         string s = to_string(n);
+        memset(dp , -1 , sizeof(dp));
         return f(s , 0 , 1 , 0);
      
     }
