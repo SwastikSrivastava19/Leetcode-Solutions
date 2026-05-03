@@ -1,16 +1,16 @@
 {
-  "generatedAt": "2026-05-03T12:47:12.013Z",
-  "totalAcceptedSubmissions": 174,
-  "uniqueProblemsSolved": 147,
-  "solvedToday": 4,
+  "generatedAt": "2026-05-03T14:41:07.917Z",
+  "totalAcceptedSubmissions": 175,
+  "uniqueProblemsSolved": 148,
+  "solvedToday": 5,
   "currentStreak": 27,
   "longestStreak": 27,
   "languageBreakdown": {
-    "cpp": 173,
+    "cpp": 174,
     "java": 1
   },
   "topicBreakdown": {
-    "misc": 102,
+    "misc": 103,
     "array": 33,
     "string": 22,
     "hash-map": 6,
@@ -46,10 +46,18 @@
     },
     {
       "date": "2026-05-03",
-      "count": 4
+      "count": 5
     }
   ],
   "recentProblems": [
+    {
+      "title": "2114. Maximum Number of Words Found in Sentences",
+      "slug": "maximum-number-of-words-found-in-sentences",
+      "language": "cpp",
+      "day": "2026-05-03",
+      "problemUrl": "https://leetcode.com/problems/maximum-number-of-words-found-in-sentences/",
+      "solutionPath": "leetcode/maximum-number-of-words-found-in-sentences-2114.-maximum-number-of-words-found-in-sentences/solution.cpp"
+    },
     {
       "title": "2011. Final Value of Variable After Performing Operations",
       "slug": "final-value-of-variable-after-performing-operations",
@@ -121,14 +129,6 @@
       "day": "2026-04-28",
       "problemUrl": "https://leetcode.com/problems/minimum-operations-to-make-a-uni-value-grid/",
       "solutionPath": "leetcode/minimum-operations-to-make-a-uni-value-grid-2033.-minimum-operations-to-make-a-uni-value-grid/solution.cpp"
-    },
-    {
-      "title": "1391. Check if There is a Valid Path in a Grid",
-      "slug": "check-if-there-is-a-valid-path-in-a-grid",
-      "language": "cpp",
-      "day": "2026-04-27",
-      "problemUrl": "https://leetcode.com/problems/check-if-there-is-a-valid-path-in-a-grid/",
-      "solutionPath": "leetcode/check-if-there-is-a-valid-path-in-a-grid-1391.-check-if-there-is-a-valid-path-in-a-grid/solution.cpp"
     }
   ]
 }
