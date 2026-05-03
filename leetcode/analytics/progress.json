@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-05-03T14:41:07.917Z",
-  "totalAcceptedSubmissions": 175,
-  "uniqueProblemsSolved": 148,
-  "solvedToday": 5,
+  "generatedAt": "2026-05-03T14:42:52.392Z",
+  "totalAcceptedSubmissions": 176,
+  "uniqueProblemsSolved": 149,
+  "solvedToday": 6,
   "currentStreak": 27,
   "longestStreak": 27,
   "languageBreakdown": {
-    "cpp": 174,
+    "cpp": 175,
     "java": 1
   },
   "topicBreakdown": {
     "misc": 103,
-    "array": 33,
+    "array": 34,
     "string": 22,
     "hash-map": 6,
     "tree": 4,
@@ -46,10 +46,18 @@
     },
     {
       "date": "2026-05-03",
-      "count": 5
+      "count": 6
     }
   ],
   "recentProblems": [
+    {
+      "title": "1920. Build Array from Permutation",
+      "slug": "build-array-from-permutation",
+      "language": "cpp",
+      "day": "2026-05-03",
+      "problemUrl": "https://leetcode.com/problems/build-array-from-permutation/",
+      "solutionPath": "leetcode/build-array-from-permutation-1920.-build-array-from-permutation/solution.cpp"
+    },
     {
       "title": "2114. Maximum Number of Words Found in Sentences",
       "slug": "maximum-number-of-words-found-in-sentences",
@@ -121,14 +129,6 @@
       "day": "2026-04-29",
       "problemUrl": "https://leetcode.com/problems/maximum-score-from-grid-operations/",
       "solutionPath": "leetcode/maximum-score-from-grid-operations-3225.-maximum-score-from-grid-operations/solution.cpp"
-    },
-    {
-      "title": "2033. Minimum Operations to Make a Uni-Value Grid",
-      "slug": "minimum-operations-to-make-a-uni-value-grid",
-      "language": "cpp",
-      "day": "2026-04-28",
-      "problemUrl": "https://leetcode.com/problems/minimum-operations-to-make-a-uni-value-grid/",
-      "solutionPath": "leetcode/minimum-operations-to-make-a-uni-value-grid-2033.-minimum-operations-to-make-a-uni-value-grid/solution.cpp"
     }
   ]
 }
