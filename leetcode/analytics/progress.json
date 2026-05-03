@@ -1,18 +1,18 @@
 {
-  "generatedAt": "2026-05-02T12:21:15.310Z",
-  "totalAcceptedSubmissions": 170,
-  "uniqueProblemsSolved": 144,
-  "solvedToday": 4,
-  "currentStreak": 26,
-  "longestStreak": 26,
+  "generatedAt": "2026-05-03T03:45:19.967Z",
+  "totalAcceptedSubmissions": 171,
+  "uniqueProblemsSolved": 145,
+  "solvedToday": 1,
+  "currentStreak": 27,
+  "longestStreak": 27,
   "languageBreakdown": {
-    "cpp": 169,
+    "cpp": 170,
     "java": 1
   },
   "topicBreakdown": {
     "misc": 100,
     "array": 33,
-    "string": 20,
+    "string": 21,
     "hash-map": 6,
     "tree": 4,
     "two-pointers": 3,
@@ -20,10 +20,6 @@
     "binary-search": 1
   },
   "last7Days": [
-    {
-      "date": "2026-04-26",
-      "count": 3
-    },
     {
       "date": "2026-04-27",
       "count": 2
@@ -47,9 +43,21 @@
     {
       "date": "2026-05-02",
       "count": 4
+    },
+    {
+      "date": "2026-05-03",
+      "count": 1
     }
   ],
   "recentProblems": [
+    {
+      "title": "796. Rotate String",
+      "slug": "rotate-string",
+      "language": "cpp",
+      "day": "2026-05-03",
+      "problemUrl": "https://leetcode.com/problems/rotate-string/",
+      "solutionPath": "leetcode/rotate-string-796.-rotate-string/solution.cpp"
+    },
     {
       "title": "788. Rotated Digits",
       "slug": "rotated-digits",
@@ -121,14 +129,6 @@
       "day": "2026-04-26",
       "problemUrl": "https://leetcode.com/problems/detect-cycles-in-2d-grid/",
       "solutionPath": "leetcode/detect-cycles-in-2d-grid-1559.-detect-cycles-in-2d-grid/solution.cpp"
-    },
-    {
-      "title": "3909. Compare Sums of Bitonic Parts",
-      "slug": "compare-sums-of-bitonic-parts",
-      "language": "cpp",
-      "day": "2026-04-26",
-      "problemUrl": "https://leetcode.com/problems/compare-sums-of-bitonic-parts/",
-      "solutionPath": "leetcode/compare-sums-of-bitonic-parts-3909.-compare-sums-of-bitonic-parts/solution.cpp"
     }
   ]
 }
