@@ -1,16 +1,16 @@
 {
-  "generatedAt": "2026-05-03T14:49:41.667Z",
-  "totalAcceptedSubmissions": 178,
-  "uniqueProblemsSolved": 151,
-  "solvedToday": 8,
+  "generatedAt": "2026-05-03T14:51:20.593Z",
+  "totalAcceptedSubmissions": 179,
+  "uniqueProblemsSolved": 152,
+  "solvedToday": 9,
   "currentStreak": 27,
   "longestStreak": 27,
   "languageBreakdown": {
-    "cpp": 177,
+    "cpp": 178,
     "java": 1
   },
   "topicBreakdown": {
-    "misc": 104,
+    "misc": 105,
     "array": 35,
     "string": 22,
     "hash-map": 6,
@@ -46,10 +46,18 @@
     },
     {
       "date": "2026-05-03",
-      "count": 8
+      "count": 9
     }
   ],
   "recentProblems": [
+    {
+      "title": "709. To Lower Case",
+      "slug": "to-lower-case",
+      "language": "cpp",
+      "day": "2026-05-03",
+      "problemUrl": "https://leetcode.com/problems/to-lower-case/",
+      "solutionPath": "leetcode/to-lower-case-709.-to-lower-case/solution.cpp"
+    },
     {
       "title": "1365. How Many Numbers Are Smaller Than the Current Number",
       "slug": "how-many-numbers-are-smaller-than-the-current-number",
@@ -121,14 +129,6 @@
       "day": "2026-05-02",
       "problemUrl": "https://leetcode.com/problems/rotate-function/",
       "solutionPath": "leetcode/rotate-function-396.-rotate-function/solution.cpp"
-    },
-    {
-      "title": "2574. Left and Right Sum Differences",
-      "slug": "left-and-right-sum-differences",
-      "language": "cpp",
-      "day": "2026-05-01",
-      "problemUrl": "https://leetcode.com/problems/left-and-right-sum-differences/",
-      "solutionPath": "leetcode/left-and-right-sum-differences-2574.-left-and-right-sum-differences/solution.cpp"
     }
   ]
 }
