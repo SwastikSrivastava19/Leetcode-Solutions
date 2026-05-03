@@ -1,16 +1,16 @@
 {
-  "generatedAt": "2026-05-03T14:46:13.107Z",
-  "totalAcceptedSubmissions": 177,
-  "uniqueProblemsSolved": 150,
-  "solvedToday": 7,
+  "generatedAt": "2026-05-03T14:49:41.667Z",
+  "totalAcceptedSubmissions": 178,
+  "uniqueProblemsSolved": 151,
+  "solvedToday": 8,
   "currentStreak": 27,
   "longestStreak": 27,
   "languageBreakdown": {
-    "cpp": 176,
+    "cpp": 177,
     "java": 1
   },
   "topicBreakdown": {
-    "misc": 103,
+    "misc": 104,
     "array": 35,
     "string": 22,
     "hash-map": 6,
@@ -46,10 +46,18 @@
     },
     {
       "date": "2026-05-03",
-      "count": 7
+      "count": 8
     }
   ],
   "recentProblems": [
+    {
+      "title": "1365. How Many Numbers Are Smaller Than the Current Number",
+      "slug": "how-many-numbers-are-smaller-than-the-current-number",
+      "language": "cpp",
+      "day": "2026-05-03",
+      "problemUrl": "https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/",
+      "solutionPath": "leetcode/how-many-numbers-are-smaller-than-the-current-number-1365.-how-many-numbers-are-smaller-than-the-current-number/solution.cpp"
+    },
     {
       "title": "1929. Concatenation of Array",
       "slug": "concatenation-of-array",
@@ -121,14 +129,6 @@
       "day": "2026-05-01",
       "problemUrl": "https://leetcode.com/problems/left-and-right-sum-differences/",
       "solutionPath": "leetcode/left-and-right-sum-differences-2574.-left-and-right-sum-differences/solution.cpp"
-    },
-    {
-      "title": "3742. Maximum Path Score in a Grid",
-      "slug": "maximum-path-score-in-a-grid",
-      "language": "cpp",
-      "day": "2026-04-30",
-      "problemUrl": "https://leetcode.com/problems/maximum-path-score-in-a-grid/",
-      "solutionPath": "leetcode/maximum-path-score-in-a-grid-3742.-maximum-path-score-in-a-grid/solution.cpp"
     }
   ]
 }
