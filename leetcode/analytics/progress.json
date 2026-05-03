@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-05-03T14:42:52.392Z",
-  "totalAcceptedSubmissions": 176,
-  "uniqueProblemsSolved": 149,
-  "solvedToday": 6,
+  "generatedAt": "2026-05-03T14:46:13.107Z",
+  "totalAcceptedSubmissions": 177,
+  "uniqueProblemsSolved": 150,
+  "solvedToday": 7,
   "currentStreak": 27,
   "longestStreak": 27,
   "languageBreakdown": {
-    "cpp": 175,
+    "cpp": 176,
     "java": 1
   },
   "topicBreakdown": {
     "misc": 103,
-    "array": 34,
+    "array": 35,
     "string": 22,
     "hash-map": 6,
     "tree": 4,
@@ -46,10 +46,18 @@
     },
     {
       "date": "2026-05-03",
-      "count": 6
+      "count": 7
     }
   ],
   "recentProblems": [
+    {
+      "title": "1929. Concatenation of Array",
+      "slug": "concatenation-of-array",
+      "language": "cpp",
+      "day": "2026-05-03",
+      "problemUrl": "https://leetcode.com/problems/concatenation-of-array/",
+      "solutionPath": "leetcode/concatenation-of-array-1929.-concatenation-of-array/solution.cpp"
+    },
     {
       "title": "1920. Build Array from Permutation",
       "slug": "build-array-from-permutation",
@@ -121,14 +129,6 @@
       "day": "2026-04-30",
       "problemUrl": "https://leetcode.com/problems/maximum-path-score-in-a-grid/",
       "solutionPath": "leetcode/maximum-path-score-in-a-grid-3742.-maximum-path-score-in-a-grid/solution.cpp"
-    },
-    {
-      "title": "3225. Maximum Score From Grid Operations",
-      "slug": "maximum-score-from-grid-operations",
-      "language": "cpp",
-      "day": "2026-04-29",
-      "problemUrl": "https://leetcode.com/problems/maximum-score-from-grid-operations/",
-      "solutionPath": "leetcode/maximum-score-from-grid-operations-3225.-maximum-score-from-grid-operations/solution.cpp"
     }
   ]
 }
