@@ -1,16 +1,16 @@
 {
-  "generatedAt": "2026-05-03T14:51:20.593Z",
-  "totalAcceptedSubmissions": 179,
-  "uniqueProblemsSolved": 152,
-  "solvedToday": 9,
-  "currentStreak": 27,
-  "longestStreak": 27,
+  "generatedAt": "2026-05-04T04:01:47.426Z",
+  "totalAcceptedSubmissions": 180,
+  "uniqueProblemsSolved": 153,
+  "solvedToday": 1,
+  "currentStreak": 28,
+  "longestStreak": 28,
   "languageBreakdown": {
-    "cpp": 178,
+    "cpp": 179,
     "java": 1
   },
   "topicBreakdown": {
-    "misc": 105,
+    "misc": 106,
     "array": 35,
     "string": 22,
     "hash-map": 6,
@@ -20,10 +20,6 @@
     "binary-search": 1
   },
   "last7Days": [
-    {
-      "date": "2026-04-27",
-      "count": 2
-    },
     {
       "date": "2026-04-28",
       "count": 1
@@ -47,9 +43,21 @@
     {
       "date": "2026-05-03",
       "count": 9
+    },
+    {
+      "date": "2026-05-04",
+      "count": 1
     }
   ],
   "recentProblems": [
+    {
+      "title": "48. Rotate Image",
+      "slug": "rotate-image",
+      "language": "cpp",
+      "day": "2026-05-04",
+      "problemUrl": "https://leetcode.com/problems/rotate-image/",
+      "solutionPath": "leetcode/rotate-image-48.-rotate-image/solution.cpp"
+    },
     {
       "title": "709. To Lower Case",
       "slug": "to-lower-case",
@@ -121,14 +129,6 @@
       "day": "2026-05-02",
       "problemUrl": "https://leetcode.com/problems/rotated-digits/",
       "solutionPath": "leetcode/rotated-digits-788.-rotated-digits/solution.cpp"
-    },
-    {
-      "title": "396. Rotate Function",
-      "slug": "rotate-function",
-      "language": "cpp",
-      "day": "2026-05-02",
-      "problemUrl": "https://leetcode.com/problems/rotate-function/",
-      "solutionPath": "leetcode/rotate-function-396.-rotate-function/solution.cpp"
     }
   ]
 }
