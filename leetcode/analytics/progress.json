@@ -1,16 +1,16 @@
 {
-  "generatedAt": "2026-05-04T04:01:47.426Z",
-  "totalAcceptedSubmissions": 180,
-  "uniqueProblemsSolved": 153,
+  "generatedAt": "2026-05-05T04:42:22.058Z",
+  "totalAcceptedSubmissions": 181,
+  "uniqueProblemsSolved": 154,
   "solvedToday": 1,
-  "currentStreak": 28,
-  "longestStreak": 28,
+  "currentStreak": 29,
+  "longestStreak": 29,
   "languageBreakdown": {
-    "cpp": 179,
+    "cpp": 180,
     "java": 1
   },
   "topicBreakdown": {
-    "misc": 106,
+    "misc": 107,
     "array": 35,
     "string": 22,
     "hash-map": 6,
@@ -20,10 +20,6 @@
     "binary-search": 1
   },
   "last7Days": [
-    {
-      "date": "2026-04-28",
-      "count": 1
-    },
     {
       "date": "2026-04-29",
       "count": 2
@@ -47,9 +43,21 @@
     {
       "date": "2026-05-04",
       "count": 1
+    },
+    {
+      "date": "2026-05-05",
+      "count": 1
     }
   ],
   "recentProblems": [
+    {
+      "title": "61. Rotate List",
+      "slug": "rotate-list",
+      "language": "cpp",
+      "day": "2026-05-05",
+      "problemUrl": "https://leetcode.com/problems/rotate-list/",
+      "solutionPath": "leetcode/rotate-list-61.-rotate-list/solution.cpp"
+    },
     {
       "title": "48. Rotate Image",
       "slug": "rotate-image",
@@ -121,14 +129,6 @@
       "day": "2026-05-03",
       "problemUrl": "https://leetcode.com/problems/rotate-string/",
       "solutionPath": "leetcode/rotate-string-796.-rotate-string/solution.cpp"
-    },
-    {
-      "title": "788. Rotated Digits",
-      "slug": "rotated-digits",
-      "language": "cpp",
-      "day": "2026-05-02",
-      "problemUrl": "https://leetcode.com/problems/rotated-digits/",
-      "solutionPath": "leetcode/rotated-digits-788.-rotated-digits/solution.cpp"
     }
   ]
 }
