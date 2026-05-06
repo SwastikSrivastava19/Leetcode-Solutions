@@ -1,16 +1,16 @@
 {
-  "generatedAt": "2026-05-05T04:42:22.058Z",
-  "totalAcceptedSubmissions": 181,
-  "uniqueProblemsSolved": 154,
+  "generatedAt": "2026-05-06T17:58:38.762Z",
+  "totalAcceptedSubmissions": 182,
+  "uniqueProblemsSolved": 155,
   "solvedToday": 1,
-  "currentStreak": 29,
-  "longestStreak": 29,
+  "currentStreak": 30,
+  "longestStreak": 30,
   "languageBreakdown": {
-    "cpp": 180,
+    "cpp": 181,
     "java": 1
   },
   "topicBreakdown": {
-    "misc": 107,
+    "misc": 108,
     "array": 35,
     "string": 22,
     "hash-map": 6,
@@ -20,10 +20,6 @@
     "binary-search": 1
   },
   "last7Days": [
-    {
-      "date": "2026-04-29",
-      "count": 2
-    },
     {
       "date": "2026-04-30",
       "count": 1
@@ -47,9 +43,21 @@
     {
       "date": "2026-05-05",
       "count": 1
+    },
+    {
+      "date": "2026-05-06",
+      "count": 1
     }
   ],
   "recentProblems": [
+    {
+      "title": "1861. Rotating the Box",
+      "slug": "rotating-the-box",
+      "language": "cpp",
+      "day": "2026-05-06",
+      "problemUrl": "https://leetcode.com/problems/rotating-the-box/",
+      "solutionPath": "leetcode/rotating-the-box-1861.-rotating-the-box/solution.cpp"
+    },
     {
       "title": "61. Rotate List",
       "slug": "rotate-list",
@@ -121,14 +129,6 @@
       "day": "2026-05-03",
       "problemUrl": "https://leetcode.com/problems/defanging-an-ip-address/",
       "solutionPath": "leetcode/defanging-an-ip-address-1108.-defanging-an-ip-address/solution.cpp"
-    },
-    {
-      "title": "796. Rotate String",
-      "slug": "rotate-string",
-      "language": "cpp",
-      "day": "2026-05-03",
-      "problemUrl": "https://leetcode.com/problems/rotate-string/",
-      "solutionPath": "leetcode/rotate-string-796.-rotate-string/solution.cpp"
     }
   ]
 }
