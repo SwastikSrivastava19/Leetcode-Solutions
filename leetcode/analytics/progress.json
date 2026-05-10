@@ -1,16 +1,16 @@
 {
-  "generatedAt": "2026-05-10T05:49:56.175Z",
-  "totalAcceptedSubmissions": 183,
-  "uniqueProblemsSolved": 156,
-  "solvedToday": 1,
+  "generatedAt": "2026-05-10T16:58:15.792Z",
+  "totalAcceptedSubmissions": 184,
+  "uniqueProblemsSolved": 157,
+  "solvedToday": 2,
   "currentStreak": 1,
   "longestStreak": 30,
   "languageBreakdown": {
-    "cpp": 182,
+    "cpp": 183,
     "java": 1
   },
   "topicBreakdown": {
-    "misc": 108,
+    "misc": 109,
     "array": 36,
     "string": 22,
     "hash-map": 6,
@@ -46,10 +46,18 @@
     },
     {
       "date": "2026-05-10",
-      "count": 1
+      "count": 2
     }
   ],
   "recentProblems": [
+    {
+      "title": "2770. Maximum Number of Jumps to Reach the Last Index",
+      "slug": "maximum-number-of-jumps-to-reach-the-last-index",
+      "language": "cpp",
+      "day": "2026-05-10",
+      "problemUrl": "https://leetcode.com/problems/maximum-number-of-jumps-to-reach-the-last-index/",
+      "solutionPath": "leetcode/maximum-number-of-jumps-to-reach-the-last-index-2770.-maximum-number-of-jumps-to-reach-the-last-index/solution.cpp"
+    },
     {
       "title": "3925. Concatenate Array With Reverse",
       "slug": "concatenate-array-with-reverse",
@@ -121,14 +129,6 @@
       "day": "2026-05-03",
       "problemUrl": "https://leetcode.com/problems/maximum-number-of-words-found-in-sentences/",
       "solutionPath": "leetcode/maximum-number-of-words-found-in-sentences-2114.-maximum-number-of-words-found-in-sentences/solution.cpp"
-    },
-    {
-      "title": "2011. Final Value of Variable After Performing Operations",
-      "slug": "final-value-of-variable-after-performing-operations",
-      "language": "cpp",
-      "day": "2026-05-03",
-      "problemUrl": "https://leetcode.com/problems/final-value-of-variable-after-performing-operations/",
-      "solutionPath": "leetcode/final-value-of-variable-after-performing-operations-2011.-final-value-of-variable-after-performing-operations/solution.cpp"
     }
   ]
 }
