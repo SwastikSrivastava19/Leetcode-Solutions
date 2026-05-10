@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-05-06T17:58:38.762Z",
-  "totalAcceptedSubmissions": 182,
-  "uniqueProblemsSolved": 155,
+  "generatedAt": "2026-05-10T05:49:56.175Z",
+  "totalAcceptedSubmissions": 183,
+  "uniqueProblemsSolved": 156,
   "solvedToday": 1,
-  "currentStreak": 30,
+  "currentStreak": 1,
   "longestStreak": 30,
   "languageBreakdown": {
-    "cpp": 181,
+    "cpp": 182,
     "java": 1
   },
   "topicBreakdown": {
     "misc": 108,
-    "array": 35,
+    "array": 36,
     "string": 22,
     "hash-map": 6,
     "tree": 4,
@@ -20,22 +20,6 @@
     "binary-search": 1
   },
   "last7Days": [
-    {
-      "date": "2026-04-30",
-      "count": 1
-    },
-    {
-      "date": "2026-05-01",
-      "count": 1
-    },
-    {
-      "date": "2026-05-02",
-      "count": 4
-    },
-    {
-      "date": "2026-05-03",
-      "count": 9
-    },
     {
       "date": "2026-05-04",
       "count": 1
@@ -47,9 +31,33 @@
     {
       "date": "2026-05-06",
       "count": 1
+    },
+    {
+      "date": "2026-05-07",
+      "count": 0
+    },
+    {
+      "date": "2026-05-08",
+      "count": 0
+    },
+    {
+      "date": "2026-05-09",
+      "count": 0
+    },
+    {
+      "date": "2026-05-10",
+      "count": 1
     }
   ],
   "recentProblems": [
+    {
+      "title": "3925. Concatenate Array With Reverse",
+      "slug": "concatenate-array-with-reverse",
+      "language": "cpp",
+      "day": "2026-05-10",
+      "problemUrl": "https://leetcode.com/problems/concatenate-array-with-reverse/",
+      "solutionPath": "leetcode/concatenate-array-with-reverse-3925.-concatenate-array-with-reverse/solution.cpp"
+    },
     {
       "title": "1861. Rotating the Box",
       "slug": "rotating-the-box",
@@ -121,14 +129,6 @@
       "day": "2026-05-03",
       "problemUrl": "https://leetcode.com/problems/final-value-of-variable-after-performing-operations/",
       "solutionPath": "leetcode/final-value-of-variable-after-performing-operations-2011.-final-value-of-variable-after-performing-operations/solution.cpp"
-    },
-    {
-      "title": "1108. Defanging an IP Address",
-      "slug": "defanging-an-ip-address",
-      "language": "cpp",
-      "day": "2026-05-03",
-      "problemUrl": "https://leetcode.com/problems/defanging-an-ip-address/",
-      "solutionPath": "leetcode/defanging-an-ip-address-1108.-defanging-an-ip-address/solution.cpp"
     }
   ]
 }
