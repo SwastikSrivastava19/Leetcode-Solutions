@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-05-10T16:58:15.792Z",
-  "totalAcceptedSubmissions": 184,
-  "uniqueProblemsSolved": 157,
-  "solvedToday": 2,
-  "currentStreak": 1,
+  "generatedAt": "2026-05-11T06:19:35.741Z",
+  "totalAcceptedSubmissions": 186,
+  "uniqueProblemsSolved": 158,
+  "solvedToday": 1,
+  "currentStreak": 2,
   "longestStreak": 30,
   "languageBreakdown": {
-    "cpp": 183,
+    "cpp": 185,
     "java": 1
   },
   "topicBreakdown": {
-    "misc": 109,
-    "array": 36,
+    "misc": 110,
+    "array": 37,
     "string": 22,
     "hash-map": 6,
     "tree": 4,
@@ -20,10 +20,6 @@
     "binary-search": 1
   },
   "last7Days": [
-    {
-      "date": "2026-05-04",
-      "count": 1
-    },
     {
       "date": "2026-05-05",
       "count": 1
@@ -46,10 +42,22 @@
     },
     {
       "date": "2026-05-10",
-      "count": 2
+      "count": 3
+    },
+    {
+      "date": "2026-05-11",
+      "count": 1
     }
   ],
   "recentProblems": [
+    {
+      "title": "2553. Separate the Digits in an Array",
+      "slug": "separate-the-digits-in-an-array",
+      "language": "cpp",
+      "day": "2026-05-11",
+      "problemUrl": "https://leetcode.com/problems/separate-the-digits-in-an-array/",
+      "solutionPath": "leetcode/separate-the-digits-in-an-array-2553.-separate-the-digits-in-an-array/solution.cpp"
+    },
     {
       "title": "2770. Maximum Number of Jumps to Reach the Last Index",
       "slug": "maximum-number-of-jumps-to-reach-the-last-index",
@@ -121,14 +129,6 @@
       "day": "2026-05-03",
       "problemUrl": "https://leetcode.com/problems/build-array-from-permutation/",
       "solutionPath": "leetcode/build-array-from-permutation-1920.-build-array-from-permutation/solution.cpp"
-    },
-    {
-      "title": "2114. Maximum Number of Words Found in Sentences",
-      "slug": "maximum-number-of-words-found-in-sentences",
-      "language": "cpp",
-      "day": "2026-05-03",
-      "problemUrl": "https://leetcode.com/problems/maximum-number-of-words-found-in-sentences/",
-      "solutionPath": "leetcode/maximum-number-of-words-found-in-sentences-2114.-maximum-number-of-words-found-in-sentences/solution.cpp"
     }
   ]
 }
