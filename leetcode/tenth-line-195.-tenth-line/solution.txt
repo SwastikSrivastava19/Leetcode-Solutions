@@ -1,0 +1,11 @@
+// Problem: 195. Tenth Line
+// URL: https://leetcode.com/problems/tenth-line/
+// Language: bash
+// Submission ID: dom-1779439464886
+// Submitted At: 2026-05-22T08:44:24.902Z
+class Solution {
+public:
+    vector<int> grayCode(int n) {
+        
+    }
+};
