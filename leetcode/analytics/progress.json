@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-05-22T09:07:20.231Z",
-  "totalAcceptedSubmissions": 194,
-  "uniqueProblemsSolved": 162,
-  "solvedToday": 8,
+  "generatedAt": "2026-05-22T09:12:14.437Z",
+  "totalAcceptedSubmissions": 197,
+  "uniqueProblemsSolved": 164,
+  "solvedToday": 11,
   "currentStreak": 1,
   "longestStreak": 30,
   "languageBreakdown": {
-    "cpp": 188,
+    "cpp": 191,
     "bash": 3,
     "mysql": 2,
     "java": 1
   },
   "topicBreakdown": {
-    "misc": 118,
+    "misc": 120,
     "array": 37,
-    "string": 22,
+    "string": 23,
     "hash-map": 6,
     "tree": 4,
     "two-pointers": 3,
@@ -48,10 +48,34 @@
     },
     {
       "date": "2026-05-22",
-      "count": 8
+      "count": 11
     }
   ],
   "recentProblems": [
+    {
+      "title": "202. Happy Number",
+      "slug": "happy-number",
+      "language": "cpp",
+      "day": "2026-05-22",
+      "problemUrl": "https://leetcode.com/problems/happy-number/",
+      "solutionPath": "leetcode/happy-number-202.-happy-number/solution.cpp"
+    },
+    {
+      "title": "205. Isomorphic Strings",
+      "slug": "isomorphic-strings",
+      "language": "cpp",
+      "day": "2026-05-22",
+      "problemUrl": "https://leetcode.com/problems/isomorphic-strings/",
+      "solutionPath": "leetcode/isomorphic-strings-205.-isomorphic-strings/solution.cpp"
+    },
+    {
+      "title": "198. House Robber",
+      "slug": "house-robber",
+      "language": "cpp",
+      "day": "2026-05-22",
+      "problemUrl": "https://leetcode.com/problems/house-robber/",
+      "solutionPath": "leetcode/house-robber-198.-house-robber/solution.cpp"
+    },
     {
       "title": "197. Rising Temperature",
       "slug": "rising-temperature",
@@ -107,30 +131,6 @@
       "day": "2026-05-10",
       "problemUrl": "https://leetcode.com/problems/concatenate-array-with-reverse/",
       "solutionPath": "leetcode/concatenate-array-with-reverse-3925.-concatenate-array-with-reverse/solution.cpp"
-    },
-    {
-      "title": "1861. Rotating the Box",
-      "slug": "rotating-the-box",
-      "language": "cpp",
-      "day": "2026-05-06",
-      "problemUrl": "https://leetcode.com/problems/rotating-the-box/",
-      "solutionPath": "leetcode/rotating-the-box-1861.-rotating-the-box/solution.cpp"
-    },
-    {
-      "title": "61. Rotate List",
-      "slug": "rotate-list",
-      "language": "cpp",
-      "day": "2026-05-05",
-      "problemUrl": "https://leetcode.com/problems/rotate-list/",
-      "solutionPath": "leetcode/rotate-list-61.-rotate-list/solution.cpp"
-    },
-    {
-      "title": "48. Rotate Image",
-      "slug": "rotate-image",
-      "language": "cpp",
-      "day": "2026-05-04",
-      "problemUrl": "https://leetcode.com/problems/rotate-image/",
-      "solutionPath": "leetcode/rotate-image-48.-rotate-image/solution.cpp"
     }
   ]
 }
