@@ -1,16 +1,17 @@
 {
-  "generatedAt": "2026-05-22T08:43:03.665Z",
-  "totalAcceptedSubmissions": 188,
-  "uniqueProblemsSolved": 159,
-  "solvedToday": 2,
+  "generatedAt": "2026-05-22T08:44:26.676Z",
+  "totalAcceptedSubmissions": 190,
+  "uniqueProblemsSolved": 161,
+  "solvedToday": 4,
   "currentStreak": 1,
   "longestStreak": 30,
   "languageBreakdown": {
-    "cpp": 187,
-    "java": 1
+    "cpp": 188,
+    "java": 1,
+    "bash": 1
   },
   "topicBreakdown": {
-    "misc": 112,
+    "misc": 114,
     "array": 37,
     "string": 22,
     "hash-map": 6,
@@ -46,10 +47,26 @@
     },
     {
       "date": "2026-05-22",
-      "count": 2
+      "count": 4
     }
   ],
   "recentProblems": [
+    {
+      "title": "195. Tenth Line",
+      "slug": "tenth-line",
+      "language": "bash",
+      "day": "2026-05-22",
+      "problemUrl": "https://leetcode.com/problems/tenth-line/",
+      "solutionPath": "leetcode/tenth-line-195.-tenth-line/solution.txt"
+    },
+    {
+      "title": "89. Gray Code",
+      "slug": "gray-code",
+      "language": "cpp",
+      "day": "2026-05-22",
+      "problemUrl": "https://leetcode.com/problems/gray-code/",
+      "solutionPath": "leetcode/gray-code-89.-gray-code/solution.cpp"
+    },
     {
       "title": "93. Restore IP Addresses",
       "slug": "restore-ip-addresses",
@@ -113,22 +130,6 @@
       "day": "2026-05-03",
       "problemUrl": "https://leetcode.com/problems/to-lower-case/",
       "solutionPath": "leetcode/to-lower-case-709.-to-lower-case/solution.cpp"
-    },
-    {
-      "title": "1365. How Many Numbers Are Smaller Than the Current Number",
-      "slug": "how-many-numbers-are-smaller-than-the-current-number",
-      "language": "cpp",
-      "day": "2026-05-03",
-      "problemUrl": "https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/",
-      "solutionPath": "leetcode/how-many-numbers-are-smaller-than-the-current-number-1365.-how-many-numbers-are-smaller-than-the-current-number/solution.cpp"
-    },
-    {
-      "title": "1929. Concatenation of Array",
-      "slug": "concatenation-of-array",
-      "language": "cpp",
-      "day": "2026-05-03",
-      "problemUrl": "https://leetcode.com/problems/concatenation-of-array/",
-      "solutionPath": "leetcode/concatenation-of-array-1929.-concatenation-of-array/solution.cpp"
     }
   ]
 }
