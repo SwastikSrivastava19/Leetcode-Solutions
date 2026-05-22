@@ -1,6 +1,8 @@
 // Problem: 93. Restore IP Addresses
 // URL: https://leetcode.com/problems/restore-ip-addresses/
 // Language: cpp
+// Submission ID: dom-1779439380365
+// Submitted At: 2026-05-22T08:43:00.617Z
 class Solution {
 public:
     void backtrack(string s, int i, int dots, string currIp, vector<string>& res) {
