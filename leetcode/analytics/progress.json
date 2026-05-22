@@ -1,17 +1,18 @@
 {
-  "generatedAt": "2026-05-22T08:44:26.676Z",
-  "totalAcceptedSubmissions": 190,
-  "uniqueProblemsSolved": 161,
-  "solvedToday": 4,
+  "generatedAt": "2026-05-22T08:48:23.193Z",
+  "totalAcceptedSubmissions": 193,
+  "uniqueProblemsSolved": 162,
+  "solvedToday": 7,
   "currentStreak": 1,
   "longestStreak": 30,
   "languageBreakdown": {
     "cpp": 188,
+    "bash": 3,
     "java": 1,
-    "bash": 1
+    "mysql": 1
   },
   "topicBreakdown": {
-    "misc": 114,
+    "misc": 117,
     "array": 37,
     "string": 22,
     "hash-map": 6,
@@ -47,10 +48,18 @@
     },
     {
       "date": "2026-05-22",
-      "count": 4
+      "count": 7
     }
   ],
   "recentProblems": [
+    {
+      "title": "197. Rising Temperature",
+      "slug": "rising-temperature",
+      "language": "mysql",
+      "day": "2026-05-22",
+      "problemUrl": "https://leetcode.com/problems/rising-temperature/",
+      "solutionPath": "leetcode/rising-temperature-197.-rising-temperature/solution.sql"
+    },
     {
       "title": "195. Tenth Line",
       "slug": "tenth-line",
@@ -122,14 +131,6 @@
       "day": "2026-05-04",
       "problemUrl": "https://leetcode.com/problems/rotate-image/",
       "solutionPath": "leetcode/rotate-image-48.-rotate-image/solution.cpp"
-    },
-    {
-      "title": "709. To Lower Case",
-      "slug": "to-lower-case",
-      "language": "cpp",
-      "day": "2026-05-03",
-      "problemUrl": "https://leetcode.com/problems/to-lower-case/",
-      "solutionPath": "leetcode/to-lower-case-709.-to-lower-case/solution.cpp"
     }
   ]
 }
