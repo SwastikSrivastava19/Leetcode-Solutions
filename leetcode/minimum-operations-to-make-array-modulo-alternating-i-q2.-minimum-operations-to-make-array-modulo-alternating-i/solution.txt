@@ -1,0 +1,6 @@
+// Problem: Q2. Minimum Operations to Make Array Modulo Alternating I
+// URL: https://leetcode.com/problems/minimum-operations-to-make-array-modulo-alternating-i/
+// Language: unknown
+// Submission ID: dom-1779548149608
+// Submitted At: 2026-05-23T14:55:50.836Z
+class Solution {public:    int minOperations(vector<int>& nums, int k) {        int n = nums.size();        int ans = INT_MAX;        for(int i=0; i<k; i++){            for(int j=0; j<k; j++){                if(i == j) continue;                int opr = 0;                for(int x=0; x<n; x++){                    int need = (x % 2 == 0) ? i : j;                    int rem = nums[x] % k;                    int diff = abs(rem - need);                    opr += min(diff , k - diff);                }                ans = min(ans , opr);            }        }        return ans;    }};
