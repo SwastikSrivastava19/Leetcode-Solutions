@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-05-23T14:50:57.472Z",
-  "totalAcceptedSubmissions": 198,
-  "uniqueProblemsSolved": 165,
-  "solvedToday": 1,
+  "generatedAt": "2026-05-23T14:55:52.028Z",
+  "totalAcceptedSubmissions": 200,
+  "uniqueProblemsSolved": 166,
+  "solvedToday": 3,
   "currentStreak": 2,
   "longestStreak": 30,
   "languageBreakdown": {
     "cpp": 191,
     "bash": 3,
+    "unknown": 3,
     "mysql": 2,
-    "java": 1,
-    "unknown": 1
+    "java": 1
   },
   "topicBreakdown": {
     "misc": 121,
-    "array": 37,
+    "array": 39,
     "string": 23,
     "hash-map": 6,
     "tree": 4,
@@ -49,10 +49,18 @@
     },
     {
       "date": "2026-05-23",
-      "count": 1
+      "count": 3
     }
   ],
   "recentProblems": [
+    {
+      "title": "Q2. Minimum Operations to Make Array Modulo Alternating I",
+      "slug": "minimum-operations-to-make-array-modulo-alternating-i",
+      "language": "unknown",
+      "day": "2026-05-23",
+      "problemUrl": "https://leetcode.com/problems/minimum-operations-to-make-array-modulo-alternating-i/",
+      "solutionPath": "leetcode/minimum-operations-to-make-array-modulo-alternating-i-q2.-minimum-operations-to-make-array-modulo-alternating-i/solution.txt"
+    },
     {
       "title": "Q1. Minimum Swaps to Move Zeros to End",
       "slug": "minimum-swaps-to-move-zeros-to-end",
@@ -124,14 +132,6 @@
       "day": "2026-05-11",
       "problemUrl": "https://leetcode.com/problems/separate-the-digits-in-an-array/",
       "solutionPath": "leetcode/separate-the-digits-in-an-array-2553.-separate-the-digits-in-an-array/solution.cpp"
-    },
-    {
-      "title": "2770. Maximum Number of Jumps to Reach the Last Index",
-      "slug": "maximum-number-of-jumps-to-reach-the-last-index",
-      "language": "cpp",
-      "day": "2026-05-10",
-      "problemUrl": "https://leetcode.com/problems/maximum-number-of-jumps-to-reach-the-last-index/",
-      "solutionPath": "leetcode/maximum-number-of-jumps-to-reach-the-last-index-2770.-maximum-number-of-jumps-to-reach-the-last-index/solution.cpp"
     }
   ]
 }
