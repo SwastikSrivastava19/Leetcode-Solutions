@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-05-24T06:25:46.773Z",
-  "totalAcceptedSubmissions": 204,
-  "uniqueProblemsSolved": 170,
-  "solvedToday": 1,
+  "generatedAt": "2026-05-24T15:07:48.506Z",
+  "totalAcceptedSubmissions": 205,
+  "uniqueProblemsSolved": 171,
+  "solvedToday": 2,
   "currentStreak": 3,
   "longestStreak": 30,
   "languageBreakdown": {
-    "cpp": 192,
+    "cpp": 193,
     "unknown": 5,
     "bash": 3,
     "java": 2,
@@ -14,7 +14,7 @@
   },
   "topicBreakdown": {
     "misc": 121,
-    "array": 42,
+    "array": 43,
     "string": 23,
     "hash-map": 7,
     "tree": 4,
@@ -49,10 +49,18 @@
     },
     {
       "date": "2026-05-24",
-      "count": 1
+      "count": 2
     }
   ],
   "recentProblems": [
+    {
+      "title": "3940. Limit Occurrences in Sorted Array",
+      "slug": "limit-occurrences-in-sorted-array",
+      "language": "cpp",
+      "day": "2026-05-24",
+      "problemUrl": "https://leetcode.com/problems/limit-occurrences-in-sorted-array/",
+      "solutionPath": "leetcode/limit-occurrences-in-sorted-array-3940.-limit-occurrences-in-sorted-array/solution.cpp"
+    },
     {
       "title": "1. Two Sum",
       "slug": "two-sum",
@@ -124,14 +132,6 @@
       "day": "2026-05-22",
       "problemUrl": "https://leetcode.com/problems/house-robber/",
       "solutionPath": "leetcode/house-robber-198.-house-robber/solution.cpp"
-    },
-    {
-      "title": "197. Rising Temperature",
-      "slug": "rising-temperature",
-      "language": "mysql",
-      "day": "2026-05-22",
-      "problemUrl": "https://leetcode.com/problems/rising-temperature/",
-      "solutionPath": "leetcode/rising-temperature-197.-rising-temperature/solution.sql"
     }
   ]
 }
