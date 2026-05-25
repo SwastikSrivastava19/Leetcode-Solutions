@@ -1,19 +1,19 @@
 {
-  "generatedAt": "2026-05-24T17:39:24.317Z",
-  "totalAcceptedSubmissions": 206,
-  "uniqueProblemsSolved": 172,
-  "solvedToday": 3,
-  "currentStreak": 3,
+  "generatedAt": "2026-05-25T16:42:15.392Z",
+  "totalAcceptedSubmissions": 207,
+  "uniqueProblemsSolved": 173,
+  "solvedToday": 1,
+  "currentStreak": 4,
   "longestStreak": 30,
   "languageBreakdown": {
-    "cpp": 194,
+    "cpp": 195,
     "unknown": 5,
     "bash": 3,
     "java": 2,
     "mysql": 2
   },
   "topicBreakdown": {
-    "misc": 122,
+    "misc": 123,
     "array": 43,
     "string": 23,
     "hash-map": 7,
@@ -23,10 +23,6 @@
     "binary-search": 1
   },
   "last7Days": [
-    {
-      "date": "2026-05-18",
-      "count": 0
-    },
     {
       "date": "2026-05-19",
       "count": 0
@@ -50,9 +46,21 @@
     {
       "date": "2026-05-24",
       "count": 3
+    },
+    {
+      "date": "2026-05-25",
+      "count": 1
     }
   ],
   "recentProblems": [
+    {
+      "title": "1871. Jump Game VII",
+      "slug": "jump-game-vii",
+      "language": "cpp",
+      "day": "2026-05-25",
+      "problemUrl": "https://leetcode.com/problems/jump-game-vii/",
+      "solutionPath": "leetcode/jump-game-vii-1871.-jump-game-vii/solution.cpp"
+    },
     {
       "title": "1340. Jump Game V",
       "slug": "jump-game-v",
@@ -124,14 +132,6 @@
       "day": "2026-05-22",
       "problemUrl": "https://leetcode.com/problems/happy-number/",
       "solutionPath": "leetcode/happy-number-202.-happy-number/solution.cpp"
-    },
-    {
-      "title": "205. Isomorphic Strings",
-      "slug": "isomorphic-strings",
-      "language": "cpp",
-      "day": "2026-05-22",
-      "problemUrl": "https://leetcode.com/problems/isomorphic-strings/",
-      "solutionPath": "leetcode/isomorphic-strings-205.-isomorphic-strings/solution.cpp"
     }
   ]
 }
