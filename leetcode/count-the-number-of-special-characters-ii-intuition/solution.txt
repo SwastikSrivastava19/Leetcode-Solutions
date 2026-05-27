@@ -1,0 +1,29 @@
+// Problem: Intuition
+// URL: https://leetcode.com/problems/count-the-number-of-special-characters-ii/
+// Language: unknown
+// Submission ID: dom-1779871162513
+// Submitted At: 2026-05-27T08:39:23.872Z
+# Intuition
+<!-- Describe your first thoughts on how to solve this problem. -->
+# Approach
+<!-- Describe your approach to solving the problem. -->
+# Complexity
+- Time complexity:
+<!-- Add your time complexity here, e.g. $$O(n)$$ -->
+- Space complexity:
+<!-- Add your space complexity here, e.g. $$O(n)$$ -->
+# Code
+```cpp []
+class Solution {
+public:
+    int numberOfSpecialChars(string word) {
+        unordered_set<char>st(word.begin() , word.end());
+        int count = 0;
+        unordered_map<char , int> upper;
+        unordered_map<char , int> lower;
+        for(int i=0; i<word.size(); i++){
+            if(islower(word[i])){
+                // if(lower.find(word[i]) == lower.end()){
+                    lower[word[i]] = i;
+                // }
+            }
