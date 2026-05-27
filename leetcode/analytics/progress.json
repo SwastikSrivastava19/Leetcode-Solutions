@@ -1,19 +1,19 @@
 {
-  "generatedAt": "2026-05-25T16:42:15.392Z",
-  "totalAcceptedSubmissions": 207,
-  "uniqueProblemsSolved": 173,
+  "generatedAt": "2026-05-27T06:02:27.108Z",
+  "totalAcceptedSubmissions": 208,
+  "uniqueProblemsSolved": 174,
   "solvedToday": 1,
-  "currentStreak": 4,
+  "currentStreak": 1,
   "longestStreak": 30,
   "languageBreakdown": {
-    "cpp": 195,
+    "cpp": 196,
     "unknown": 5,
     "bash": 3,
     "java": 2,
     "mysql": 2
   },
   "topicBreakdown": {
-    "misc": 123,
+    "misc": 124,
     "array": 43,
     "string": 23,
     "hash-map": 7,
@@ -23,14 +23,6 @@
     "binary-search": 1
   },
   "last7Days": [
-    {
-      "date": "2026-05-19",
-      "count": 0
-    },
-    {
-      "date": "2026-05-20",
-      "count": 0
-    },
     {
       "date": "2026-05-21",
       "count": 0
@@ -50,9 +42,25 @@
     {
       "date": "2026-05-25",
       "count": 1
+    },
+    {
+      "date": "2026-05-26",
+      "count": 0
+    },
+    {
+      "date": "2026-05-27",
+      "count": 1
     }
   ],
   "recentProblems": [
+    {
+      "title": "3120. Count the Number of Special Characters I",
+      "slug": "count-the-number-of-special-characters-i",
+      "language": "cpp",
+      "day": "2026-05-27",
+      "problemUrl": "https://leetcode.com/problems/count-the-number-of-special-characters-i/",
+      "solutionPath": "leetcode/count-the-number-of-special-characters-i-3120.-count-the-number-of-special-characters-i/solution.cpp"
+    },
     {
       "title": "1871. Jump Game VII",
       "slug": "jump-game-vii",
@@ -124,14 +132,6 @@
       "day": "2026-05-23",
       "problemUrl": "https://leetcode.com/problems/minimum-swaps-to-move-zeros-to-end/",
       "solutionPath": "leetcode/minimum-swaps-to-move-zeros-to-end-q1.-minimum-swaps-to-move-zeros-to-end/solution.txt"
-    },
-    {
-      "title": "202. Happy Number",
-      "slug": "happy-number",
-      "language": "cpp",
-      "day": "2026-05-22",
-      "problemUrl": "https://leetcode.com/problems/happy-number/",
-      "solutionPath": "leetcode/happy-number-202.-happy-number/solution.cpp"
     }
   ]
 }
