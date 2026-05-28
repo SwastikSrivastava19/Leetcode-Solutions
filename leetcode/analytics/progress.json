@@ -1,19 +1,19 @@
 {
-  "generatedAt": "2026-05-27T08:39:25.096Z",
-  "totalAcceptedSubmissions": 209,
-  "uniqueProblemsSolved": 175,
-  "solvedToday": 2,
-  "currentStreak": 1,
+  "generatedAt": "2026-05-28T16:33:32.932Z",
+  "totalAcceptedSubmissions": 210,
+  "uniqueProblemsSolved": 176,
+  "solvedToday": 1,
+  "currentStreak": 2,
   "longestStreak": 30,
   "languageBreakdown": {
-    "cpp": 196,
+    "cpp": 197,
     "unknown": 6,
     "bash": 3,
     "java": 2,
     "mysql": 2
   },
   "topicBreakdown": {
-    "misc": 125,
+    "misc": 126,
     "array": 43,
     "string": 23,
     "hash-map": 7,
@@ -23,10 +23,6 @@
     "binary-search": 1
   },
   "last7Days": [
-    {
-      "date": "2026-05-21",
-      "count": 0
-    },
     {
       "date": "2026-05-22",
       "count": 11
@@ -50,9 +46,21 @@
     {
       "date": "2026-05-27",
       "count": 2
+    },
+    {
+      "date": "2026-05-28",
+      "count": 1
     }
   ],
   "recentProblems": [
+    {
+      "title": "3093. Longest Common Suffix Queries",
+      "slug": "longest-common-suffix-queries",
+      "language": "cpp",
+      "day": "2026-05-28",
+      "problemUrl": "https://leetcode.com/problems/longest-common-suffix-queries/",
+      "solutionPath": "leetcode/longest-common-suffix-queries-3093.-longest-common-suffix-queries/solution.cpp"
+    },
     {
       "title": "Intuition",
       "slug": "count-the-number-of-special-characters-ii",
@@ -124,14 +132,6 @@
       "day": "2026-05-23",
       "problemUrl": "https://leetcode.com/problems/maximum-path-intersection-sum-in-a-grid/",
       "solutionPath": "leetcode/maximum-path-intersection-sum-in-a-grid-q3.-maximum-path-intersection-sum-in-a-grid/solution.txt"
-    },
-    {
-      "title": "Q2. Minimum Operations to Make Array Modulo Alternating I",
-      "slug": "minimum-operations-to-make-array-modulo-alternating-i",
-      "language": "unknown",
-      "day": "2026-05-23",
-      "problemUrl": "https://leetcode.com/problems/minimum-operations-to-make-array-modulo-alternating-i/",
-      "solutionPath": "leetcode/minimum-operations-to-make-array-modulo-alternating-i-q2.-minimum-operations-to-make-array-modulo-alternating-i/solution.txt"
     }
   ]
 }
