@@ -1,19 +1,19 @@
 {
-  "generatedAt": "2026-05-29T09:21:51.937Z",
-  "totalAcceptedSubmissions": 211,
-  "uniqueProblemsSolved": 177,
+  "generatedAt": "2026-05-30T19:57:34.024Z",
+  "totalAcceptedSubmissions": 212,
+  "uniqueProblemsSolved": 178,
   "solvedToday": 1,
-  "currentStreak": 3,
+  "currentStreak": 1,
   "longestStreak": 30,
   "languageBreakdown": {
-    "cpp": 198,
+    "cpp": 199,
     "unknown": 6,
     "bash": 3,
     "java": 2,
     "mysql": 2
   },
   "topicBreakdown": {
-    "misc": 126,
+    "misc": 127,
     "array": 44,
     "string": 23,
     "hash-map": 7,
@@ -23,14 +23,6 @@
     "binary-search": 1
   },
   "last7Days": [
-    {
-      "date": "2026-05-23",
-      "count": 6
-    },
-    {
-      "date": "2026-05-24",
-      "count": 3
-    },
     {
       "date": "2026-05-25",
       "count": 1
@@ -50,9 +42,25 @@
     {
       "date": "2026-05-29",
       "count": 1
+    },
+    {
+      "date": "2026-05-30",
+      "count": 0
+    },
+    {
+      "date": "2026-05-31",
+      "count": 1
     }
   ],
   "recentProblems": [
+    {
+      "title": "3161. Block Placement Queries",
+      "slug": "block-placement-queries",
+      "language": "cpp",
+      "day": "2026-05-31",
+      "problemUrl": "https://leetcode.com/problems/block-placement-queries/",
+      "solutionPath": "leetcode/block-placement-queries-3161.-block-placement-queries/solution.cpp"
+    },
     {
       "title": "1945. Sum of Digits of String After Convert",
       "slug": "sum-of-digits-of-string-after-convert",
@@ -124,14 +132,6 @@
       "day": "2026-05-23",
       "problemUrl": "https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/",
       "solutionPath": "leetcode/check-if-array-is-sorted-and-rotated-1752.-check-if-array-is-sorted-and-rotated/solution.cpp"
-    },
-    {
-      "title": "Q4. Count Non Adjacent Subsets in a Rooted Tree",
-      "slug": "count-non-adjacent-subsets-in-a-rooted-tree",
-      "language": "unknown",
-      "day": "2026-05-23",
-      "problemUrl": "https://leetcode.com/problems/count-non-adjacent-subsets-in-a-rooted-tree/",
-      "solutionPath": "leetcode/count-non-adjacent-subsets-in-a-rooted-tree-q4.-count-non-adjacent-subsets-in-a-rooted-tree/solution.txt"
     }
   ]
 }
