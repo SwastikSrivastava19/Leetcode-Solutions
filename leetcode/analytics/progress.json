@@ -1,21 +1,21 @@
 {
-  "generatedAt": "2026-05-31T09:54:31.224Z",
-  "totalAcceptedSubmissions": 216,
-  "uniqueProblemsSolved": 180,
-  "solvedToday": 5,
+  "generatedAt": "2026-05-31T09:55:32.948Z",
+  "totalAcceptedSubmissions": 218,
+  "uniqueProblemsSolved": 182,
+  "solvedToday": 7,
   "currentStreak": 1,
   "longestStreak": 30,
   "languageBreakdown": {
-    "cpp": 202,
+    "cpp": 204,
     "unknown": 7,
     "bash": 3,
     "java": 2,
     "mysql": 2
   },
   "topicBreakdown": {
-    "misc": 131,
+    "misc": 132,
     "array": 44,
-    "string": 23,
+    "string": 24,
     "hash-map": 7,
     "tree": 4,
     "two-pointers": 3,
@@ -49,10 +49,26 @@
     },
     {
       "date": "2026-05-31",
-      "count": 5
+      "count": 7
     }
   ],
   "recentProblems": [
+    {
+      "title": "3146. Permutation Difference between Two Strings",
+      "slug": "permutation-difference-between-two-strings",
+      "language": "cpp",
+      "day": "2026-05-31",
+      "problemUrl": "https://leetcode.com/problems/permutation-difference-between-two-strings/",
+      "solutionPath": "leetcode/permutation-difference-between-two-strings-3146.-permutation-difference-between-two-strings/solution.cpp"
+    },
+    {
+      "title": "136. Single Number",
+      "slug": "single-number",
+      "language": "cpp",
+      "day": "2026-05-31",
+      "problemUrl": "https://leetcode.com/problems/single-number/",
+      "solutionPath": "leetcode/single-number-136.-single-number/solution.cpp"
+    },
     {
       "title": "389. Find the Difference",
       "slug": "find-the-difference",
@@ -116,22 +132,6 @@
       "day": "2026-05-25",
       "problemUrl": "https://leetcode.com/problems/jump-game-vii/",
       "solutionPath": "leetcode/jump-game-vii-1871.-jump-game-vii/solution.cpp"
-    },
-    {
-      "title": "1340. Jump Game V",
-      "slug": "jump-game-v",
-      "language": "cpp",
-      "day": "2026-05-24",
-      "problemUrl": "https://leetcode.com/problems/jump-game-v/",
-      "solutionPath": "leetcode/jump-game-v-1340.-jump-game-v/solution.cpp"
-    },
-    {
-      "title": "3940. Limit Occurrences in Sorted Array",
-      "slug": "limit-occurrences-in-sorted-array",
-      "language": "cpp",
-      "day": "2026-05-24",
-      "problemUrl": "https://leetcode.com/problems/limit-occurrences-in-sorted-array/",
-      "solutionPath": "leetcode/limit-occurrences-in-sorted-array-3940.-limit-occurrences-in-sorted-array/solution.cpp"
     }
   ]
 }
