@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-06-01T05:20:08.584Z",
-  "totalAcceptedSubmissions": 220,
-  "uniqueProblemsSolved": 184,
-  "solvedToday": 2,
+  "generatedAt": "2026-06-01T10:54:46.099Z",
+  "totalAcceptedSubmissions": 221,
+  "uniqueProblemsSolved": 185,
+  "solvedToday": 3,
   "currentStreak": 2,
   "longestStreak": 30,
   "languageBreakdown": {
-    "cpp": 205,
+    "cpp": 206,
     "unknown": 8,
     "bash": 3,
     "java": 2,
@@ -15,7 +15,7 @@
   "topicBreakdown": {
     "misc": 134,
     "array": 44,
-    "string": 24,
+    "string": 25,
     "hash-map": 7,
     "tree": 4,
     "two-pointers": 3,
@@ -49,10 +49,18 @@
     },
     {
       "date": "2026-06-01",
-      "count": 2
+      "count": 3
     }
   ],
   "recentProblems": [
+    {
+      "title": "409. Longest Palindrome",
+      "slug": "longest-palindrome",
+      "language": "cpp",
+      "day": "2026-06-01",
+      "problemUrl": "https://leetcode.com/problems/longest-palindrome/",
+      "solutionPath": "leetcode/longest-palindrome-409.-longest-palindrome/solution.cpp"
+    },
     {
       "title": "273. Integer to English Words",
       "slug": "integer-to-english-words",
@@ -124,14 +132,6 @@
       "day": "2026-05-28",
       "problemUrl": "https://leetcode.com/problems/longest-common-suffix-queries/",
       "solutionPath": "leetcode/longest-common-suffix-queries-3093.-longest-common-suffix-queries/solution.cpp"
-    },
-    {
-      "title": "Intuition",
-      "slug": "count-the-number-of-special-characters-ii",
-      "language": "unknown",
-      "day": "2026-05-27",
-      "problemUrl": "https://leetcode.com/problems/count-the-number-of-special-characters-ii/",
-      "solutionPath": "leetcode/count-the-number-of-special-characters-ii-intuition/solution.txt"
     }
   ]
 }
