@@ -1,0 +1,29 @@
+// Problem: Intuition
+// URL: https://leetcode.com/problems/minimum-cost-of-buying-candies-with-discount/
+// Language: unknown
+// Submission ID: dom-1780290348523
+// Submitted At: 2026-06-01T05:05:49.252Z
+# Intuition
+<!-- Describe your first thoughts on how to solve this problem. -->
+# Approach
+<!-- Describe your approach to solving the problem. -->
+# Complexity
+- Time complexity:
+<!-- Add your time complexity here, e.g. $$O(n)$$ -->
+- Space complexity:
+<!-- Add your space complexity here, e.g. $$O(n)$$ -->
+# Code
+```cpp []
+class Solution {
+public:
+    int minimumCost(vector<int>& cost) {
+        sort(cost.rbegin() , cost.rend());
+        // 2  2  5  6  7  9
+        long long ans = 0 , cnt = 1;
+        for(int i=0; i<cost.size(); i++){
+            if(cnt % 3 == 0){
+                cnt = 1;
+                continue;
+            } 
+            ans += cost[i];
+            cnt++;
