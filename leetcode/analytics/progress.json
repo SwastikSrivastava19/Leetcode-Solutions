@@ -1,19 +1,19 @@
 {
-  "generatedAt": "2026-05-31T09:55:32.948Z",
-  "totalAcceptedSubmissions": 218,
-  "uniqueProblemsSolved": 182,
-  "solvedToday": 7,
-  "currentStreak": 1,
+  "generatedAt": "2026-06-01T05:05:50.639Z",
+  "totalAcceptedSubmissions": 219,
+  "uniqueProblemsSolved": 183,
+  "solvedToday": 1,
+  "currentStreak": 2,
   "longestStreak": 30,
   "languageBreakdown": {
     "cpp": 204,
-    "unknown": 7,
+    "unknown": 8,
     "bash": 3,
     "java": 2,
     "mysql": 2
   },
   "topicBreakdown": {
-    "misc": 132,
+    "misc": 133,
     "array": 44,
     "string": 24,
     "hash-map": 7,
@@ -23,10 +23,6 @@
     "binary-search": 1
   },
   "last7Days": [
-    {
-      "date": "2026-05-25",
-      "count": 1
-    },
     {
       "date": "2026-05-26",
       "count": 0
@@ -50,9 +46,21 @@
     {
       "date": "2026-05-31",
       "count": 7
+    },
+    {
+      "date": "2026-06-01",
+      "count": 1
     }
   ],
   "recentProblems": [
+    {
+      "title": "Intuition",
+      "slug": "minimum-cost-of-buying-candies-with-discount",
+      "language": "unknown",
+      "day": "2026-06-01",
+      "problemUrl": "https://leetcode.com/problems/minimum-cost-of-buying-candies-with-discount/",
+      "solutionPath": "leetcode/minimum-cost-of-buying-candies-with-discount-intuition/solution.txt"
+    },
     {
       "title": "3146. Permutation Difference between Two Strings",
       "slug": "permutation-difference-between-two-strings",
@@ -124,14 +132,6 @@
       "day": "2026-05-27",
       "problemUrl": "https://leetcode.com/problems/count-the-number-of-special-characters-i/",
       "solutionPath": "leetcode/count-the-number-of-special-characters-i-3120.-count-the-number-of-special-characters-i/solution.cpp"
-    },
-    {
-      "title": "1871. Jump Game VII",
-      "slug": "jump-game-vii",
-      "language": "cpp",
-      "day": "2026-05-25",
-      "problemUrl": "https://leetcode.com/problems/jump-game-vii/",
-      "solutionPath": "leetcode/jump-game-vii-1871.-jump-game-vii/solution.cpp"
     }
   ]
 }
