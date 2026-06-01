@@ -1,19 +1,19 @@
 {
-  "generatedAt": "2026-06-01T05:05:50.639Z",
-  "totalAcceptedSubmissions": 219,
-  "uniqueProblemsSolved": 183,
-  "solvedToday": 1,
+  "generatedAt": "2026-06-01T05:20:08.584Z",
+  "totalAcceptedSubmissions": 220,
+  "uniqueProblemsSolved": 184,
+  "solvedToday": 2,
   "currentStreak": 2,
   "longestStreak": 30,
   "languageBreakdown": {
-    "cpp": 204,
+    "cpp": 205,
     "unknown": 8,
     "bash": 3,
     "java": 2,
     "mysql": 2
   },
   "topicBreakdown": {
-    "misc": 133,
+    "misc": 134,
     "array": 44,
     "string": 24,
     "hash-map": 7,
@@ -49,10 +49,18 @@
     },
     {
       "date": "2026-06-01",
-      "count": 1
+      "count": 2
     }
   ],
   "recentProblems": [
+    {
+      "title": "273. Integer to English Words",
+      "slug": "integer-to-english-words",
+      "language": "cpp",
+      "day": "2026-06-01",
+      "problemUrl": "https://leetcode.com/problems/integer-to-english-words/",
+      "solutionPath": "leetcode/integer-to-english-words-273.-integer-to-english-words/solution.cpp"
+    },
     {
       "title": "Intuition",
       "slug": "minimum-cost-of-buying-candies-with-discount",
@@ -124,14 +132,6 @@
       "day": "2026-05-27",
       "problemUrl": "https://leetcode.com/problems/count-the-number-of-special-characters-ii/",
       "solutionPath": "leetcode/count-the-number-of-special-characters-ii-intuition/solution.txt"
-    },
-    {
-      "title": "3120. Count the Number of Special Characters I",
-      "slug": "count-the-number-of-special-characters-i",
-      "language": "cpp",
-      "day": "2026-05-27",
-      "problemUrl": "https://leetcode.com/problems/count-the-number-of-special-characters-i/",
-      "solutionPath": "leetcode/count-the-number-of-special-characters-i-3120.-count-the-number-of-special-characters-i/solution.cpp"
     }
   ]
 }
